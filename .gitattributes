@@ -1,1 +1,5 @@
+# Preserve exported bytes and download checksums across platforms.
 * -text
+*.woff2 binary
+*.webp binary
+*.png binary

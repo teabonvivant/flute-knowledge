@@ -1,0 +1,6 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { PageHero,Breadcrumbs } from "@/components/site/page-shell";
+import terms from "@/data/glossary.json";
+export const metadata:Metadata={title:"長笛詞彙",description:"40 個常見長笛、樂理與研究詞彙，中英對照及相關知識主題。",alternates:{canonical:"/glossary"}};
+export default function Glossary(){return <main><Breadcrumbs items={[{label:"首頁",href:"/"},{label:"長笛詞彙"}]}/><PageHero eyebrow="隨手查閱" title="讓每個音樂名詞，都有清楚的位置" description="40 個常見詞彙，連起長笛構造、吹奏、讀譜、合奏與文獻。" image="reading"/><section className="section-band"><div className="content-wrap"><nav className="flex flex-wrap gap-2" aria-label="詞彙索引">{terms.map(t=><a key={t.id} href={`#${t.id}`} className="rounded-full border px-4 py-2 text-sm text-primary hover:bg-accent">{t.term}</a>)}</nav><dl className="mt-10 grid gap-5 md:grid-cols-2">{terms.map(t=><div id={t.id} key={t.id} className="scroll-mt-24 rounded-md border bg-card p-6"><dt className="font-serif text-2xl text-primary">{t.term}<span className="mt-2 block font-sans text-sm text-muted-foreground">{t.en}</span></dt><dd className="mt-4 text-base leading-8 text-muted-foreground">{t.description}<Link className="mt-4 block font-bold text-primary underline underline-offset-4" href={`/topics/${t.topic}`}>讀相關主題 →</Link></dd></div>)}</dl></div></section></main>}

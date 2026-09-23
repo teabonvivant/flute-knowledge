@@ -1,0 +1,61 @@
+person_bib_id,person_id,name_en,bib_id,title,relationship_note
+PB0001,FM001,Johann Joachim Quantz,B001,Versuch einer Anweisung die Flöte traversiere zu spielen / On Playing the Flute,直接列於 bibliography_seeds.related_people。
+PB0002,FM002,Theobald Boehm,B002,The Flute and Flute-Playing,直接列於 bibliography_seeds.related_people。
+PB0003,FM007,Paul Taffanel,B003,Méthode complète de flûte,直接列於 bibliography_seeds.related_people。
+PB0004,FM008,Philippe Gaubert,B003,Méthode complète de flûte,直接列於 bibliography_seeds.related_people。
+PB0005,FM007,Paul Taffanel,B004,17 Grands exercices journaliers de mécanisme,直接列於 bibliography_seeds.related_people。
+PB0006,FM008,Philippe Gaubert,B004,17 Grands exercices journaliers de mécanisme,直接列於 bibliography_seeds.related_people。
+PB0007,FM012,Marcel Moyse,B005,De la sonorité: art et technique,直接列於 bibliography_seeds.related_people。
+PB0008,FM012,Marcel Moyse,B006,Tone Development Through Interpretation,直接列於 bibliography_seeds.related_people。
+PB0009,FM030,Trevor Wye,B007,Practice Books for the Flute,直接列於 bibliography_seeds.related_people。
+PB0010,FM030,Trevor Wye,B008,Proper Flute Playing,直接列於 bibliography_seeds.related_people。
+PB0011,FM012,Marcel Moyse,B009,Marcel Moyse: An Extraordinary Man,直接列於 bibliography_seeds.related_people。
+PB0012,FM030,Trevor Wye,B009,Marcel Moyse: An Extraordinary Man,直接列於 bibliography_seeds.related_people。
+PB0013,FM029,Michel Debost,B010,The Simple Flute: From A to Z,直接列於 bibliography_seeds.related_people。
+PB0014,FM024,Peter-Lukas Graf,B011,Check-Up: 20 Basic Studies for Flutists,直接列於 bibliography_seeds.related_people。
+PB0015,FM024,Peter-Lukas Graf,B012,Interpretation: How to Shape a Melodic Line,直接列於 bibliography_seeds.related_people。
+PB0016,FM051,Robert Dick,B013,The Other Flute,直接列於 bibliography_seeds.related_people。
+PB0017,FM051,Robert Dick,B014,Tone Development Through Extended Techniques,直接列於 bibliography_seeds.related_people。
+PB0018,FM051,Robert Dick,B015,Circular Breathing for the Flutist,直接列於 bibliography_seeds.related_people。
+PB0019,FM063,Pierre-Yves Artaud,B016,Flûtes au présent / Present Day Flutes,直接列於 bibliography_seeds.related_people。
+PB0020,FM050,James Pellerite,B018,A Handbook of Literature for the Flute,直接列於 bibliography_seeds.related_people。
+PB0021,FM050,James Pellerite,B019,A Modern Guide to Fingerings for the Flute,直接列於 bibliography_seeds.related_people。
+PB0022,FM015,Leonardo De Lorenzo,B021,My Complete Story of the Flute,直接列於 bibliography_seeds.related_people。
+PB0023,FM060,Rachel Brown,B023,The Early Flute,直接列於 bibliography_seeds.related_people。
+PB0024,FM040,Walfrid Kujala,B024,The Flutist's Progress,直接列於 bibliography_seeds.related_people。
+PB0025,FM040,Walfrid Kujala,B025,Orchestral Techniques for Flute and Piccolo,直接列於 bibliography_seeds.related_people。
+PB0026,FM042,Jeanne Baxtresser,B026,Orchestral Excerpts for Flute with Piano Accompaniments,直接列於 bibliography_seeds.related_people。
+PB0027,FM085,Mary Karen Clardy,B027,The Mary Karen Clardy Flute Etudes Book,直接列於 bibliography_seeds.related_people。
+PB0028,FM086,Patricia George,B028,Flute 101: Mastering the Basics,直接列於 bibliography_seeds.related_people。
+PB0029,FM086,Patricia George,B029,Flute 102: Mastering the Basics,直接列於 bibliography_seeds.related_people。
+PB0030,FM046,Paula Robison,B030,The Paula Robison Flute Masterclass,直接列於 bibliography_seeds.related_people。
+PB0031,FM039,John Krell,B031,Kincaidiana: A Flute Player’s Notebook,直接列於 bibliography_seeds.related_people。
+PB0032,FM041,Donald Peck,B032,"The Right Place, The Right Time!",直接列於 bibliography_seeds.related_people。
+PB0033,FM056,Barthold Kuijken,B033,The Notation Is Not the Music,直接列於 bibliography_seeds.related_people。
+PB0034,FM020,Jean-Pierre Rampal,B034,"Music, My Love",直接列於 bibliography_seeds.related_people。
+PB0035,FM026,James Galway,B035,The Man with the Golden Flute,直接列於 bibliography_seeds.related_people。
+PB0036,FM076,Gareth Davies,B036,The Show Must Go On,直接列於 bibliography_seeds.related_people。
+PB0037,FM065,Philippe Bernold,B043,La Technique d'Embouchure,直接列於 bibliography_seeds.related_people。
+PB0038,FM025,Severino Gazzelloni,B044,New Sounds for Woodwind,直接列於 bibliography_seeds.related_people。
+PB0039,FM051,Robert Dick,B044,New Sounds for Woodwind,直接列於 bibliography_seeds.related_people。
+PB0040,FM063,Pierre-Yves Artaud,B044,New Sounds for Woodwind,直接列於 bibliography_seeds.related_people。
+PB0041,FM085,Mary Karen Clardy,B045,A Conversation with Mary Karen Clardy,直接列於 bibliography_seeds.related_people。
+PB0042,FM087,Linda Chesis,B046,"Master Teacher and Performer: Following Your Passion, An Interview with Linda Chesis",直接列於 bibliography_seeds.related_people。
+PB0043,FM089,Molly Alicia Barth,B047,Make Music and Achieve Success: A Conversation with Molly Barth,直接列於 bibliography_seeds.related_people。
+PB0044,FM090,Alberto Almarza,B048,The Flute Methodology of Alberto Almarza,直接列於 bibliography_seeds.related_people。
+PB0045,FM050,James Pellerite,B049,James Pellerite: The Right Place at the Right Time,直接列於 bibliography_seeds.related_people。
+PB0046,FM032,Robert Willoughby,B050,"Robert Willoughby, Legendary Flute Professor and Performer, Dies at 96",直接列於 bibliography_seeds.related_people。
+PB0047,FM016,Georges Laurent,B051,James Pappoutsakis Biography,直接列於 bibliography_seeds.related_people。
+PB0048,FM017,William Kincaid,B052,Legacy of Flute,直接列於 bibliography_seeds.related_people。
+PB0049,FM028,Geoffrey Gilbert,B053,The Gilbert Legacy,直接列於 bibliography_seeds.related_people。
+PB0050,FM037,Lois Schaefer,B054,Remembering Lois Schaefer,直接列於 bibliography_seeds.related_people。
+PB0051,FM038,Bernard Goldberg,B055,Bernard Goldberg: A biographical sketch and study of his teaching technique,直接列於 bibliography_seeds.related_people。
+PB0052,FM053,András Adorján,B056,Interview with Andras Adorjan,直接列於 bibliography_seeds.related_people。
+PB0053,FM054,Keith Underwood,B057,"Keith Underwood, Flute Fundamentals",直接列於 bibliography_seeds.related_people。
+PB0054,FM058,Stephen Preston,B058,Stephen Preston: National Flute Association Lifetime Achievement Award,直接列於 bibliography_seeds.related_people。
+PB0055,FM072,Felix Renggli,B059,Felix Renggli Biography,直接列於 bibliography_seeds.related_people。
+PB0056,FM082,Joshua Smith,B060,Joshua Smith Artist Profile,直接列於 bibliography_seeds.related_people。
+PB0057,FM083,Amy Porter,B061,Amy Porter: Anatomy of Sound,直接列於 bibliography_seeds.related_people。
+PB0058,FM088,Tara Helen O'Connor,B062,Tara Helen O'Connor Faculty Biography,直接列於 bibliography_seeds.related_people。
+PB0059,FM095,Yuki Koyama,B063,Yuki Koyama Artist Profile,直接列於 bibliography_seeds.related_people。
+PB0060,FM099,Sébastian Jacot,B064,Sébastian Jacot Artist Interview,直接列於 bibliography_seeds.related_people。

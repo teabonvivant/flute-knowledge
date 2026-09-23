@@ -1,0 +1,13 @@
+{
+  "prompt": "Use case: illustration-story. Asset type: standalone chapter illustration for a refined Hong Kong flute knowledge website.\nStyle: sophisticated literary arts journal editorial illustration, handmade paper grain, charcoal linework and matte gouache, quiet observational detail, evocative rather than technical.\nComposition: wide 3:2 landscape, beautifully balanced with breathing room and natural asymmetry. No border.\nPalette: deep forest green and near-black ink, warm cream paper, restrained copper accents, realistic silver when a flute is shown.\nConstraints: no people or body parts, no text or captions, no logos or watermarks, no readable notation, no fake historical documents, no invented anatomical or instructional diagrams. Any visible flute must be recognizable as a modern Western concert flute. Keep instrument details plausible and unobtrusive.\nSubject: High-quality over-ear headphones resting beside a few plain unlabelled LP sleeves and an open completely blank listening notebook on a reading table in afternoon light. No people or hands, no brands, no album art or typography, no writing. Intimate editorial still life, cream paper and dark forest green with restrained warm copper reflections. Visible handmade paper grain and fine charcoal/gouache rendering.",
+  "createdAt": "2026-09-22T15:08:09.174Z",
+  "origin": {
+    "method": "built-in image_gen",
+    "generatedSource": "C:\\Users\\teabo\\.codex\\generated_images\\01a0c76e-009f-7243-9625-fdc350e904f6\\exec-0bde51b6-faec-47d8-964a-04ea1224d01e.png",
+    "workingImage": "C:\\Users\\teabo\\Documents\\Codex\\2026-09-22\\sites-project-appgprj-6a5ec35b04a881918059f46be6454736\\work\\illustrations\\listening.png",
+    "editPrompt": null,
+    "status": "Pre-existing article raster retained byte-for-byte.",
+    "record": "article-illustration-prompts.json in the delivery archive"
+  },
+  "sha256": "dc239bd1a309a7fffadd803f51e1c9b2b5fa74486fbdf9014bad159dfb66ccaa"
+}

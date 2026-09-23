@@ -1,0 +1,863 @@
+person_id,name_en,topic_keyword
+FM001,Johann Joachim Quantz,baroque articulation
+FM001,Johann Joachim Quantz,ornamentation
+FM001,Johann Joachim Quantz,rhetoric
+FM001,Johann Joachim Quantz,traverso technique
+FM001,Johann Joachim Quantz,historical pedagogy
+FM001,Johann Joachim Quantz,flautist
+FM001,Johann Joachim Quantz,composer
+FM001,Johann Joachim Quantz,pedagogue
+FM001,Johann Joachim Quantz,flute maker
+FM001,Johann Joachim Quantz,18th-century German traverso tradition
+FM001,Johann Joachim Quantz,teacher of Frederick the Great
+FM002,Theobald Boehm,flute acoustics
+FM002,Theobald Boehm,mechanism
+FM002,Theobald Boehm,tone-hole design
+FM002,Theobald Boehm,flute construction
+FM002,Theobald Boehm,modern instrument history
+FM002,Theobald Boehm,flautist
+FM002,Theobald Boehm,composer
+FM002,Theobald Boehm,inventor
+FM002,Theobald Boehm,flute maker
+FM002,Theobald Boehm,Boehm-system modern flute design
+FM002,Theobald Boehm,Munich school
+FM003,Charles Nicholson,English flute tone
+FM003,Charles Nicholson,keyed flute
+FM003,Charles Nicholson,19th-century virtuosity
+FM003,Charles Nicholson,Nicholson-style embouchure
+FM003,Charles Nicholson,flautist
+FM003,Charles Nicholson,composer
+FM003,Charles Nicholson,pedagogue
+FM003,Charles Nicholson,English pre-Boehm flute tradition
+FM003,Charles Nicholson,powerful tone school
+FM004,Jean-Louis Tulou,French method tradition
+FM004,Jean-Louis Tulou,concours pieces
+FM004,Jean-Louis Tulou,simple-system flute
+FM004,Jean-Louis Tulou,romantic phrasing
+FM004,Jean-Louis Tulou,flautist
+FM004,Jean-Louis Tulou,composer
+FM004,Jean-Louis Tulou,Paris Conservatoire professor
+FM004,Jean-Louis Tulou,Early French Conservatoire school
+FM004,Jean-Louis Tulou,simple-system flute tradition
+FM005,Louis Dorus,Boehm flute in France
+FM005,Louis Dorus,French orchestral school
+FM005,Louis Dorus,19th-century pedagogy
+FM005,Louis Dorus,flautist
+FM005,Louis Dorus,Paris Conservatoire professor
+FM005,Louis Dorus,French Boehm-flute adoption
+FM005,Louis Dorus,Dorus-Gaubert/Taffanel ancestry
+FM006,Joseph-Henri Altès,French technical method
+FM006,Joseph-Henri Altès,scales
+FM006,Joseph-Henri Altès,etudes
+FM006,Joseph-Henri Altès,conservatoire pedagogy
+FM006,Joseph-Henri Altès,flautist
+FM006,Joseph-Henri Altès,composer
+FM006,Joseph-Henri Altès,Paris Conservatoire professor
+FM006,Joseph-Henri Altès,French Conservatoire method lineage
+FM007,Paul Taffanel,French tone
+FM007,Paul Taffanel,phrasing
+FM007,Paul Taffanel,daily exercises
+FM007,Paul Taffanel,chamber music revival
+FM007,Paul Taffanel,modern flute pedagogy
+FM007,Paul Taffanel,flautist
+FM007,Paul Taffanel,conductor
+FM007,Paul Taffanel,Paris Conservatoire professor
+FM007,Paul Taffanel,Modern French flute school founder
+FM007,Paul Taffanel,teacher of Gaubert and Hennebains
+FM008,Philippe Gaubert,French repertoire
+FM008,Philippe Gaubert,sonatas
+FM008,Philippe Gaubert,tone
+FM008,Philippe Gaubert,phrasing
+FM008,Philippe Gaubert,pedagogy
+FM008,Philippe Gaubert,flautist
+FM008,Philippe Gaubert,composer
+FM008,Philippe Gaubert,conductor
+FM008,Philippe Gaubert,Paris Conservatoire professor
+FM008,Philippe Gaubert,Taffanel student
+FM008,Philippe Gaubert,French Conservatoire school
+FM009,Adolphe Hennebains,French sonority
+FM009,Adolphe Hennebains,Conservatoire lineage
+FM009,Adolphe Hennebains,early modern teaching
+FM009,Adolphe Hennebains,flautist
+FM009,Adolphe Hennebains,Paris Conservatoire professor
+FM009,Adolphe Hennebains,Taffanel lineage
+FM009,Adolphe Hennebains,teacher of Marcel Moyse and René Le Roy
+FM010,Georges Barrère,French-American flute school
+FM010,Georges Barrère,chamber music
+FM010,Georges Barrère,Varèse Density 21.5
+FM010,Georges Barrère,American modernism
+FM010,Georges Barrère,flautist
+FM010,Georges Barrère,chamber musician
+FM010,Georges Barrère,educator
+FM010,Georges Barrère,Taffanel student
+FM010,Georges Barrère,French school transplanted to the United States
+FM011,Louis Fleury,Debussy
+FM011,Louis Fleury,solo flute repertoire
+FM011,Louis Fleury,early 20th-century French modernism
+FM011,Louis Fleury,flautist
+FM011,Louis Fleury,contemporary music advocate
+FM011,Louis Fleury,French school
+FM011,Louis Fleury,Debussy circle
+FM012,Marcel Moyse,sonority
+FM012,Marcel Moyse,vocal phrasing
+FM012,Marcel Moyse,tone development
+FM012,Marcel Moyse,melodic studies
+FM012,Marcel Moyse,masterclass pedagogy
+FM012,Marcel Moyse,flautist
+FM012,Marcel Moyse,pedagogue
+FM012,Marcel Moyse,method author
+FM012,Marcel Moyse,Hennebains and Taffanel-Gaubert French school
+FM012,Marcel Moyse,Marlboro and Vermont teaching legacy
+FM013,René Le Roy,French chamber music
+FM013,René Le Roy,tone
+FM013,René Le Roy,phrasing
+FM013,René Le Roy,transatlantic pedagogy
+FM013,René Le Roy,flautist
+FM013,René Le Roy,chamber musician
+FM013,René Le Roy,professor
+FM013,René Le Roy,French school
+FM013,René Le Roy,Hennebains lineage
+FM014,Gaston Crunelle,French pedagogy
+FM014,Gaston Crunelle,concours pieces
+FM014,Gaston Crunelle,postwar French flute school
+FM014,Gaston Crunelle,flautist
+FM014,Gaston Crunelle,Paris Conservatoire professor
+FM014,Gaston Crunelle,French Conservatoire lineage
+FM014,Gaston Crunelle,teacher of Rampal
+FM014,Gaston Crunelle,Larrieu and Debost
+FM015,Leonardo De Lorenzo,flute history
+FM015,Leonardo De Lorenzo,virtuoso etudes
+FM015,Leonardo De Lorenzo,Italian-American pedagogy
+FM015,Leonardo De Lorenzo,flautist
+FM015,Leonardo De Lorenzo,composer
+FM015,Leonardo De Lorenzo,historian
+FM015,Leonardo De Lorenzo,professor
+FM015,Leonardo De Lorenzo,Italian-American flute tradition
+FM016,Georges Laurent,French-American orchestral style
+FM016,Georges Laurent,Boston school
+FM016,Georges Laurent,tone and orchestral repertoire
+FM016,Georges Laurent,flautist
+FM016,Georges Laurent,orchestral principal
+FM016,Georges Laurent,professor
+FM016,Georges Laurent,French school in Boston
+FM017,William Kincaid,American tone school
+FM017,William Kincaid,orchestral excerpts
+FM017,William Kincaid,teaching lineage
+FM017,William Kincaid,Philadelphia sound
+FM017,William Kincaid,flautist
+FM017,William Kincaid,orchestral principal
+FM017,William Kincaid,Curtis professor
+FM017,William Kincaid,American school
+FM017,William Kincaid,Philadelphia Orchestra
+FM017,William Kincaid,Curtis lineage
+FM018,Joseph Mariano,Eastman teaching lineage
+FM018,Joseph Mariano,American repertoire
+FM018,Joseph Mariano,orchestral sound
+FM018,Joseph Mariano,flautist
+FM018,Joseph Mariano,Eastman professor
+FM018,Joseph Mariano,orchestral principal
+FM018,Joseph Mariano,Kincaid/Curtis lineage
+FM018,Joseph Mariano,Eastman school
+FM019,Julius Baker,American orchestral playing
+FM019,Julius Baker,Mozart and Bach
+FM019,Julius Baker,teaching lineage
+FM019,Julius Baker,sound concept
+FM019,Julius Baker,flautist
+FM019,Julius Baker,orchestral principal
+FM019,Julius Baker,Juilliard/Curtis professor
+FM019,Julius Baker,Kincaid and Mariano lineage
+FM019,Julius Baker,American orchestral school
+FM020,Jean-Pierre Rampal,solo flute revival
+FM020,Jean-Pierre Rampal,French repertoire
+FM020,Jean-Pierre Rampal,baroque revival on modern flute
+FM020,Jean-Pierre Rampal,recording history
+FM020,Jean-Pierre Rampal,flautist
+FM020,Jean-Pierre Rampal,soloist
+FM020,Jean-Pierre Rampal,professor
+FM020,Jean-Pierre Rampal,Crunelle and French Conservatoire lineage
+FM021,Alain Marion,French sonority
+FM021,Alain Marion,competition repertoire
+FM021,Alain Marion,modern French pedagogy
+FM021,Alain Marion,flautist
+FM021,Alain Marion,Paris Conservatoire professor
+FM021,Alain Marion,French Conservatoire school
+FM021,Alain Marion,Rampal and Moyse influence
+FM022,Maxence Larrieu,French repertoire
+FM022,Maxence Larrieu,concours lineage
+FM022,Maxence Larrieu,tone and elegance
+FM022,Maxence Larrieu,chamber music
+FM022,Maxence Larrieu,flautist
+FM022,Maxence Larrieu,soloist
+FM022,Maxence Larrieu,professor
+FM022,Maxence Larrieu,Crunelle/French school
+FM023,Aurèle Nicolet,Bach
+FM023,Aurèle Nicolet,Berio
+FM023,Aurèle Nicolet,Stockhausen
+FM023,Aurèle Nicolet,contemporary flute
+FM023,Aurèle Nicolet,orchestral sound
+FM023,Aurèle Nicolet,flautist
+FM023,Aurèle Nicolet,orchestral principal
+FM023,Aurèle Nicolet,professor
+FM023,Aurèle Nicolet,contemporary music advocate
+FM023,Aurèle Nicolet,French and Swiss-German modern school
+FM024,Peter-Lukas Graf,interpretation
+FM024,Peter-Lukas Graf,articulation
+FM024,Peter-Lukas Graf,tone
+FM024,Peter-Lukas Graf,standard repertoire
+FM024,Peter-Lukas Graf,pedagogy
+FM024,Peter-Lukas Graf,flautist
+FM024,Peter-Lukas Graf,conductor
+FM024,Peter-Lukas Graf,professor
+FM024,Peter-Lukas Graf,author
+FM024,Peter-Lukas Graf,Swiss school
+FM024,Peter-Lukas Graf,French influence
+FM025,Severino Gazzelloni,new music
+FM025,Severino Gazzelloni,Italian avant-garde
+FM025,Severino Gazzelloni,Berio
+FM025,Severino Gazzelloni,Maderna
+FM025,Severino Gazzelloni,extended flute writing
+FM025,Severino Gazzelloni,flautist
+FM025,Severino Gazzelloni,contemporary music specialist
+FM025,Severino Gazzelloni,professor
+FM025,Severino Gazzelloni,Italian modern flute school
+FM026,James Galway,solo career
+FM026,James Galway,tone
+FM026,James Galway,crossover
+FM026,James Galway,Irish flute identity
+FM026,James Galway,public pedagogy
+FM026,James Galway,flautist
+FM026,James Galway,soloist
+FM026,James Galway,educator
+FM026,James Galway,British orchestral school
+FM026,James Galway,Paris studies with Rampal and Moyse
+FM027,William Bennett,tone colour
+FM027,William Bennett,scale tuning
+FM027,William Bennett,teaching lineage
+FM027,William Bennett,Moyse tradition
+FM027,William Bennett,flute acoustics in practice
+FM027,William Bennett,flautist
+FM027,William Bennett,professor
+FM027,William Bennett,orchestral principal
+FM027,William Bennett,British school
+FM027,William Bennett,Moyse and Rampal influence
+FM028,Geoffrey Gilbert,British flute pedagogy
+FM028,Geoffrey Gilbert,orchestral excerpt tradition
+FM028,Geoffrey Gilbert,tone and discipline
+FM028,Geoffrey Gilbert,flautist
+FM028,Geoffrey Gilbert,orchestral principal
+FM028,Geoffrey Gilbert,professor
+FM028,Geoffrey Gilbert,British school
+FM028,Geoffrey Gilbert,later American influence at Florida State
+FM029,Michel Debost,French style
+FM029,Michel Debost,teaching aphorisms
+FM029,Michel Debost,tone
+FM029,Michel Debost,articulation
+FM029,Michel Debost,orchestral playing
+FM029,Michel Debost,flautist
+FM029,Michel Debost,professor
+FM029,Michel Debost,author
+FM029,Michel Debost,Crunelle/French school
+FM029,Michel Debost,Oberlin teaching legacy
+FM030,Trevor Wye,tone
+FM030,Trevor Wye,technique
+FM030,Trevor Wye,articulation
+FM030,Trevor Wye,intonation
+FM030,Trevor Wye,practice design
+FM030,Trevor Wye,graded pedagogy
+FM030,Trevor Wye,flautist
+FM030,Trevor Wye,pedagogue
+FM030,Trevor Wye,author
+FM030,Trevor Wye,British pedagogy
+FM030,Trevor Wye,Moyse influence
+FM031,Louis Moyse,flute editions
+FM031,Louis Moyse,chamber music
+FM031,Louis Moyse,French phrasing
+FM031,Louis Moyse,pedagogical repertoire
+FM031,Louis Moyse,flautist
+FM031,Louis Moyse,pianist
+FM031,Louis Moyse,composer
+FM031,Louis Moyse,editor
+FM031,Louis Moyse,professor
+FM031,Louis Moyse,Moyse family and French school
+FM032,Robert Willoughby,American teaching
+FM032,Robert Willoughby,tone
+FM032,Robert Willoughby,chamber music
+FM032,Robert Willoughby,student-centered pedagogy
+FM032,Robert Willoughby,flautist
+FM032,Robert Willoughby,Oberlin professor
+FM032,Robert Willoughby,pedagogue
+FM032,Robert Willoughby,American school
+FM032,Robert Willoughby,Oberlin lineage
+FM033,Samuel Baron,chamber music
+FM033,Samuel Baron,new music
+FM033,Samuel Baron,Bach
+FM033,Samuel Baron,ensemble pedagogy
+FM033,Samuel Baron,flautist
+FM033,Samuel Baron,chamber musician
+FM033,Samuel Baron,professor
+FM033,Samuel Baron,American chamber music school
+FM034,Albert Tipton,orchestral playing
+FM034,Albert Tipton,American academic flute teaching
+FM034,Albert Tipton,competition repertoire
+FM034,Albert Tipton,flautist
+FM034,Albert Tipton,conductor
+FM034,Albert Tipton,professor
+FM034,Albert Tipton,American orchestral and academic school
+FM035,Frances Blaisdell,women in orchestras
+FM035,Frances Blaisdell,American flute pedagogy
+FM035,Frances Blaisdell,historical barriers
+FM035,Frances Blaisdell,chamber music
+FM035,Frances Blaisdell,flautist
+FM035,Frances Blaisdell,professor
+FM035,Frances Blaisdell,orchestral trailblazer
+FM035,Frances Blaisdell,American school
+FM035,Frances Blaisdell,Barrère influence
+FM036,Doriot Anthony Dwyer,women in major orchestras
+FM036,Doriot Anthony Dwyer,Boston sound
+FM036,Doriot Anthony Dwyer,orchestral excerpts
+FM036,Doriot Anthony Dwyer,principal flute leadership
+FM036,Doriot Anthony Dwyer,flautist
+FM036,Doriot Anthony Dwyer,orchestral principal
+FM036,Doriot Anthony Dwyer,professor
+FM036,Doriot Anthony Dwyer,American orchestral school
+FM037,Lois Schaefer,piccolo
+FM037,Lois Schaefer,orchestral flute
+FM037,Lois Schaefer,Boston Symphony tradition
+FM037,Lois Schaefer,women in orchestras
+FM037,Lois Schaefer,flautist
+FM037,Lois Schaefer,orchestral principal
+FM037,Lois Schaefer,professor
+FM037,Lois Schaefer,American orchestral school
+FM037,Lois Schaefer,Boston lineage
+FM038,Bernard Goldberg,orchestral playing
+FM038,Bernard Goldberg,American concerto repertoire
+FM038,Bernard Goldberg,tone
+FM038,Bernard Goldberg,teaching lineage
+FM038,Bernard Goldberg,flautist
+FM038,Bernard Goldberg,orchestral principal
+FM038,Bernard Goldberg,professor
+FM038,Bernard Goldberg,American orchestral school
+FM039,John Krell,piccolo
+FM039,John Krell,orchestral excerpts
+FM039,John Krell,phrasing
+FM039,John Krell,breath and sound
+FM039,John Krell,piccoloist
+FM039,John Krell,flautist
+FM039,John Krell,author
+FM039,John Krell,teacher
+FM039,John Krell,Philadelphia Orchestra piccolo tradition
+FM039,John Krell,Kincaid lineage
+FM040,Walfrid Kujala,piccolo
+FM040,Walfrid Kujala,rhythm
+FM040,Walfrid Kujala,orchestral excerpts
+FM040,Walfrid Kujala,pedagogy
+FM040,Walfrid Kujala,audition preparation
+FM040,Walfrid Kujala,piccoloist
+FM040,Walfrid Kujala,flautist
+FM040,Walfrid Kujala,professor
+FM040,Walfrid Kujala,author
+FM040,Walfrid Kujala,Chicago Symphony and Northwestern school
+FM041,Donald Peck,orchestral excerpts
+FM041,Donald Peck,Chicago Symphony style
+FM041,Donald Peck,orchestral memoir
+FM041,Donald Peck,flautist
+FM041,Donald Peck,orchestral principal
+FM041,Donald Peck,author
+FM041,Donald Peck,Chicago Symphony orchestral tradition
+FM042,Jeanne Baxtresser,orchestral excerpts
+FM042,Jeanne Baxtresser,audition preparation
+FM042,Jeanne Baxtresser,sound
+FM042,Jeanne Baxtresser,professional leadership
+FM042,Jeanne Baxtresser,flautist
+FM042,Jeanne Baxtresser,orchestral principal
+FM042,Jeanne Baxtresser,professor
+FM042,Jeanne Baxtresser,author
+FM042,Jeanne Baxtresser,American orchestral school
+FM042,Jeanne Baxtresser,New York Philharmonic
+FM043,Bonita Boyd,tone
+FM043,Bonita Boyd,American repertoire
+FM043,Bonita Boyd,teaching lineage
+FM043,Bonita Boyd,orchestral and solo balance
+FM043,Bonita Boyd,flautist
+FM043,Bonita Boyd,orchestral principal
+FM043,Bonita Boyd,Eastman professor
+FM043,Bonita Boyd,Mariano/Eastman school
+FM043,Bonita Boyd,American orchestral and academic lineage
+FM044,Carol Wincenc,contemporary commissions
+FM044,Carol Wincenc,solo repertoire
+FM044,Carol Wincenc,chamber music
+FM044,Carol Wincenc,pedagogy
+FM044,Carol Wincenc,flautist
+FM044,Carol Wincenc,soloist
+FM044,Carol Wincenc,professor
+FM044,Carol Wincenc,American solo and chamber school
+FM045,Leone Buyse,orchestral and solo playing
+FM045,Leone Buyse,mentorship
+FM045,Leone Buyse,French-American lineage
+FM045,Leone Buyse,teaching ethics
+FM045,Leone Buyse,flautist
+FM045,Leone Buyse,orchestral principal
+FM045,Leone Buyse,professor
+FM045,Leone Buyse,American school with Debost
+FM045,Leone Buyse,Rampal
+FM045,Leone Buyse,Moyse and Crunelle influence
+FM046,Paula Robison,recital artistry
+FM046,Paula Robison,chamber music
+FM046,Paula Robison,interdisciplinary teaching
+FM046,Paula Robison,singing approach
+FM046,Paula Robison,flautist
+FM046,Paula Robison,soloist
+FM046,Paula Robison,chamber musician
+FM046,Paula Robison,professor
+FM046,Paula Robison,American solo and chamber school
+FM047,Ransom Wilson,solo flute
+FM047,Ransom Wilson,conducting
+FM047,Ransom Wilson,chamber orchestra
+FM047,Ransom Wilson,commissioning
+FM047,Ransom Wilson,teaching
+FM047,Ransom Wilson,flautist
+FM047,Ransom Wilson,conductor
+FM047,Ransom Wilson,professor
+FM047,Ransom Wilson,American soloist-conductor tradition
+FM048,Robert Aitken,contemporary music
+FM048,Robert Aitken,Canadian repertoire
+FM048,Robert Aitken,extended techniques
+FM048,Robert Aitken,composition
+FM048,Robert Aitken,flautist
+FM048,Robert Aitken,composer
+FM048,Robert Aitken,conductor
+FM048,Robert Aitken,professor
+FM048,Robert Aitken,Canadian contemporary music school
+FM049,Hubert Laws,jazz flute
+FM049,Hubert Laws,crossover
+FM049,Hubert Laws,improvisation
+FM049,Hubert Laws,classical technique in jazz
+FM049,Hubert Laws,flautist
+FM049,Hubert Laws,jazz and classical crossover artist
+FM049,Hubert Laws,American classical-jazz crossover
+FM049,Hubert Laws,Juilliard-trained
+FM050,James Pellerite,repertoire bibliography
+FM050,James Pellerite,fingerings
+FM050,James Pellerite,pedagogy
+FM050,James Pellerite,audition preparation
+FM050,James Pellerite,flautist
+FM050,James Pellerite,professor
+FM050,James Pellerite,author
+FM050,James Pellerite,American academic and orchestral school
+FM051,Robert Dick,extended techniques
+FM051,Robert Dick,glissando headjoint
+FM051,Robert Dick,improvisation
+FM051,Robert Dick,contemporary pedagogy
+FM051,Robert Dick,flautist
+FM051,Robert Dick,composer
+FM051,Robert Dick,improviser
+FM051,Robert Dick,author
+FM051,Robert Dick,inventor
+FM051,Robert Dick,Contemporary extended-technique school
+FM052,Harvey Sollberger,new music
+FM052,Harvey Sollberger,composition
+FM052,Harvey Sollberger,contemporary ensemble
+FM052,Harvey Sollberger,American modernism
+FM052,Harvey Sollberger,flautist
+FM052,Harvey Sollberger,composer
+FM052,Harvey Sollberger,conductor
+FM052,Harvey Sollberger,professor
+FM052,Harvey Sollberger,American new-music school
+FM053,András Adorján,European repertoire
+FM053,András Adorján,editions
+FM053,András Adorján,competitions
+FM053,András Adorján,tone and style
+FM053,András Adorján,flautist
+FM053,András Adorján,professor
+FM053,András Adorján,editor
+FM053,András Adorján,Hungarian-Danish-German school
+FM054,Keith Underwood,breathing
+FM054,Keith Underwood,embouchure
+FM054,Keith Underwood,resonance
+FM054,Keith Underwood,body use
+FM054,Keith Underwood,high-level remediation
+FM054,Keith Underwood,flautist
+FM054,Keith Underwood,pedagogue
+FM054,Keith Underwood,breathing specialist
+FM054,Keith Underwood,American pedagogy
+FM054,Keith Underwood,body-breath-embouchure school
+FM055,Jim Walker,orchestral playing
+FM055,Jim Walker,jazz flute
+FM055,Jim Walker,commercial music
+FM055,Jim Walker,doubling
+FM055,Jim Walker,studio work
+FM055,Jim Walker,flautist
+FM055,Jim Walker,orchestral principal
+FM055,Jim Walker,jazz/classical artist
+FM055,Jim Walker,professor
+FM055,Jim Walker,American orchestral and commercial/jazz crossover
+FM056,Barthold Kuijken,baroque flute
+FM056,Barthold Kuijken,historical performance
+FM056,Barthold Kuijken,rhetoric
+FM056,Barthold Kuijken,source reading
+FM056,Barthold Kuijken,articulation
+FM056,Barthold Kuijken,traverso player
+FM056,Barthold Kuijken,conductor
+FM056,Barthold Kuijken,professor
+FM056,Barthold Kuijken,Historically informed performance
+FM056,Barthold Kuijken,Belgian early-music school
+FM057,Frans Brüggen,historical performance
+FM057,Frans Brüggen,traverso and recorder
+FM057,Frans Brüggen,early-music revival
+FM057,Frans Brüggen,rhetoric
+FM057,Frans Brüggen,recorder player
+FM057,Frans Brüggen,traverso player
+FM057,Frans Brüggen,conductor
+FM057,Frans Brüggen,Dutch early-music revival
+FM058,Stephen Preston,baroque flute
+FM058,Stephen Preston,historical articulation
+FM058,Stephen Preston,18th-century sources
+FM058,Stephen Preston,early-music pedagogy
+FM058,Stephen Preston,flutist
+FM058,Stephen Preston,traverso player
+FM058,Stephen Preston,professor
+FM058,Stephen Preston,author
+FM058,Stephen Preston,British historical flute performance
+FM059,Wilbert Hazelzet,traverso technique
+FM059,Wilbert Hazelzet,baroque phrasing
+FM059,Wilbert Hazelzet,historical instruments
+FM059,Wilbert Hazelzet,chamber music
+FM059,Wilbert Hazelzet,traverso player
+FM059,Wilbert Hazelzet,professor
+FM059,Wilbert Hazelzet,Dutch/German historical flute school
+FM060,Rachel Brown,baroque flute
+FM060,Rachel Brown,Classical style
+FM060,Rachel Brown,cadenzas
+FM060,Rachel Brown,historical phrasing
+FM060,Rachel Brown,teaching
+FM060,Rachel Brown,flutist
+FM060,Rachel Brown,traverso player
+FM060,Rachel Brown,professor
+FM060,Rachel Brown,author
+FM060,Rachel Brown,British early-music and modern flute pedagogy
+FM061,Lisa Beznosiuk,period flute
+FM061,Lisa Beznosiuk,baroque/classical orchestral playing
+FM061,Lisa Beznosiuk,chamber music
+FM061,Lisa Beznosiuk,traverso player
+FM061,Lisa Beznosiuk,orchestral/chamber musician
+FM061,Lisa Beznosiuk,professor
+FM061,Lisa Beznosiuk,British historical performance
+FM062,Claire Guimond,baroque flute
+FM062,Claire Guimond,French baroque style
+FM062,Claire Guimond,early-music ensemble leadership
+FM062,Claire Guimond,traverso player
+FM062,Claire Guimond,conductor
+FM062,Claire Guimond,professor
+FM062,Claire Guimond,Canadian and European historical performance
+FM063,Pierre-Yves Artaud,extended techniques
+FM063,Pierre-Yves Artaud,contemporary notation
+FM063,Pierre-Yves Artaud,flute family
+FM063,Pierre-Yves Artaud,pedagogy
+FM063,Pierre-Yves Artaud,flautist
+FM063,Pierre-Yves Artaud,professor
+FM063,Pierre-Yves Artaud,author
+FM063,Pierre-Yves Artaud,contemporary music specialist
+FM063,Pierre-Yves Artaud,French contemporary flute school
+FM064,Patrick Gallois,French repertoire
+FM064,Patrick Gallois,classical concertos
+FM064,Patrick Gallois,conducting
+FM064,Patrick Gallois,recording projects
+FM064,Patrick Gallois,flautist
+FM064,Patrick Gallois,conductor
+FM064,Patrick Gallois,soloist
+FM064,Patrick Gallois,French school
+FM064,Patrick Gallois,Rampal and Marion influence
+FM065,Philippe Bernold,embouchure
+FM065,Philippe Bernold,tone
+FM065,Philippe Bernold,French teaching
+FM065,Philippe Bernold,orchestral playing
+FM065,Philippe Bernold,conducting
+FM065,Philippe Bernold,flautist
+FM065,Philippe Bernold,conductor
+FM065,Philippe Bernold,professor
+FM065,Philippe Bernold,author
+FM065,Philippe Bernold,French Conservatoire school
+FM065,Philippe Bernold,Nicolet/Marion influence
+FM066,Emmanuel Pahud,modern orchestral sound
+FM066,Emmanuel Pahud,concerto repertoire
+FM066,Emmanuel Pahud,contemporary commissions
+FM066,Emmanuel Pahud,recording
+FM066,Emmanuel Pahud,flautist
+FM066,Emmanuel Pahud,orchestral principal
+FM066,Emmanuel Pahud,soloist
+FM066,Emmanuel Pahud,French-Swiss school
+FM066,Emmanuel Pahud,Nicolet and Graf lineage
+FM067,Jacques Zoon,orchestral sound
+FM067,Jacques Zoon,wood flute
+FM067,Jacques Zoon,European-American orchestral style
+FM067,Jacques Zoon,teaching
+FM067,Jacques Zoon,flautist
+FM067,Jacques Zoon,orchestral principal
+FM067,Jacques Zoon,professor
+FM067,Jacques Zoon,Dutch-Swiss orchestral school
+FM068,Marina Piccinini,solo repertoire
+FM068,Marina Piccinini,contemporary commissions
+FM068,Marina Piccinini,competition preparation
+FM068,Marina Piccinini,transatlantic pedagogy
+FM068,Marina Piccinini,flautist
+FM068,Marina Piccinini,soloist
+FM068,Marina Piccinini,professor
+FM068,Marina Piccinini,American-European solo school
+FM069,Sharon Bezaly,new concertos
+FM069,Sharon Bezaly,recording
+FM069,Sharon Bezaly,circular breathing
+FM069,Sharon Bezaly,contemporary commissions
+FM069,Sharon Bezaly,flautist
+FM069,Sharon Bezaly,soloist
+FM069,Sharon Bezaly,recording artist
+FM069,Sharon Bezaly,Israeli-European solo school
+FM069,Sharon Bezaly,Rampal influence
+FM070,Denis Bouriakov,orchestral excerpts
+FM070,Denis Bouriakov,virtuoso transcription
+FM070,Denis Bouriakov,solo technique
+FM070,Denis Bouriakov,audition preparation
+FM070,Denis Bouriakov,flautist
+FM070,Denis Bouriakov,orchestral principal
+FM070,Denis Bouriakov,professor
+FM070,Denis Bouriakov,soloist
+FM070,Denis Bouriakov,Russian-British-American orchestral school
+FM071,Andrea Lieberknecht,German orchestral sound
+FM071,Andrea Lieberknecht,competition training
+FM071,Andrea Lieberknecht,chamber music
+FM071,Andrea Lieberknecht,teaching
+FM071,Andrea Lieberknecht,flautist
+FM071,Andrea Lieberknecht,professor
+FM071,Andrea Lieberknecht,orchestral principal
+FM071,Andrea Lieberknecht,German orchestral and competition school
+FM072,Felix Renggli,European flute pedagogy
+FM072,Felix Renggli,chamber music
+FM072,Felix Renggli,modern and classical repertoire
+FM072,Felix Renggli,flautist
+FM072,Felix Renggli,professor
+FM072,Felix Renggli,soloist
+FM072,Felix Renggli,Swiss-European flute school
+FM073,Emily Beynon,orchestral playing
+FM073,Emily Beynon,piccolo/flute doubling
+FM073,Emily Beynon,chamber music
+FM073,Emily Beynon,teaching
+FM073,Emily Beynon,flautist
+FM073,Emily Beynon,orchestral principal
+FM073,Emily Beynon,professor
+FM073,Emily Beynon,British-Dutch orchestral school
+FM074,Susan Milan,British orchestral playing
+FM074,Susan Milan,solo repertoire
+FM074,Susan Milan,women in orchestras
+FM074,Susan Milan,teaching
+FM074,Susan Milan,flautist
+FM074,Susan Milan,orchestral principal
+FM074,Susan Milan,professor
+FM074,Susan Milan,British orchestral school
+FM075,Wissam Boustany,sound imagination
+FM075,Wissam Boustany,improvisation
+FM075,Wissam Boustany,social mission
+FM075,Wissam Boustany,solo pedagogy
+FM075,Wissam Boustany,flautist
+FM075,Wissam Boustany,professor
+FM075,Wissam Boustany,humanitarian artist
+FM075,Wissam Boustany,British/international solo school
+FM076,Gareth Davies,orchestral playing
+FM076,Gareth Davies,rehearsal culture
+FM076,Gareth Davies,recording
+FM076,Gareth Davies,music writing
+FM076,Gareth Davies,flautist
+FM076,Gareth Davies,orchestral principal
+FM076,Gareth Davies,author
+FM076,Gareth Davies,British orchestral school
+FM077,Adam Walker,orchestral excerpts
+FM077,Adam Walker,modern British sound
+FM077,Adam Walker,solo repertoire
+FM077,Adam Walker,teaching
+FM077,Adam Walker,flautist
+FM077,Adam Walker,orchestral principal
+FM077,Adam Walker,professor
+FM077,Adam Walker,British orchestral and solo school
+FM078,Lorna McGhee,orchestral principal playing
+FM078,Lorna McGhee,sound
+FM078,Lorna McGhee,auditions
+FM078,Lorna McGhee,transatlantic teaching
+FM078,Lorna McGhee,flautist
+FM078,Lorna McGhee,orchestral principal
+FM078,Lorna McGhee,professor
+FM078,Lorna McGhee,British-American orchestral school
+FM079,Paul Edmund-Davies,orchestral excerpts
+FM079,Paul Edmund-Davies,fundamentals
+FM079,Paul Edmund-Davies,online pedagogy
+FM079,Paul Edmund-Davies,British orchestral tradition
+FM079,Paul Edmund-Davies,flautist
+FM079,Paul Edmund-Davies,orchestral principal
+FM079,Paul Edmund-Davies,educator
+FM079,Paul Edmund-Davies,British orchestral school
+FM080,Jeffrey Khaner,orchestral excerpts
+FM080,Jeffrey Khaner,Philadelphia sound
+FM080,Jeffrey Khaner,concerto repertoire
+FM080,Jeffrey Khaner,teaching lineage
+FM080,Jeffrey Khaner,flautist
+FM080,Jeffrey Khaner,orchestral principal
+FM080,Jeffrey Khaner,professor
+FM080,Jeffrey Khaner,American orchestral school
+FM080,Jeffrey Khaner,Baker/Curtis lineage
+FM081,Mark Sparks,orchestral excerpts
+FM081,Mark Sparks,tone
+FM081,Mark Sparks,audition pedagogy
+FM081,Mark Sparks,American orchestral school
+FM081,Mark Sparks,flautist
+FM081,Mark Sparks,orchestral principal
+FM081,Mark Sparks,professor
+FM082,Joshua Smith,orchestral principal playing
+FM082,Joshua Smith,phrasing
+FM082,Joshua Smith,audition standards
+FM082,Joshua Smith,Cleveland sound
+FM082,Joshua Smith,flautist
+FM082,Joshua Smith,orchestral principal
+FM082,Joshua Smith,professor
+FM082,Joshua Smith,Curtis/Baker/Khaner lineage
+FM082,Joshua Smith,Cleveland orchestral school
+FM083,Amy Porter,university pedagogy
+FM083,Amy Porter,body use
+FM083,Amy Porter,career development
+FM083,Amy Porter,solo repertoire
+FM083,Amy Porter,flautist
+FM083,Amy Porter,professor
+FM083,Amy Porter,soloist
+FM083,Amy Porter,American academic and orchestral school
+FM084,Alexa Still,recording
+FM084,Alexa Still,pedagogy
+FM084,Alexa Still,New Zealand repertoire
+FM084,Alexa Still,international teaching
+FM084,Alexa Still,flautist
+FM084,Alexa Still,professor
+FM084,Alexa Still,recording artist
+FM084,Alexa Still,New Zealand-American school
+FM085,Mary Karen Clardy,etudes
+FM085,Mary Karen Clardy,pedagogy
+FM085,Mary Karen Clardy,repertoire
+FM085,Mary Karen Clardy,university teaching
+FM085,Mary Karen Clardy,flautist
+FM085,Mary Karen Clardy,professor
+FM085,Mary Karen Clardy,author
+FM085,Mary Karen Clardy,American pedagogy school
+FM086,Patricia George,beginner-to-advanced pedagogy
+FM086,Patricia George,practice systems
+FM086,Patricia George,tone
+FM086,Patricia George,articulation
+FM086,Patricia George,sight reading
+FM086,Patricia George,flautist
+FM086,Patricia George,pedagogue
+FM086,Patricia George,author
+FM086,Patricia George,American pedagogy school
+FM086,Patricia George,Eastman lineage
+FM087,Linda Chesis,chamber music
+FM087,Linda Chesis,contemporary repertoire
+FM087,Linda Chesis,career building
+FM087,Linda Chesis,pedagogy
+FM087,Linda Chesis,flautist
+FM087,Linda Chesis,chamber musician
+FM087,Linda Chesis,professor
+FM087,Linda Chesis,American chamber music school
+FM088,Tara Helen O'Connor,chamber music
+FM088,Tara Helen O'Connor,contemporary repertoire
+FM088,Tara Helen O'Connor,multi-instrumental doubling
+FM088,Tara Helen O'Connor,teaching
+FM088,Tara Helen O'Connor,flautist
+FM088,Tara Helen O'Connor,chamber musician
+FM088,Tara Helen O'Connor,professor
+FM088,Tara Helen O'Connor,American new-music and chamber school
+FM089,Molly Alicia Barth,new music
+FM089,Molly Alicia Barth,chamber music
+FM089,Molly Alicia Barth,collaboration
+FM089,Molly Alicia Barth,contemporary performance practice
+FM089,Molly Alicia Barth,flautist
+FM089,Molly Alicia Barth,chamber musician
+FM089,Molly Alicia Barth,professor
+FM089,Molly Alicia Barth,American contemporary chamber music school
+FM090,Alberto Almarza,Latin American representation
+FM090,Alberto Almarza,university pedagogy
+FM090,Alberto Almarza,festival training
+FM090,Alberto Almarza,career mentorship
+FM090,Alberto Almarza,flautist
+FM090,Alberto Almarza,professor
+FM090,Alberto Almarza,festival director
+FM090,Alberto Almarza,Latin American-American flute pedagogy
+FM091,Jasmine Choi,transcriptions
+FM091,Jasmine Choi,solo virtuosity
+FM091,Jasmine Choi,Korean flute representation
+FM091,Jasmine Choi,recording
+FM091,Jasmine Choi,flautist
+FM091,Jasmine Choi,soloist
+FM091,Jasmine Choi,orchestral principal
+FM091,Jasmine Choi,Korean-American international solo school
+FM092,Shigenori Kudo,French-Japanese pedagogy
+FM092,Shigenori Kudo,competitions
+FM092,Shigenori Kudo,tone and repertoire
+FM092,Shigenori Kudo,flautist
+FM092,Shigenori Kudo,soloist
+FM092,Shigenori Kudo,professor
+FM092,Shigenori Kudo,Japanese-French school
+FM092,Shigenori Kudo,Rampal and Marion influence
+FM093,Kazunori Seo,French repertoire
+FM093,Kazunori Seo,contemporary music
+FM093,Kazunori Seo,Japanese international pedagogy
+FM093,Kazunori Seo,flautist
+FM093,Kazunori Seo,professor
+FM093,Kazunori Seo,soloist
+FM093,Kazunori Seo,Japanese-French contemporary school
+FM094,Seiya Ueno,virtuosity
+FM094,Seiya Ueno,competition repertoire
+FM094,Seiya Ueno,Japanese representation
+FM094,Seiya Ueno,transcriptions
+FM094,Seiya Ueno,flautist
+FM094,Seiya Ueno,soloist
+FM094,Seiya Ueno,Japanese-French competition school
+FM095,Yuki Koyama,orchestral playing
+FM095,Yuki Koyama,Nordic repertoire
+FM095,Yuki Koyama,competition
+FM095,Yuki Koyama,sound and technique
+FM095,Yuki Koyama,flautist
+FM095,Yuki Koyama,orchestral principal
+FM095,Yuki Koyama,soloist
+FM095,Yuki Koyama,Japanese-European orchestral school
+FM096,Juliette Hurel,French repertoire
+FM096,Juliette Hurel,orchestral principal playing
+FM096,Juliette Hurel,contemporary works
+FM096,Juliette Hurel,recording
+FM096,Juliette Hurel,flautist
+FM096,Juliette Hurel,orchestral principal
+FM096,Juliette Hurel,professor
+FM096,Juliette Hurel,French modern school
+FM097,Vincent Lucas,French orchestral playing
+FM097,Vincent Lucas,competition training
+FM097,Vincent Lucas,tone
+FM097,Vincent Lucas,pedagogy
+FM097,Vincent Lucas,flautist
+FM097,Vincent Lucas,orchestral principal
+FM097,Vincent Lucas,professor
+FM097,Vincent Lucas,French Conservatoire school
+FM098,Davide Formisano,Italian school
+FM098,Davide Formisano,German orchestral playing
+FM098,Davide Formisano,solo repertoire
+FM098,Davide Formisano,pedagogy
+FM098,Davide Formisano,flautist
+FM098,Davide Formisano,orchestral principal
+FM098,Davide Formisano,professor
+FM098,Davide Formisano,Italian-German orchestral school
+FM099,Sébastian Jacot,competition repertoire
+FM099,Sébastian Jacot,orchestral principal playing
+FM099,Sébastian Jacot,contemporary virtuosity
+FM099,Sébastian Jacot,flautist
+FM099,Sébastian Jacot,orchestral principal
+FM099,Sébastian Jacot,competition winner
+FM099,Sébastian Jacot,Swiss-French-German competition school
+FM100,Demarre McGill,orchestral leadership
+FM100,Demarre McGill,diversity in classical music
+FM100,Demarre McGill,chamber music
+FM100,Demarre McGill,pedagogy
+FM100,Demarre McGill,flautist
+FM100,Demarre McGill,orchestral principal
+FM100,Demarre McGill,professor
+FM100,Demarre McGill,American orchestral school
+FM100,Demarre McGill,Curtis/Juilliard lineage

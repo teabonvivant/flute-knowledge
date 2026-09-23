@@ -1,0 +1,499 @@
+person_source_id,person_id,name_en,name_zh,source_type,source_title,url,note
+LATEST-FM029,FM029,Michel Debost,米歇爾・德博斯特,official_biography,Oberlin College：Michel Debost 紀念文章,https://www.oberlin.edu/news/michel-debost-legendary-flute-professor-and-performer-dies-92,人物生平與逝世資料
+LATEST-FM024,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,official_biography,Musik-Akademie Basel：Peter-Lukas Graf 紀念文章,https://www.musik-akademie.ch/musikschule/en/news/detail/zum-tod-des-floetisten-peter-lukas-graf.html,人物生平與逝世資料
+ED-FM099,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,official_biography,Sébastian Jacot：官方傳記,https://www.sebastianjacot.com/,人物傳記與專業經歷
+ED-FM097,FM097,Vincent Lucas,文森・盧卡,official_biography,Philharmonie de Paris：Vincent Lucas,https://philharmoniedeparis.fr/en/person/10538/vincent-lucas,人物傳記與專業經歷
+ED-FM089,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,official_biography,Vanderbilt University：Blair School of Music 教職資料,https://www.vanderbilt.edu/faculty/contacts/,人物傳記與專業經歷
+ED-FM083,FM083,Amy Porter,艾米・波特,official_biography,Wm. S. Haynes：Amy Porter 藝術家傳記,https://www.wmshaynes.com/amy-porter,人物傳記與專業經歷
+ED-FM082,FM082,Joshua Smith,約書亞・史密斯,official_biography,The Cleveland Orchestra：Joshua Smith,https://www.clevelandorchestra.com/people/joshua-smith,人物傳記與專業經歷
+ED-FM078,FM078,Lorna McGhee,洛娜・麥吉,official_biography,Lorna McGhee：官方傳記,https://lornamcghee.com/,人物傳記與專業經歷
+ED-FM077,FM077,Adam Walker,亞當・沃克,official_biography,Royal College of Music：Adam Walker 任教公告,https://www.rcm.ac.uk/about/news/all/2017-11-01adamwalker.aspx?filters=1&tag=+Woodwind,人物傳記與專業經歷
+ED-FM076,FM076,Gareth Davies,加雷斯・戴維斯,official_biography,London Symphony Orchestra：Gareth Davies,https://www.lso.co.uk/bio/gareth-davies/,人物傳記與專業經歷
+ED-FM060,FM060,Rachel Brown,瑞秋・布朗,official_biography,Royal College of Music：Rachel Brown,https://www.rcm.ac.uk/hp/professors/details/?id=01775,人物傳記與專業經歷
+ED-FM055,FM055,Jim Walker,吉姆・沃克,official_biography,Jim Walker：官方網站,https://www.jimwalkerflute.com/,人物傳記與專業經歷
+ED-FM053,FM053,András Adorján,安德拉什・阿多揚,official_biography,Kungliga Hovkapellet：András Adorján,https://www.hovkapellet.com/musiker-och-dirigenter/404/andras-adorjan/,人物傳記與專業經歷
+ED-FM051,FM051,Robert Dick,羅伯特・迪克,official_biography,New York University：Robert Dick,https://steinhardt.nyu.edu/people/robert-dick,人物傳記與專業經歷
+ED-FM048,FM048,Robert Aitken,羅伯特・艾特肯,official_biography,New Music Concerts：創辦與歷史,https://www.newmusicconcerts.com/nmcs-board-of-directors-wishes-nmc-a-happy-50th-birthday/,人物傳記與專業經歷
+ED-FM041,FM041,Donald Peck,唐納德・佩克,official_biography,National Flute Association：Donald Peck,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/donald-peck,人物傳記與專業經歷
+ED-FM039,FM039,John Krell,約翰・克雷爾,official_biography,National Flute Association：John Krell,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/john-krell,人物傳記與專業經歷
+ED-FM038,FM038,Bernard Goldberg,伯納德・戈德堡,official_biography,Marcel Moyse Society：Bernard Goldberg 紀念文章,https://moysesociety.org/passing-of-bernard-goldberg/,人物傳記與專業經歷
+ED-FM027,FM027,William Bennett,威廉・班奈特,official_biography,William Bennett：個人傳記,https://www.williambennettflute.com/bio.html,人物傳記與專業經歷
+PS0001,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0002,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0004,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,authority,Wikidata,https://www.wikidata.org/wiki/Q77212,人物及相關文獻來源
+PS0005,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Johann_Joachim_Quantz,人物及相關文獻來源
+PS0006,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Johann%20Joachim%20Quantz%20flute,人物及相關文獻來源
+PS0007,FM002,Theobald Boehm,特奧巴德・伯姆,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0008,FM002,Theobald Boehm,特奧巴德・伯姆,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0010,FM002,Theobald Boehm,特奧巴德・伯姆,authority,Wikidata,https://www.wikidata.org/wiki/Q71003,人物及相關文獻來源
+PS0011,FM002,Theobald Boehm,特奧巴德・伯姆,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Theobald_Boehm,人物及相關文獻來源
+PS0012,FM002,Theobald Boehm,特奧巴德・伯姆,encyclopedia,Wikipedia,https://zh.wikipedia.org/wiki/%E7%89%B9%E5%A5%A5%E5%B7%B4%E5%B0%94%E5%BE%B7%C2%B7%E5%BD%AA%E5%A7%86,人物及相關文獻來源
+PS0013,FM002,Theobald Boehm,特奧巴德・伯姆,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Theobald%20Boehm%20flute,人物及相關文獻來源
+PS0014,FM003,Charles Nicholson,查爾斯・尼科爾森,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0015,FM003,Charles Nicholson,查爾斯・尼科爾森,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0018,FM003,Charles Nicholson,查爾斯・尼科爾森,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Charles%20Nicholson%20flute,人物及相關文獻來源
+PS0019,FM004,Jean-Louis Tulou,讓-路易・圖盧,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0020,FM004,Jean-Louis Tulou,讓-路易・圖盧,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0022,FM004,Jean-Louis Tulou,讓-路易・圖盧,authority,Wikidata,https://www.wikidata.org/wiki/Q1685004,人物及相關文獻來源
+PS0023,FM004,Jean-Louis Tulou,讓-路易・圖盧,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Jean-Louis_Tulou,人物及相關文獻來源
+PS0024,FM004,Jean-Louis Tulou,讓-路易・圖盧,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Jean-Louis%20Tulou%20flute,人物及相關文獻來源
+PS0025,FM005,Louis Dorus,路易・多魯斯,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0026,FM005,Louis Dorus,路易・多魯斯,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0028,FM005,Louis Dorus,路易・多魯斯,authority,Wikidata,https://www.wikidata.org/wiki/Q743998,人物及相關文獻來源
+PS0029,FM005,Louis Dorus,路易・多魯斯,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Louis_Dorus,人物及相關文獻來源
+PS0030,FM005,Louis Dorus,路易・多魯斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Louis%20Dorus%20flute,人物及相關文獻來源
+PS0031,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0032,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0034,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,authority,Wikidata,https://www.wikidata.org/wiki/Q326916,人物及相關文獻來源
+PS0035,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Joseph-Henri_Alt%C3%A8s,人物及相關文獻來源
+PS0036,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Joseph-Henri%20Alt%C3%A8s%20flute,人物及相關文獻來源
+PS0037,FM007,Paul Taffanel,保羅・塔法奈爾,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0038,FM007,Paul Taffanel,保羅・塔法奈爾,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0039,FM007,Paul Taffanel,保羅・塔法奈爾,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0041,FM007,Paul Taffanel,保羅・塔法奈爾,authority,Wikidata,https://www.wikidata.org/wiki/Q287462,人物及相關文獻來源
+PS0042,FM007,Paul Taffanel,保羅・塔法奈爾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Paul_Taffanel,人物及相關文獻來源
+PS0043,FM007,Paul Taffanel,保羅・塔法奈爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Paul%20Taffanel%20flute,人物及相關文獻來源
+PS0044,FM008,Philippe Gaubert,菲利普・高貝爾,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0045,FM008,Philippe Gaubert,菲利普・高貝爾,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0047,FM008,Philippe Gaubert,菲利普・高貝爾,authority,Wikidata,https://www.wikidata.org/wiki/Q959431,人物及相關文獻來源
+PS0048,FM008,Philippe Gaubert,菲利普・高貝爾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Philippe_Gaubert,人物及相關文獻來源
+PS0049,FM008,Philippe Gaubert,菲利普・高貝爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Philippe%20Gaubert%20flute,人物及相關文獻來源
+PS0050,FM009,Adolphe Hennebains,阿道夫・亨內班,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0051,FM009,Adolphe Hennebains,阿道夫・亨內班,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0053,FM009,Adolphe Hennebains,阿道夫・亨內班,authority,Wikidata,https://www.wikidata.org/wiki/Q365741,人物及相關文獻來源
+PS0054,FM009,Adolphe Hennebains,阿道夫・亨內班,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Adolphe_Hennebains,人物及相關文獻來源
+PS0055,FM009,Adolphe Hennebains,阿道夫・亨內班,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Adolphe%20Hennebains%20flute,人物及相關文獻來源
+PS0056,FM010,Georges Barrère,喬治・巴雷爾,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0057,FM010,Georges Barrère,喬治・巴雷爾,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0059,FM010,Georges Barrère,喬治・巴雷爾,authority,Wikidata,https://www.wikidata.org/wiki/Q240224,人物及相關文獻來源
+PS0060,FM010,Georges Barrère,喬治・巴雷爾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Georges_Barr%C3%A8re,人物及相關文獻來源
+PS0061,FM010,Georges Barrère,喬治・巴雷爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Georges%20Barr%C3%A8re%20flute,人物及相關文獻來源
+PS0062,FM011,Louis Fleury,路易・弗勒里,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0063,FM011,Louis Fleury,路易・弗勒里,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0065,FM011,Louis Fleury,路易・弗勒里,authority,Wikidata,https://www.wikidata.org/wiki/Q2154486,人物及相關文獻來源
+PS0066,FM011,Louis Fleury,路易・弗勒里,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Louis_Fleury,人物及相關文獻來源
+PS0067,FM011,Louis Fleury,路易・弗勒里,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Louis%20Fleury%20flute,人物及相關文獻來源
+PS0068,FM012,Marcel Moyse,馬塞爾・莫伊茲,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0069,FM012,Marcel Moyse,馬塞爾・莫伊茲,association,National Flute Association,https://www.nfaonline.org/committees/committee-web-pages/special-publications-committee,人物及相關文獻來源
+PS0070,FM012,Marcel Moyse,馬塞爾・莫伊茲,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0072,FM012,Marcel Moyse,馬塞爾・莫伊茲,authority,Wikidata,https://www.wikidata.org/wiki/Q714209,人物及相關文獻來源
+PS0073,FM012,Marcel Moyse,馬塞爾・莫伊茲,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Marcel_Moyse,人物及相關文獻來源
+PS0074,FM012,Marcel Moyse,馬塞爾・莫伊茲,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Marcel%20Moyse%20flute,人物及相關文獻來源
+PS0075,FM013,René Le Roy,勒內・勒魯瓦,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0076,FM013,René Le Roy,勒內・勒魯瓦,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0078,FM013,René Le Roy,勒內・勒魯瓦,authority,Wikidata,https://www.wikidata.org/wiki/Q2144751,人物及相關文獻來源
+PS0079,FM013,René Le Roy,勒內・勒魯瓦,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Ren%C3%A9_Le_Roy,人物及相關文獻來源
+PS0080,FM013,René Le Roy,勒內・勒魯瓦,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Ren%C3%A9%20Le%20Roy%20flute,人物及相關文獻來源
+PS0081,FM014,Gaston Crunelle,加斯東・克呂內爾,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0082,FM014,Gaston Crunelle,加斯東・克呂內爾,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0084,FM014,Gaston Crunelle,加斯東・克呂內爾,authority,Wikidata,https://www.wikidata.org/wiki/Q3098960,人物及相關文獻來源
+PS0085,FM014,Gaston Crunelle,加斯東・克呂內爾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Gaston_Crunelle,人物及相關文獻來源
+PS0086,FM014,Gaston Crunelle,加斯東・克呂內爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Gaston%20Crunelle%20flute,人物及相關文獻來源
+PS0087,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,institution,Institutional biography,https://libguides.esm.rochester.edu/c.php?g=910894,人物及相關文獻來源
+PS0088,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0090,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,authority,Wikidata,https://www.wikidata.org/wiki/Q441978,人物及相關文獻來源
+PS0091,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Leonardo_De_Lorenzo,人物及相關文獻來源
+PS0092,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,encyclopedia,Wikipedia,https://zh.wikipedia.org/wiki/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A%C2%B7%E5%BE%B7%C2%B7%E6%B4%9B%E4%BC%A6%E4%BD%90,人物及相關文獻來源
+PS0093,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Leonardo%20De%20Lorenzo%20flute,人物及相關文獻來源
+PS0094,FM016,Georges Laurent,喬治・洛朗,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0095,FM016,Georges Laurent,喬治・洛朗,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0097,FM016,Georges Laurent,喬治・洛朗,authority,Wikidata,https://www.wikidata.org/wiki/Q104244769,人物及相關文獻來源
+PS0098,FM016,Georges Laurent,喬治・洛朗,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Georges%20Laurent%20flute,人物及相關文獻來源
+PS0099,FM017,William Kincaid,威廉・金凱德,association,National Flute Association,https://www.nfaonline.org/committees/committee-web-pages/special-publications-committee,人物及相關文獻來源
+PS0100,FM017,William Kincaid,威廉・金凱德,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0101,FM017,William Kincaid,威廉・金凱德,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0105,FM017,William Kincaid,威廉・金凱德,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=William%20Kincaid%20flute,人物及相關文獻來源
+PS0106,FM018,Joseph Mariano,約瑟夫・馬里亞諾,institution,Institutional biography,https://libguides.esm.rochester.edu/c.php?g=910894,人物及相關文獻來源
+PS0107,FM018,Joseph Mariano,約瑟夫・馬里亞諾,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0109,FM018,Joseph Mariano,約瑟夫・馬里亞諾,authority,Wikidata,https://www.wikidata.org/wiki/Q16674271,人物及相關文獻來源
+PS0110,FM018,Joseph Mariano,約瑟夫・馬里亞諾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Joseph_Mariano,人物及相關文獻來源
+PS0111,FM018,Joseph Mariano,約瑟夫・馬里亞諾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Joseph%20Mariano%20flute,人物及相關文獻來源
+PS0112,FM019,Julius Baker,朱利葉斯・貝克,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0113,FM019,Julius Baker,朱利葉斯・貝克,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0114,FM019,Julius Baker,朱利葉斯・貝克,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0116,FM019,Julius Baker,朱利葉斯・貝克,authority,Wikidata,https://www.wikidata.org/wiki/Q2670080,人物及相關文獻來源
+PS0117,FM019,Julius Baker,朱利葉斯・貝克,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Julius_Baker,人物及相關文獻來源
+PS0118,FM019,Julius Baker,朱利葉斯・貝克,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Julius%20Baker%20flute,人物及相關文獻來源
+PS0119,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0120,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0121,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0123,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,authority,Wikidata,https://www.wikidata.org/wiki/Q186359,人物及相關文獻來源
+PS0124,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Jean-Pierre_Rampal,人物及相關文獻來源
+PS0125,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,encyclopedia,Wikipedia,https://zh.wikipedia.org/wiki/%E5%B0%9A-%E7%9A%AE%E7%88%BE%C2%B7%E9%9B%B7%E6%B3%A2%E7%88%BE,人物及相關文獻來源
+PS0126,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Jean-Pierre%20Rampal%20flute,人物及相關文獻來源
+PS0127,FM021,Alain Marion,阿蘭・馬里翁,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0130,FM021,Alain Marion,阿蘭・馬里翁,authority,Wikidata,https://www.wikidata.org/wiki/Q2562822,人物及相關文獻來源
+PS0131,FM021,Alain Marion,阿蘭・馬里翁,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Alain_Marion,人物及相關文獻來源
+PS0132,FM021,Alain Marion,阿蘭・馬里翁,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Alain%20Marion%20flute,人物及相關文獻來源
+PS0133,FM022,Maxence Larrieu,馬克桑斯・拉里厄,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0134,FM022,Maxence Larrieu,馬克桑斯・拉里厄,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0136,FM022,Maxence Larrieu,馬克桑斯・拉里厄,authority,Wikidata,https://www.wikidata.org/wiki/Q2370185,人物及相關文獻來源
+PS0137,FM022,Maxence Larrieu,馬克桑斯・拉里厄,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Maxence_Larrieu,人物及相關文獻來源
+PS0138,FM022,Maxence Larrieu,馬克桑斯・拉里厄,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Maxence%20Larrieu%20flute,人物及相關文獻來源
+PS0139,FM023,Aurèle Nicolet,奧雷勒・尼科萊,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0140,FM023,Aurèle Nicolet,奧雷勒・尼科萊,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0142,FM023,Aurèle Nicolet,奧雷勒・尼科萊,authority,Wikidata,https://www.wikidata.org/wiki/Q123728,人物及相關文獻來源
+PS0143,FM023,Aurèle Nicolet,奧雷勒・尼科萊,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Aur%C3%A8le_Nicolet,人物及相關文獻來源
+PS0144,FM023,Aurèle Nicolet,奧雷勒・尼科萊,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Aur%C3%A8le%20Nicolet%20flute,人物及相關文獻來源
+PS0145,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0146,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0148,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,authority,Wikidata,https://www.wikidata.org/wiki/Q115813,人物及相關文獻來源
+PS0149,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Peter-Lukas_Graf,人物及相關文獻來源
+PS0150,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Peter-Lukas%20Graf%20flute,人物及相關文獻來源
+PS0151,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0154,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,authority,Wikidata,https://www.wikidata.org/wiki/Q938894,人物及相關文獻來源
+PS0155,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Severino_Gazzelloni,人物及相關文獻來源
+PS0156,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Severino%20Gazzelloni%20flute,人物及相關文獻來源
+PS0157,FM026,James Galway,詹姆斯・高威,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0158,FM026,James Galway,詹姆斯・高威,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0160,FM026,James Galway,詹姆斯・高威,authority,Wikidata,https://www.wikidata.org/wiki/Q160371,人物及相關文獻來源
+PS0161,FM026,James Galway,詹姆斯・高威,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/James_Galway,人物及相關文獻來源
+PS0162,FM026,James Galway,詹姆斯・高威,encyclopedia,Wikipedia,https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%AB%98%E5%A8%81,人物及相關文獻來源
+PS0163,FM026,James Galway,詹姆斯・高威,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=James%20Galway%20flute,人物及相關文獻來源
+PS0164,FM027,William Bennett,威廉・班奈特,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0165,FM027,William Bennett,威廉・班奈特,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0168,FM027,William Bennett,威廉・班奈特,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=William%20Bennett%20flute,人物及相關文獻來源
+PS0169,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0172,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,authority,Wikidata,https://www.wikidata.org/wiki/Q112393697,人物及相關文獻來源
+PS0173,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Geoffrey%20Gilbert%20flute,人物及相關文獻來源
+PS0174,FM029,Michel Debost,米歇爾・德博斯特,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0175,FM029,Michel Debost,米歇爾・德博斯特,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0176,FM029,Michel Debost,米歇爾・德博斯特,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0178,FM029,Michel Debost,米歇爾・德博斯特,authority,Wikidata,https://www.wikidata.org/wiki/Q2655549,人物及相關文獻來源
+PS0179,FM029,Michel Debost,米歇爾・德博斯特,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Michel_Debost,人物及相關文獻來源
+PS0180,FM029,Michel Debost,米歇爾・德博斯特,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Michel%20Debost%20flute,人物及相關文獻來源
+PS0181,FM030,Trevor Wye,特雷弗・懷伊,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0182,FM030,Trevor Wye,特雷弗・懷伊,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0184,FM030,Trevor Wye,特雷弗・懷伊,authority,Wikidata,https://www.wikidata.org/wiki/Q1661738,人物及相關文獻來源
+PS0185,FM030,Trevor Wye,特雷弗・懷伊,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Trevor_Wye,人物及相關文獻來源
+PS0186,FM030,Trevor Wye,特雷弗・懷伊,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Trevor%20Wye%20flute,人物及相關文獻來源
+PS0187,FM031,Louis Moyse,路易・莫伊茲,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0188,FM031,Louis Moyse,路易・莫伊茲,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0190,FM031,Louis Moyse,路易・莫伊茲,authority,Wikidata,https://www.wikidata.org/wiki/Q521448,人物及相關文獻來源
+PS0191,FM031,Louis Moyse,路易・莫伊茲,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Louis_Moyse,人物及相關文獻來源
+PS0192,FM031,Louis Moyse,路易・莫伊茲,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Louis%20Moyse%20flute,人物及相關文獻來源
+PS0193,FM032,Robert Willoughby,羅伯特・威洛比,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0194,FM032,Robert Willoughby,羅伯特・威洛比,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0196,FM032,Robert Willoughby,羅伯特・威洛比,authority,Wikidata,https://www.wikidata.org/wiki/Q125568970,人物及相關文獻來源
+PS0197,FM032,Robert Willoughby,羅伯特・威洛比,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Robert%20Willoughby%20flute,人物及相關文獻來源
+PS0198,FM033,Samuel Baron,塞繆爾・巴倫,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0199,FM033,Samuel Baron,塞繆爾・巴倫,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0201,FM033,Samuel Baron,塞繆爾・巴倫,authority,Wikidata,https://www.wikidata.org/wiki/Q92192634,人物及相關文獻來源
+PS0202,FM033,Samuel Baron,塞繆爾・巴倫,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Samuel_Baron,人物及相關文獻來源
+PS0203,FM033,Samuel Baron,塞繆爾・巴倫,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Samuel%20Baron%20flute,人物及相關文獻來源
+PS0204,FM034,Albert Tipton,阿爾伯特・蒂普頓,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0207,FM034,Albert Tipton,阿爾伯特・蒂普頓,authority,Wikidata,https://www.wikidata.org/wiki/Q4457986,人物及相關文獻來源
+PS0208,FM034,Albert Tipton,阿爾伯特・蒂普頓,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Albert_Tipton,人物及相關文獻來源
+PS0209,FM034,Albert Tipton,阿爾伯特・蒂普頓,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Albert%20Tipton%20flute,人物及相關文獻來源
+PS0210,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0211,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0213,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,authority,Wikidata,https://www.wikidata.org/wiki/Q15443152,人物及相關文獻來源
+PS0214,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Frances_Blaisdell,人物及相關文獻來源
+PS0215,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Frances%20Blaisdell%20flute,人物及相關文獻來源
+PS0216,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0219,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,authority,Wikidata,https://www.wikidata.org/wiki/Q5297871,人物及相關文獻來源
+PS0220,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Doriot_Anthony_Dwyer,人物及相關文獻來源
+PS0221,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Doriot%20Anthony%20Dwyer%20flute,人物及相關文獻來源
+PS0222,FM037,Lois Schaefer,露易絲・謝弗,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0225,FM037,Lois Schaefer,露易絲・謝弗,authority,Wikidata,https://www.wikidata.org/wiki/Q110252012,人物及相關文獻來源
+PS0226,FM037,Lois Schaefer,露易絲・謝弗,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Lois_Schaefer,人物及相關文獻來源
+PS0227,FM037,Lois Schaefer,露易絲・謝弗,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Lois%20Schaefer%20flute,人物及相關文獻來源
+PS0228,FM038,Bernard Goldberg,伯納德・戈德堡,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0232,FM038,Bernard Goldberg,伯納德・戈德堡,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Bernard%20Goldberg%20flute,人物及相關文獻來源
+PS0233,FM039,John Krell,約翰・克雷爾,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0234,FM039,John Krell,約翰・克雷爾,association,National Flute Association,https://www.nfaonline.org/committees/committee-web-pages/special-publications-committee,人物及相關文獻來源
+PS0237,FM039,John Krell,約翰・克雷爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=John%20Krell%20flute,人物及相關文獻來源
+PS0238,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0239,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0241,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,authority,Wikidata,https://www.wikidata.org/wiki/Q131176478,人物及相關文獻來源
+PS0242,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Walfrid_Kujala,人物及相關文獻來源
+PS0243,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Walfrid%20Kujala%20flute,人物及相關文獻來源
+PS0244,FM041,Donald Peck,唐納德・佩克,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0248,FM041,Donald Peck,唐納德・佩克,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Donald%20Peck%20flute,人物及相關文獻來源
+PS0249,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0250,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0252,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,authority,Wikidata,https://www.wikidata.org/wiki/Q2082054,人物及相關文獻來源
+PS0253,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Jeanne_Baxtresser,人物及相關文獻來源
+PS0254,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Jeanne%20Baxtresser%20flute,人物及相關文獻來源
+PS0255,FM043,Bonita Boyd,博妮塔・博伊德,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0256,FM043,Bonita Boyd,博妮塔・博伊德,institution,Institutional biography,https://libguides.esm.rochester.edu/c.php?g=910894,人物及相關文獻來源
+PS0258,FM043,Bonita Boyd,博妮塔・博伊德,authority,Wikidata,https://www.wikidata.org/wiki/Q53673032,人物及相關文獻來源
+PS0259,FM043,Bonita Boyd,博妮塔・博伊德,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Bonita_Boyd,人物及相關文獻來源
+PS0260,FM043,Bonita Boyd,博妮塔・博伊德,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Bonita%20Boyd%20flute,人物及相關文獻來源
+PS0261,FM044,Carol Wincenc,卡羅爾・溫森克,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0264,FM044,Carol Wincenc,卡羅爾・溫森克,authority,Wikidata,https://www.wikidata.org/wiki/Q4111946,人物及相關文獻來源
+PS0265,FM044,Carol Wincenc,卡羅爾・溫森克,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Carol_Wincenc,人物及相關文獻來源
+PS0266,FM044,Carol Wincenc,卡羅爾・溫森克,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Carol%20Wincenc%20flute,人物及相關文獻來源
+PS0267,FM045,Leone Buyse,萊昂・拜斯,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0268,FM045,Leone Buyse,萊昂・拜斯,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0270,FM045,Leone Buyse,萊昂・拜斯,authority,Wikidata,https://www.wikidata.org/wiki/Q50378759,人物及相關文獻來源
+PS0271,FM045,Leone Buyse,萊昂・拜斯,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Leone_Buyse,人物及相關文獻來源
+PS0272,FM045,Leone Buyse,萊昂・拜斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Leone%20Buyse%20flute,人物及相關文獻來源
+PS0273,FM046,Paula Robison,寶拉・羅賓遜,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0274,FM046,Paula Robison,寶拉・羅賓遜,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0276,FM046,Paula Robison,寶拉・羅賓遜,authority,Wikidata,https://www.wikidata.org/wiki/Q4395147,人物及相關文獻來源
+PS0277,FM046,Paula Robison,寶拉・羅賓遜,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Paula_Robison,人物及相關文獻來源
+PS0278,FM046,Paula Robison,寶拉・羅賓遜,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Paula%20Robison%20flute,人物及相關文獻來源
+PS0279,FM047,Ransom Wilson,蘭森・威爾遜,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0282,FM047,Ransom Wilson,蘭森・威爾遜,authority,Wikidata,https://www.wikidata.org/wiki/Q7293491,人物及相關文獻來源
+PS0283,FM047,Ransom Wilson,蘭森・威爾遜,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Ransom_Wilson,人物及相關文獻來源
+PS0284,FM047,Ransom Wilson,蘭森・威爾遜,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Ransom%20Wilson%20flute,人物及相關文獻來源
+PS0285,FM048,Robert Aitken,羅伯特・艾特肯,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0289,FM048,Robert Aitken,羅伯特・艾特肯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Robert%20Aitken%20flute,人物及相關文獻來源
+PS0290,FM049,Hubert Laws,休伯特・勞斯,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0293,FM049,Hubert Laws,休伯特・勞斯,authority,Wikidata,https://www.wikidata.org/wiki/Q721330,人物及相關文獻來源
+PS0294,FM049,Hubert Laws,休伯特・勞斯,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Hubert_Laws,人物及相關文獻來源
+PS0295,FM049,Hubert Laws,休伯特・勞斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Hubert%20Laws%20flute,人物及相關文獻來源
+PS0296,FM050,James Pellerite,詹姆斯・佩勒賴特,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0297,FM050,James Pellerite,詹姆斯・佩勒賴特,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0299,FM050,James Pellerite,詹姆斯・佩勒賴特,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/james-pellerite,人物及相關文獻來源
+PS0300,FM050,James Pellerite,詹姆斯・佩勒賴特,institution,Institutional biography,https://music.indiana.edu/giving/scholarships/scholarships-pellerite.html,人物及相關文獻來源
+PS0301,FM050,James Pellerite,詹姆斯・佩勒賴特,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=James%20Pellerite%20flute,人物及相關文獻來源
+PS0302,FM051,Robert Dick,羅伯特・迪克,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0303,FM051,Robert Dick,羅伯特・迪克,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0306,FM051,Robert Dick,羅伯特・迪克,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Robert%20Dick%20flute,人物及相關文獻來源
+PS0307,FM052,Harvey Sollberger,哈維・索爾伯格,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0310,FM052,Harvey Sollberger,哈維・索爾伯格,authority,Wikidata,https://www.wikidata.org/wiki/Q1587938,人物及相關文獻來源
+PS0311,FM052,Harvey Sollberger,哈維・索爾伯格,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Harvey_Sollberger,人物及相關文獻來源
+PS0312,FM052,Harvey Sollberger,哈維・索爾伯格,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Harvey%20Sollberger%20flute,人物及相關文獻來源
+PS0313,FM053,András Adorján,安德拉什・阿多揚,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0318,FM053,András Adorján,安德拉什・阿多揚,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Andr%C3%A1s%20Adorj%C3%A1n%20flute,人物及相關文獻來源
+PS0319,FM054,Keith Underwood,基思・安德伍德,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0320,FM054,Keith Underwood,基思・安德伍德,association,National Flute Association,https://www.nfaonline.org/committees/committee-web-pages/pedagogy-committee,人物及相關文獻來源
+PS0322,FM054,Keith Underwood,基思・安德伍德,authority,Wikidata,https://www.wikidata.org/wiki/Q21466719,人物及相關文獻來源
+PS0323,FM054,Keith Underwood,基思・安德伍德,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Keith%20Underwood%20flute,人物及相關文獻來源
+PS0324,FM055,Jim Walker,吉姆・沃克,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0329,FM055,Jim Walker,吉姆・沃克,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Jim%20Walker%20flute,人物及相關文獻來源
+PS0330,FM056,Barthold Kuijken,巴托爾德・奎肯,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0331,FM056,Barthold Kuijken,巴托爾德・奎肯,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0333,FM056,Barthold Kuijken,巴托爾德・奎肯,authority,Wikidata,https://www.wikidata.org/wiki/Q749926,人物及相關文獻來源
+PS0334,FM056,Barthold Kuijken,巴托爾德・奎肯,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Barthold_Kuijken,人物及相關文獻來源
+PS0335,FM056,Barthold Kuijken,巴托爾德・奎肯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Barthold%20Kuijken%20flute,人物及相關文獻來源
+PS0336,FM057,Frans Brüggen,弗蘭斯・布呂根,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0339,FM057,Frans Brüggen,弗蘭斯・布呂根,authority,Wikidata,https://www.wikidata.org/wiki/Q711810,人物及相關文獻來源
+PS0340,FM057,Frans Brüggen,弗蘭斯・布呂根,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Frans_Br%C3%BCggen,人物及相關文獻來源
+PS0341,FM057,Frans Brüggen,弗蘭斯・布呂根,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Frans%20Br%C3%BCggen%20flute,人物及相關文獻來源
+PS0342,FM058,Stephen Preston,史蒂芬・普雷斯頓,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0343,FM058,Stephen Preston,史蒂芬・普雷斯頓,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0347,FM058,Stephen Preston,史蒂芬・普雷斯頓,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Stephen%20Preston%20flute,人物及相關文獻來源
+PS0348,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0351,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,authority,Wikidata,https://www.wikidata.org/wiki/Q2570131,人物及相關文獻來源
+PS0352,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Wilbert%20Hazelzet%20flute,人物及相關文獻來源
+PS0353,FM060,Rachel Brown,瑞秋・布朗,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0354,FM060,Rachel Brown,瑞秋・布朗,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0358,FM060,Rachel Brown,瑞秋・布朗,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Rachel%20Brown%20flute,人物及相關文獻來源
+PS0359,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0362,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,authority,Wikidata,https://www.wikidata.org/wiki/Q6557816,人物及相關文獻來源
+PS0363,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Lisa_Beznosiuk,人物及相關文獻來源
+PS0364,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Lisa%20Beznosiuk%20flute,人物及相關文獻來源
+PS0365,FM062,Claire Guimond,克萊兒・吉蒙,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0368,FM062,Claire Guimond,克萊兒・吉蒙,authority,Wikidata,https://www.wikidata.org/wiki/Q93386582,人物及相關文獻來源
+PS0369,FM062,Claire Guimond,克萊兒・吉蒙,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Claire_Guimond,人物及相關文獻來源
+PS0370,FM062,Claire Guimond,克萊兒・吉蒙,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Claire%20Guimond%20flute,人物及相關文獻來源
+PS0371,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0372,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0374,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,authority,Wikidata,https://www.wikidata.org/wiki/Q1369119,人物及相關文獻來源
+PS0375,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Pierre-Yves_Artaud,人物及相關文獻來源
+PS0376,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Pierre-Yves%20Artaud%20flute,人物及相關文獻來源
+PS0377,FM064,Patrick Gallois,帕特里克・加洛瓦,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0380,FM064,Patrick Gallois,帕特里克・加洛瓦,authority,Wikidata,https://www.wikidata.org/wiki/Q1234459,人物及相關文獻來源
+PS0381,FM064,Patrick Gallois,帕特里克・加洛瓦,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Patrick_Gallois,人物及相關文獻來源
+PS0382,FM064,Patrick Gallois,帕特里克・加洛瓦,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Patrick%20Gallois%20flute,人物及相關文獻來源
+PS0383,FM065,Philippe Bernold,菲利普・貝爾諾,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0386,FM065,Philippe Bernold,菲利普・貝爾諾,authority,Wikidata,https://www.wikidata.org/wiki/Q16177156,人物及相關文獻來源
+PS0387,FM065,Philippe Bernold,菲利普・貝爾諾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Philippe%20Bernold%20flute,人物及相關文獻來源
+PS0388,FM066,Emmanuel Pahud,艾曼紐・帕胡德,scholarly_index,Semantic Scholar,https://www.semanticscholar.org/paper/The-Flute-Book%3A-A-Complete-Guide-for-Students-and-Toff/edd41608d0a9ef80282878f1484021adaef8cf6a,人物及相關文獻來源
+PS0391,FM066,Emmanuel Pahud,艾曼紐・帕胡德,authority,Wikidata,https://www.wikidata.org/wiki/Q115764,人物及相關文獻來源
+PS0392,FM066,Emmanuel Pahud,艾曼紐・帕胡德,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Emmanuel_Pahud,人物及相關文獻來源
+PS0393,FM066,Emmanuel Pahud,艾曼紐・帕胡德,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Emmanuel%20Pahud%20flute,人物及相關文獻來源
+PS0396,FM067,Jacques Zoon,雅克・宗,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0397,FM067,Jacques Zoon,雅克・宗,authority,Wikidata,https://www.wikidata.org/wiki/Q1136958,人物及相關文獻來源
+PS0398,FM067,Jacques Zoon,雅克・宗,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Jacques_Zoon,人物及相關文獻來源
+PS0399,FM067,Jacques Zoon,雅克・宗,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Jacques%20Zoon%20flute,人物及相關文獻來源
+PS0402,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0403,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,authority,Wikidata,https://www.wikidata.org/wiki/Q4364046,人物及相關文獻來源
+PS0404,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Marina_Piccinini,人物及相關文獻來源
+PS0405,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Marina%20Piccinini%20flute,人物及相關文獻來源
+PS0408,FM069,Sharon Bezaly,莎朗・貝扎利,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0409,FM069,Sharon Bezaly,莎朗・貝扎利,authority,Wikidata,https://www.wikidata.org/wiki/Q269852,人物及相關文獻來源
+PS0410,FM069,Sharon Bezaly,莎朗・貝扎利,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Sharon_Bezaly,人物及相關文獻來源
+PS0411,FM069,Sharon Bezaly,莎朗・貝扎利,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Sharon%20Bezaly%20flute,人物及相關文獻來源
+PS0414,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0415,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,authority,Wikidata,https://www.wikidata.org/wiki/Q1992545,人物及相關文獻來源
+PS0416,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Denis_Bouriakov,人物及相關文獻來源
+PS0417,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Denis%20Bouriakov%20flute,人物及相關文獻來源
+PS0420,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0421,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,authority,Wikidata,https://www.wikidata.org/wiki/Q4260845,人物及相關文獻來源
+PS0422,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Andrea%20Lieberknecht%20flute,人物及相關文獻來源
+PS0425,FM072,Felix Renggli,菲利克斯・倫格利,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0426,FM072,Felix Renggli,菲利克斯・倫格利,authority,Wikidata,https://www.wikidata.org/wiki/Q4393227,人物及相關文獻來源
+PS0427,FM072,Felix Renggli,菲利克斯・倫格利,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Felix%20Renggli%20flute,人物及相關文獻來源
+PS0430,FM073,Emily Beynon,艾蜜莉・貝農,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0431,FM073,Emily Beynon,艾蜜莉・貝農,authority,Wikidata,https://www.wikidata.org/wiki/Q2365939,人物及相關文獻來源
+PS0432,FM073,Emily Beynon,艾蜜莉・貝農,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Emily%20Beynon%20flute,人物及相關文獻來源
+PS0433,FM074,Susan Milan,蘇珊・米蘭,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0436,FM074,Susan Milan,蘇珊・米蘭,authority,Wikidata,https://www.wikidata.org/wiki/Q978231,人物及相關文獻來源
+PS0437,FM074,Susan Milan,蘇珊・米蘭,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Susan_Milan,人物及相關文獻來源
+PS0438,FM074,Susan Milan,蘇珊・米蘭,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Susan%20Milan%20flute,人物及相關文獻來源
+PS0441,FM075,Wissam Boustany,威薩姆・布斯塔尼,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0442,FM075,Wissam Boustany,威薩姆・布斯塔尼,authority,Wikidata,https://www.wikidata.org/wiki/Q21175284,人物及相關文獻來源
+PS0443,FM075,Wissam Boustany,威薩姆・布斯塔尼,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Wissam_Boustany,人物及相關文獻來源
+PS0444,FM075,Wissam Boustany,威薩姆・布斯塔尼,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Wissam%20Boustany%20flute,人物及相關文獻來源
+PS0447,FM076,Gareth Davies,加雷斯・戴維斯,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0450,FM076,Gareth Davies,加雷斯・戴維斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Gareth%20Davies%20flute,人物及相關文獻來源
+PS0453,FM077,Adam Walker,亞當・沃克,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0456,FM077,Adam Walker,亞當・沃克,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Adam%20Walker%20flute,人物及相關文獻來源
+PS0459,FM078,Lorna McGhee,洛娜・麥吉,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0460,FM078,Lorna McGhee,洛娜・麥吉,authority,Wikidata,https://www.wikidata.org/wiki/Q6681377,人物及相關文獻來源
+PS0461,FM078,Lorna McGhee,洛娜・麥吉,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Lorna_McGhee,人物及相關文獻來源
+PS0462,FM078,Lorna McGhee,洛娜・麥吉,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Lorna%20McGhee%20flute,人物及相關文獻來源
+PS0465,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0466,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,authority,Wikidata,https://www.wikidata.org/wiki/Q61475620,人物及相關文獻來源
+PS0467,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Paul%20Edmund-Davies%20flute,人物及相關文獻來源
+PS0470,FM080,Jeffrey Khaner,傑弗里・卡納,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0471,FM080,Jeffrey Khaner,傑弗里・卡納,authority,Wikidata,https://www.wikidata.org/wiki/Q6176099,人物及相關文獻來源
+PS0472,FM080,Jeffrey Khaner,傑弗里・卡納,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Jeffrey_Khaner,人物及相關文獻來源
+PS0473,FM080,Jeffrey Khaner,傑弗里・卡納,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Jeffrey%20Khaner%20flute,人物及相關文獻來源
+PS0476,FM081,Mark Sparks,馬克・斯帕克斯,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0478,FM081,Mark Sparks,馬克・斯帕克斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Mark%20Sparks%20flute,人物及相關文獻來源
+PS0481,FM082,Joshua Smith,約書亞・史密斯,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0483,FM082,Joshua Smith,約書亞・史密斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Joshua%20Smith%20flute,人物及相關文獻來源
+PS0486,FM083,Amy Porter,艾米・波特,association,National Flute Association,https://www.nfaonline.org/committees/committee-web-pages/pedagogy-committee,人物及相關文獻來源
+PS0488,FM083,Amy Porter,艾米・波特,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Amy%20Porter%20flute,人物及相關文獻來源
+PS0491,FM084,Alexa Still,亞歷克莎・史蒂爾,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0492,FM084,Alexa Still,亞歷克莎・史蒂爾,authority,Wikidata,https://www.wikidata.org/wiki/Q4718082,人物及相關文獻來源
+PS0493,FM084,Alexa Still,亞歷克莎・史蒂爾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Alexa_Still,人物及相關文獻來源
+PS0494,FM084,Alexa Still,亞歷克莎・史蒂爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Alexa%20Still%20flute,人物及相關文獻來源
+PS0495,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0496,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,association,National Flute Association,https://www.nfaonline.org/committees/committee-web-pages/pedagogy-committee,人物及相關文獻來源
+PS0498,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,institution,Institutional biography,https://music.unt.edu/people/mary-karen-clardy.html,人物及相關文獻來源
+PS0499,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,web_source,Web source,https://mkclardy.com/,人物及相關文獻來源
+PS0500,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Mary%20Karen%20Clardy%20flute,人物及相關文獻來源
+PS0501,FM086,Patricia George,派翠西亞・喬治,association,National Flute Association,https://www.nfaonline.org/about/about-the-nfa/achievement-awards,人物及相關文獻來源
+PS0502,FM086,Patricia George,派翠西亞・喬治,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/selected-flute-repertoire-and-studies,人物及相關文獻來源
+PS0503,FM086,Patricia George,派翠西亞・喬治,association,National Flute Association,https://www.nfaonline.org/committees/committee-web-pages/pedagogy-committee,人物及相關文獻來源
+PS0504,FM086,Patricia George,派翠西亞・喬治,authority,Wikidata,https://www.wikidata.org/wiki/Q115706218,人物及相關文獻來源
+PS0505,FM086,Patricia George,派翠西亞・喬治,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Patricia%20George%20flute,人物及相關文獻來源
+PS0508,FM087,Linda Chesis,琳達・切西斯,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0509,FM087,Linda Chesis,琳達・切西斯,institution,Institutional biography,https://www.msmnyc.edu/faculty/linda-chesis/,人物及相關文獻來源
+PS0510,FM087,Linda Chesis,琳達・切西斯,institution,Institutional biography,https://www.gc.cuny.edu/people/linda-chesis,人物及相關文獻來源
+PS0511,FM087,Linda Chesis,琳達・切西斯,web_source,Web source,https://theinstrumentalist.com/september-2019-flute-talk/master-teacher-and-performer-following-your-passion-an-interview-with-linda-chesis/,人物及相關文獻來源
+PS0512,FM087,Linda Chesis,琳達・切西斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Linda%20Chesis%20flute,人物及相關文獻來源
+PS0515,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0516,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,authority,Wikidata,https://www.wikidata.org/wiki/Q109601122,人物及相關文獻來源
+PS0517,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Tara%20Helen%20O%27Connor%20flute,人物及相關文獻來源
+PS0520,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0521,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,institution,Institutional biography,https://blair.vanderbilt.edu/bio/molly-barth/,人物及相關文獻來源
+PS0522,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,web_source,Web source,https://www.mollybarth.com/,人物及相關文獻來源
+PS0523,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,web_source,Web source,https://cantaloupemusic.com/artists/molly-barth,人物及相關文獻來源
+PS0524,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Molly%20Alicia%20Barth%20flute,人物及相關文獻來源
+PS0527,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0528,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,institution,Institutional biography,https://www.cmu.edu/cfa/music/people/Bios/almarza_alberto.html,人物及相關文獻來源
+PS0529,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,artist_profile,Artist profile,https://woodwinds.tonebase.co/flute-artist-biographies/albertoalmarza,人物及相關文獻來源
+PS0530,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Alberto%20Almarza%20flute,人物及相關文獻來源
+PS0533,FM091,Jasmine Choi,崔娜卿,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0534,FM091,Jasmine Choi,崔娜卿,authority,Wikidata,https://www.wikidata.org/wiki/Q15293706,人物及相關文獻來源
+PS0535,FM091,Jasmine Choi,崔娜卿,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Jasmine_Choi,人物及相關文獻來源
+PS0536,FM091,Jasmine Choi,崔娜卿,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Jasmine%20Choi%20flute,人物及相關文獻來源
+PS0539,FM092,Shigenori Kudo,工藤重典,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0540,FM092,Shigenori Kudo,工藤重典,authority,Wikidata,https://www.wikidata.org/wiki/Q11479640,人物及相關文獻來源
+PS0541,FM092,Shigenori Kudo,工藤重典,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Shigenori%20Kudo%20flute,人物及相關文獻來源
+PS0544,FM093,Kazunori Seo,瀨尾和紀,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0545,FM093,Kazunori Seo,瀨尾和紀,authority,Wikidata,https://www.wikidata.org/wiki/Q52148239,人物及相關文獻來源
+PS0546,FM093,Kazunori Seo,瀨尾和紀,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Kazunori%20Seo%20flute,人物及相關文獻來源
+PS0549,FM094,Seiya Ueno,上野星矢,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0550,FM094,Seiya Ueno,上野星矢,authority,Wikidata,https://www.wikidata.org/wiki/Q11360353,人物及相關文獻來源
+PS0551,FM094,Seiya Ueno,上野星矢,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Seiya%20Ueno%20flute,人物及相關文獻來源
+PS0554,FM095,Yuki Koyama,小山裕幾,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0555,FM095,Yuki Koyama,小山裕幾,authority,Wikidata,https://www.wikidata.org/wiki/Q87439578,人物及相關文獻來源
+PS0556,FM095,Yuki Koyama,小山裕幾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Yuki%20Koyama%20flute,人物及相關文獻來源
+PS0559,FM096,Juliette Hurel,朱麗葉・于雷爾,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0560,FM096,Juliette Hurel,朱麗葉・于雷爾,authority,Wikidata,https://www.wikidata.org/wiki/Q3189766,人物及相關文獻來源
+PS0561,FM096,Juliette Hurel,朱麗葉・于雷爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Juliette%20Hurel%20flute,人物及相關文獻來源
+PS0564,FM097,Vincent Lucas,文森・盧卡,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0566,FM097,Vincent Lucas,文森・盧卡,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Vincent%20Lucas%20flute,人物及相關文獻來源
+PS0569,FM098,Davide Formisano,達維德・福爾米薩諾,library_archive,Library of Congress,https://guides.loc.gov/flute/special-collections,人物及相關文獻來源
+PS0570,FM098,Davide Formisano,達維德・福爾米薩諾,authority,Wikidata,https://www.wikidata.org/wiki/Q1177529,人物及相關文獻來源
+PS0571,FM098,Davide Formisano,達維德・福爾米薩諾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Davide%20Formisano%20flute,人物及相關文獻來源
+PS0574,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0575,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,authority,Wikidata,https://www.wikidata.org/wiki/Q116607378,人物及相關文獻來源
+PS0576,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/S%C3%A9bastian_Jacot,人物及相關文獻來源
+PS0577,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=S%C3%A9bastian%20Jacot%20flute,人物及相關文獻來源
+PS0580,FM100,Demarre McGill,德馬爾・麥吉爾,association,National Flute Association,https://www.nfaonline.org/resources-publications/publications/flutist-quarterly,人物及相關文獻來源
+PS0581,FM100,Demarre McGill,德馬爾・麥吉爾,authority,Wikidata,https://www.wikidata.org/wiki/Q55584195,人物及相關文獻來源
+PS0582,FM100,Demarre McGill,德馬爾・麥吉爾,encyclopedia,Wikipedia,https://en.wikipedia.org/wiki/Demarre_McGill,人物及相關文獻來源
+PS0583,FM100,Demarre McGill,德馬爾・麥吉爾,bibliographic_catalog,WorldCat,https://search.worldcat.org/search?q=Demarre%20McGill%20flute,人物及相關文獻來源
+REL-LG0063,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,biographical_reference,Flute Examiner interview: undergraduate teacher and mentor Michel Debost,https://thefluteexaminer.com/make-music-and-achieve-success-a-conversation-with-molly-barth/,師承與人物經歷
+REL-LG0064,FM032,Robert Willoughby,羅伯特・威洛比,biographical_reference,Official biography: studied at Eastman with Joseph Mariano,https://robertwilloughby.com/bio.html,師承與人物經歷
+REL-LG0065,FM032,Robert Willoughby,羅伯特・威洛比,biographical_reference,Instrumentalist birthday profile: lessons with Georges Laurent,https://theinstrumentalist.com/december-2011/90th-birthday-celebration-for-robert-willoughby-2/,師承與人物經歷
+REL-LG0067,FM016,Georges Laurent,喬治・洛朗,biographical_reference,Pappoutsakis Society biography: pupil of Paul Taffanel,https://www.pappoutsakis.org/bio,師承與人物經歷
+REL-LG0069,FM017,William Kincaid,威廉・金凱德,biographical_reference,Joffe Woodwinds article: studied with Georges Barrere,https://www.joffewoodwinds.com/articles/william-kincaid-and-marcel-moyse/,師承與人物經歷
+REL-LG0070,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,biographical_reference,UNT dissertation: Geoffrey Gilbert as a student of Rene Le Roy,https://digital.library.unt.edu/ark:/67531/metadc1157581/m2/1/high_res_d/RODRIGUEZ-DISSERTATION-2018.pdf,師承與人物經歷
+REL-LG0071,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,biographical_reference,Flutepage biography: notable pupils include Stephen Preston,https://www.flutepage.de/deutsch/composer/person.php?englisch=true&id=421,師承與人物經歷
+REL-LG0072,FM037,Lois Schaefer,露易絲・謝弗,biographical_reference,NFA profile: studied at NEC with Georges Laurent,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/lois-schaefer,師承與人物經歷
+REL-LG0073,FM038,Bernard Goldberg,伯納德・戈德堡,biographical_reference,University of Miami doctoral study: teachers included Georges Barrere,https://scholarship.miami.edu/esploro/outputs/doctoral/Bernard-Goldberg-A-biographical-sketch-and/991031447713102976,師承與人物經歷
+REL-LG0075,FM053,András Adorján,安德拉什・阿多揚,biographical_reference,Reina Sofia profile: studies with Jean-Pierre Rampal,https://www.escuelasuperiordemusicareinasofia.es/en/profesor/andras-adorjan/,師承與人物經歷
+REL-LG0077,FM054,Keith Underwood,基思・安德伍德,biographical_reference,Bulletproof Musician interview: studied with Thomas Nyfenger,https://bulletproofmusician.com/keith-underwood-part-1-on-the-art-of-imitation-and-how-to-glean-insights-from-great-musicians-to-level-up-your-playing/,師承與人物經歷
+REL-LG0078,FM058,Stephen Preston,史蒂芬・普雷斯頓,biographical_reference,Mastering The Flute profile: studied with Geoffrey Gilbert,https://masteringtheflute.com/en/flutists/P/preston-stephen-24,師承與人物經歷
+REL-LG0079,FM072,Felix Renggli,菲利克斯・倫格利,biographical_reference,Official biography: studies with Gerhard Hildenbrand,https://www.felixrenggli.com/english,師承與人物經歷
+REL-LG0082,FM082,Joshua Smith,約書亞・史密斯,biographical_reference,PCMS profile: studied with Frank Bowen,https://www.pcmsconcerts.org/artist/joshua-smith/,師承與人物經歷
+REL-LG0088,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,biographical_reference,Bard faculty profile: principal teachers include Samuel Baron,https://www.bard.edu/faculty/tara-helen-oconnor,師承與人物經歷
+REL-LG0091,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,biographical_reference,Mariinsky guest biography: studied in Jacques Zoon's class,https://www.mariinsky.ru/en/company/guests/flute/jacot_sebastian/,師承與人物經歷
+REL-LG0093,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,biographical_reference,Flutepage biography: studies in Rome with Arrigo Tassinari,https://www.flutepage.de/deutsch/composer/person.php?englisch=true&id=560,師承與人物經歷
+REL-LG0094,FM030,Trevor Wye,特雷弗・懷伊,biographical_reference,NFA profile: studied privately with Geoffrey Gilbert,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/trevor-wye,師承與人物經歷
+REL-LG0096,FM039,John Krell,約翰・克雷爾,biographical_reference,Biography summary: studied flute with William Kincaid at Curtis,https://en.wikipedia.org/wiki/John_C._Krell,師承與人物經歷
+REL-LG0101,FM065,Philippe Bernold,菲利普・貝爾諾,biographical_reference,Official biography: studied under Rene Matter,https://philippebernold.com/philippe-bernold-biography.html,師承與人物經歷
+REL-LG0103,FM093,Kazunori Seo,瀨尾和紀,biographical_reference,Ecole Normale profile: flute class of Alain Marion,https://www.ecolenormalecortot.com/en/enseignants/seo-kazunori/,師承與人物經歷
+REL-LG0105,FM098,Davide Formisano,達維德・福爾米薩諾,biographical_reference,Muvac profile: studies with Jean-Claude Gerard,https://www.muvac.com/en/profile/davide-formisano,師承與人物經歷
+REL-LG0106,FM100,Demarre McGill,德馬爾・麥吉爾,biographical_reference,Official biography: studied with Susan Levitin,https://www.demarremcgill.com/,師承與人物經歷
+REL-LG0107,FM002,Theobald Boehm,特奧巴德・伯姆,biographical_reference,Theobald Boehm Archive biography: took flute lessons with Johann Nepomuk Kapeller,https://theobald-boehm-archiv-und-wettbewerb.de/Biography,師承與人物經歷
+REL-LG0108,FM002,Theobald Boehm,特奧巴德・伯姆,biographical_reference,Babel Flute article: Boehm was impressed by Nicholson's powerful tone in London,https://thebabelflute.com/theobald-bohm-as-a-flute-maker/,師承與人物經歷
+REL-LG0109,FM003,Charles Nicholson,查爾斯・尼科爾森,biographical_reference,Dictionary of National Biography: Nicholson was trained under his father,"https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Nicholson,_Charles",師承與人物經歷
+REL-LG0112,FM009,Adolphe Hennebains,阿道夫・亨內班,biographical_reference,New York Public Library Marcel Moyse papers: Moyse studied with Adolphe Hennebains,https://archives.nypl.org/mus/20284,師承與人物經歷
+REL-LG0113,FM009,Adolphe Hennebains,阿道夫・亨內班,biographical_reference,UNT dissertation on Rene Le Roy: Le Roy began study with Hennebains in 1907,https://digital.library.unt.edu/ark:/67531/metadc1157581/m2/1/high_res_d/RODRIGUEZ-DISSERTATION-2018.pdf,師承與人物經歷
+REL-LG0114,FM012,Marcel Moyse,馬塞爾・莫伊茲,biographical_reference,tonebase biography: Moyse studied flute with Paul Taffanel,https://www.tonebase.co/composer-biographies/marcelmoyse,師承與人物經歷
+REL-LG0117,FM018,Joseph Mariano,約瑟夫・馬里亞諾,biographical_reference,Eastman portrait: Mariano studied at Curtis with William Kincaid,https://www.esm.rochester.edu/about/portraits/mariano/,師承與人物經歷
+REL-LG0119,FM023,Aurèle Nicolet,奧雷勒・尼科萊,biographical_reference,NFA profile: Nicolet studied flute with Andre Jaunet,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/aur%C3%A8le-nicolet,師承與人物經歷
+REL-LG0121,FM026,James Galway,詹姆斯・高威,biographical_reference,Encyclopedia.com biography: Galway studied with John Francis at the Royal College of Music,https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/james-galway,師承與人物經歷
+REL-LG0129,FM031,Louis Moyse,路易・莫伊茲,biographical_reference,NFA profile: Louis Moyse's teachers included Philippe Gaubert,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/louis-moyse,師承與人物經歷
+REL-LG0131,FM034,Albert Tipton,阿爾伯特・蒂普頓,biographical_reference,NFA profile: Tipton studied with William Kincaid at Curtis,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/albert-tipton,師承與人物經歷
+REL-LG0132,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,biographical_reference,NFA profile: Blaisdell studied with Ernest Wagner,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/frances-blaisdell,師承與人物經歷
+REL-LG0134,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,biographical_reference,Boston Musical Intelligencer obituary: Dwyer studied with William Kincaid,https://classical-scene.com/2020/03/16/doriot-anthony-dwyer-1922-2020/,師承與人物經歷
+REL-LG0135,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,biographical_reference,Official timeline: Baxtresser went to Juilliard to study with Julius Baker,https://www.jeannebaxtresser.com/timeline/family.php,師承與人物經歷
+REL-LG0136,FM043,Bonita Boyd,博妮塔・博伊德,biographical_reference,Eastman profile: early teachers included Maurice Sharp,https://www.esm.rochester.edu/directory/boyd-bonita/,師承與人物經歷
+REL-LG0139,FM044,Carol Wincenc,卡羅爾・溫森克,biographical_reference,Stony Brook profile: Wincenc studied with Severino Gazzelloni,https://www.stonybrook.edu/commcms/music/people/faculty-and-staff/performance/carol_wincenc,師承與人物經歷
+REL-LG0143,FM045,Leone Buyse,萊昂・拜斯,biographical_reference,Official biography: Buyse was a student of Joseph Mariano at Eastman,https://www.leonebuyse.com/biography1,師承與人物經歷
+REL-LG0147,FM046,Paula Robison,寶拉・羅賓遜,biographical_reference,Official biography: Robison played for Julius Baker and entered Juilliard,https://www.paularobison.com/about-paula,師承與人物經歷
+REL-LG0149,FM080,Jeffrey Khaner,傑弗里・卡納,biographical_reference,Curtis profile: Khaner studied with Julius Baker at Juilliard,https://www.curtis.edu/person/jeffrey-khaner/,師承與人物經歷
+REL-LG0150,FM081,Mark Sparks,馬克・斯帕克斯,biographical_reference,New York Flute Club profile/interview: Sparks studied with Julius Baker,https://www.nyfluteclub.org/uploads/newsletters/2014-2015/14-December-Newsletter-final.pdf,師承與人物經歷
+REL-LG0151,FM084,Alexa Still,亞歷克莎・史蒂爾,biographical_reference,The Flute View interview: graduate studies in New York with Samuel Baron,https://thefluteview.com/2022/12/alexa-still-artist-interview-2/,師承與人物經歷
+REL-LG0153,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,biographical_reference,Flutepage biography: early serious flute studies with Giacomo Nigro,https://www.flutepage.de/deutsch/composer/person.php?englisch=true&id=16,師承與人物經歷
+REL-LG0154,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,biographical_reference,Flute Almanac profile: De Lorenzo mentored Julius Baker at Eastman,https://flutealmanac.com/leonardo-de-lorenzo-legacy/,師承與人物經歷
+REL-LG0155,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,biographical_reference,Northwestern obituary: Kujala studied with Joseph Mariano at Eastman,https://www.music.northwestern.edu/news/2024/walfrid-kujala-1925-2024,師承與人物經歷
+REL-LG0156,FM048,Robert Aitken,羅伯特・艾特肯,biographical_reference,Canadian Encyclopedia: Aitken studied with Nicholas Fiore at RCMT,https://thecanadianencyclopedia.ca/en/article/robert-aitken-emc,師承與人物經歷
+REL-LG0157,FM048,Robert Aitken,羅伯特・艾特肯,biographical_reference,The WholeNote profile: Aitken counts Marcel Moyse among his main teachers,https://www.thewholenote.com/index.php/newsroom/feature-stories/2389-multi-faceted-robert-aitken,師承與人物經歷
+REL-LG0158,FM049,Hubert Laws,休伯特・勞斯,biographical_reference,NFA profile: Laws studied privately with Clement Barone,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/hubert-laws,師承與人物經歷
+REL-LG0160,FM052,Harvey Sollberger,哈維・索爾伯格,biographical_reference,NFA profile: Gazzelloni inspired Sollberger as a youth,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/harvey-sollberger,師承與人物經歷
+REL-LG0161,FM055,Jim Walker,吉姆・沃克,biographical_reference,International Journal of Music profile timeline: significant teacher James Pellerite,https://ijm.education/winds/woodwinds/flute/jim-walker/,師承與人物經歷
+REL-LG0163,FM056,Barthold Kuijken,巴托爾德・奎肯,biographical_reference,Instrumentalist interview: Kuijken trained with Francis Stoefs at Brussels Conservatory,https://theinstrumentalist.com/april-2015-flute-talk/early-music-a-conversation-with-barthold-kuijken/,師承與人物經歷
+REL-LG0165,FM056,Barthold Kuijken,巴托爾德・奎肯,biographical_reference,YourClassical profile: Kuijken studied at The Hague with Frans Bruggen,https://www.yourclassical.org/profile/barthold-kuijken,師承與人物經歷
+REL-LG0166,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,biographical_reference,Biography summary: Hazelzet was encouraged by Kees Otten to begin baroque transverse flute,https://fr.wikipedia.org/wiki/Wilbert_Hazelzet,師承與人物經歷
+REL-LG0169,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,biographical_reference,Guildhall profile: Beznosiuk studied baroque and classical flutes with Stephen Preston,https://www.gsmd.ac.uk/staff/lisa-beznosiuk-baroqueclassical-flute,師承與人物經歷
+REL-LG0170,FM062,Claire Guimond,克萊兒・吉蒙,biographical_reference,Tafelmusik biography: Guimond studied baroque flute with Barthold Kuijken,https://tafelmusik.org/meet-tafelmusik/bios/claire-guimond/,師承與人物經歷
+REL-LG0171,FM067,Jacques Zoon,雅克・宗,biographical_reference,HEM Geneve profile: Zoon studied with Koos Verheul,https://www.hesge.ch/hem/en/la-hem/annuaire/jacques-zoon,師承與人物經歷
+REL-LG0175,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,biographical_reference,Official biography: Piccinini began studies in Toronto with Jeanne Baxtresser,https://www.marinapiccinini.com/about,師承與人物經歷
+REL-LG0178,FM069,Sharon Bezaly,莎朗・貝扎利,biographical_reference,Jerusalem Music Centre biography: Bezaly worked with Maurice Bourgue,https://www.jmc.org.il/en/sharon-bezaly/,師承與人物經歷
+REL-LG0182,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,biographical_reference,Official biography: Bouriakov studied with William Bennett at the Royal Academy of Music,https://bouriakov.com/bio,師承與人物經歷
+REL-LG0183,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,biographical_reference,DGfF German flutists page: Ausbildung with Paul Meisen,https://www.floete.net/en/publications/flutists-worldwide/german-flutists/,師承與人物經歷
+REL-LG0184,FM073,Emily Beynon,艾蜜莉・貝農,biographical_reference,Official biography: Beynon began flute studies with Margaret Ogonovsky,https://emilybeynon.com/,師承與人物經歷
+REL-LG0187,FM074,Susan Milan,蘇珊・米蘭,biographical_reference,Royal College of Music profile: Milan studied with John Francis,https://www.rcm.ac.uk/woodwind/professors/details/?id=01356,師承與人物經歷
+REL-LG0190,FM077,Adam Walker,亞當・沃克,biographical_reference,Royal College of Music news: Marcusson was Walker's former teacher,https://www.rcm.ac.uk/about/news/all/2017-11-01adamwalker.aspx,師承與人物經歷
+REL-LG0191,FM078,Lorna McGhee,洛娜・麥吉,biographical_reference,tonebase biography: McGhee studied with David Nicholson,https://woodwinds.tonebase.co/flute-artist-biographies/lornamcghee,師承與人物經歷
+REL-LG0194,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,biographical_reference,OhioLINK dissertation on NFA commissioned works: Hoyos studied with Mary Karen Clardy at UNT,https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1196186122&disposition=inline,師承與人物經歷
+REL-LG0195,FM086,Patricia George,派翠西亞・喬治,biographical_reference,NFA profile: George studied with Frances Blaisdell,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/patricia-george,師承與人物經歷
+REL-LG0202,FM092,Shigenori Kudo,工藤重典,biographical_reference,Haynes biography: Kudo completed musical education at the Conservatoire National de Paris with Jean-Pierre Rampal,https://www.wmshaynes.com/shigenori-kudo,師承與人物經歷
+REL-LG0203,FM092,Shigenori Kudo,工藤重典,biographical_reference,Ann Arbor program biography: Kudo's teachers included Alain Marion,https://aadl.org/sites/default/files/docfiles/programs_19881015e.pdf,師承與人物經歷
+REL-LG0204,FM076,Gareth Davies,加雷斯・戴維斯,biographical_reference,Camilla Marchant biography: studied at the Royal College of Music with Gareth Davies,https://www.camillamarchant.com/about,師承與人物經歷
+REL-LG0205,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,biographical_reference,Julien Beaudiment official biography: studied at Guildhall with Paul Edmund-Davies,https://www.beaudiment.com/about,師承與人物經歷
+REL-LG0206,FM094,Seiya Ueno,上野星矢,biographical_reference,California Young Artists Symphony profile: Rin Sakata previously studied with Seiya Ueno,https://cyasymphony.org/competition-program/,師承與人物經歷
+REL-LG0207,FM095,Yuki Koyama,小山裕幾,biographical_reference,California Young Artists Symphony profile: Rin Sakata previously studied with Yuki Koyama,https://cyasymphony.org/competition-program/,師承與人物經歷

@@ -1,0 +1,199 @@
+institution_link_id,person_id,name_en,institution_name,institution_qid,relationship_type,url
+IN0009,FM094,Seiya Ueno,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0010,FM067,Jacques Zoon,Conservatorium van Amsterdam,Q1127380,educated_at,https://www.wikidata.org/wiki/Q1127380
+IN0011,FM067,Jacques Zoon,Boston University,Q49110,employer,https://www.wikidata.org/wiki/Q49110
+IN0012,FM067,Jacques Zoon,Indiana University,Q6608367,employer,https://www.wikidata.org/wiki/Q6608367
+IN0013,FM067,Jacques Zoon,New England Conservatory,Q1347162,employer,https://www.wikidata.org/wiki/Q1347162
+IN0014,FM092,Shigenori Kudo,Toho Gakuen School of Music,Q859262,educated_at,https://www.wikidata.org/wiki/Q859262
+IN0015,FM066,Emmanuel Pahud,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0016,FM066,Emmanuel Pahud,Berlin Philharmonic,Q152222,member_of,https://www.wikidata.org/wiki/Q152222
+IN0017,FM024,Peter-Lukas Graf,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0018,FM064,Patrick Gallois,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0019,FM023,Aurèle Nicolet,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0020,FM023,Aurèle Nicolet,Berlin University of the Arts,Q55038,employer,https://www.wikidata.org/wiki/Q55038
+IN0021,FM023,Aurèle Nicolet,Hochschule für Musik Freiburg,Q650345,employer,https://www.wikidata.org/wiki/Q650345
+IN0022,FM023,Aurèle Nicolet,Berlin Philharmonic,Q152222,member_of,https://www.wikidata.org/wiki/Q152222
+IN0023,FM040,Walfrid Kujala,Eastman School of Music,Q1278284,educated_at,https://www.wikidata.org/wiki/Q1278284
+IN0024,FM040,Walfrid Kujala,Huntington High School,Q5945368,educated_at,https://www.wikidata.org/wiki/Q5945368
+IN0025,FM040,Walfrid Kujala,Bienen School of Music,Q4904546,employer,https://www.wikidata.org/wiki/Q4904546
+IN0026,FM063,Pierre-Yves Artaud,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0027,FM063,Pierre-Yves Artaud,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0028,FM091,Jasmine Choi,Curtis Institute of Music,Q60450,educated_at,https://www.wikidata.org/wiki/Q60450
+IN0029,FM091,Jasmine Choi,Juilliard School,Q503246,educated_at,https://www.wikidata.org/wiki/Q503246
+IN0030,FM035,Frances Blaisdell,Red Bank Regional High School,Q7303695,educated_at,https://www.wikidata.org/wiki/Q7303695
+IN0031,FM035,Frances Blaisdell,Stanford University,Q41506,employer,https://www.wikidata.org/wiki/Q41506
+IN0032,FM052,Harvey Sollberger,Columbia University,Q49088,educated_at,https://www.wikidata.org/wiki/Q49088
+IN0033,FM052,Harvey Sollberger,"University of California, San Diego",Q622664,employer,https://www.wikidata.org/wiki/Q622664
+IN0034,FM052,Harvey Sollberger,Manhattan School of Music,Q1702106,employer,https://www.wikidata.org/wiki/Q1702106
+IN0035,FM026,James Galway,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0036,FM026,James Galway,Guildhall School of Music and Drama,Q1419737,educated_at,https://www.wikidata.org/wiki/Q1419737
+IN0037,FM026,James Galway,Royal College of Music,Q304985,educated_at,https://www.wikidata.org/wiki/Q304985
+IN0038,FM026,James Galway,Berlin Philharmonic,Q152222,member_of,https://www.wikidata.org/wiki/Q152222
+IN0039,FM018,Joseph Mariano,Eastman School of Music,Q1278284,employer,https://www.wikidata.org/wiki/Q1278284
+IN0040,FM004,Jean-Louis Tulou,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0041,FM004,Jean-Louis Tulou,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0042,FM020,Jean-Pierre Rampal,Lycée Thiers,Q3268957,educated_at,https://www.wikidata.org/wiki/Q3268957
+IN0043,FM020,Jean-Pierre Rampal,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0044,FM020,Jean-Pierre Rampal,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0046,FM070,Denis Bouriakov,Moscow Conservatory,Q215539,educated_at,https://www.wikidata.org/wiki/Q215539
+IN0047,FM070,Denis Bouriakov,Royal Academy of Music,Q1144673,educated_at,https://www.wikidata.org/wiki/Q1144673
+IN0048,FM042,Jeanne Baxtresser,Juilliard School,Q503246,educated_at,https://www.wikidata.org/wiki/Q503246
+IN0049,FM042,Jeanne Baxtresser,Carnegie Mellon University,Q190080,employer,https://www.wikidata.org/wiki/Q190080
+IN0050,FM042,Jeanne Baxtresser,Juilliard School,Q503246,employer,https://www.wikidata.org/wiki/Q503246
+IN0051,FM042,Jeanne Baxtresser,New England Conservatory,Q1347162,employer,https://www.wikidata.org/wiki/Q1347162
+IN0052,FM013,René Le Roy,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0053,FM013,René Le Roy,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0054,FM011,Louis Fleury,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0055,FM073,Emily Beynon,Royal College of Music,Q304985,educated_at,https://www.wikidata.org/wiki/Q304985
+IN0056,FM073,Emily Beynon,Royal Academy of Music,Q1144673,educated_at,https://www.wikidata.org/wiki/Q1144673
+IN0057,FM073,Emily Beynon,Royal Conservatory of The Hague,Q18245,employer,https://www.wikidata.org/wiki/Q18245
+IN0058,FM022,Maxence Larrieu,Conservatoire à rayonnement régional de Marseille,Q2994567,educated_at,https://www.wikidata.org/wiki/Q2994567
+IN0059,FM010,Georges Barrère,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0060,FM021,Alain Marion,Conservatoire à rayonnement régional de Marseille,Q2994567,educated_at,https://www.wikidata.org/wiki/Q2994567
+IN0061,FM021,Alain Marion,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0062,FM021,Alain Marion,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0063,FM059,Wilbert Hazelzet,Royal Conservatory of The Hague,Q18245,employer,https://www.wikidata.org/wiki/Q18245
+IN0064,FM029,Michel Debost,Conservatoire National Supérieur de Musique et de Danse,Q2994538,employer,https://www.wikidata.org/wiki/Q2994538
+IN0065,FM019,Julius Baker,Carnegie Mellon University,Q190080,employer,https://www.wikidata.org/wiki/Q190080
+IN0066,FM019,Julius Baker,Curtis Institute of Music,Q60450,employer,https://www.wikidata.org/wiki/Q60450
+IN0067,FM019,Julius Baker,Juilliard School,Q503246,employer,https://www.wikidata.org/wiki/Q503246
+IN0068,FM069,Sharon Bezaly,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0069,FM007,Paul Taffanel,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0070,FM007,Paul Taffanel,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0071,FM007,Paul Taffanel,Orchestre de la Société des Concerts du Conservatoire,Q2537853,employer,https://www.wikidata.org/wiki/Q2537853
+IN0072,FM096,Juliette Hurel,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0073,FM096,Juliette Hurel,Hochschule für Musik und Tanz Köln,Q55021,educated_at,https://www.wikidata.org/wiki/Q55021
+IN0074,FM096,Juliette Hurel,Royal Conservatory of The Hague,Q18245,employer,https://www.wikidata.org/wiki/Q18245
+IN0075,FM096,Juliette Hurel,Havo voor Muziek en Dans,Q2539125,employer,https://www.wikidata.org/wiki/Q2539125
+IN0076,FM006,Joseph-Henri Altès,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0077,FM006,Joseph-Henri Altès,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0078,FM009,Adolphe Hennebains,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0079,FM009,Adolphe Hennebains,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0085,FM044,Carol Wincenc,Oberlin Conservatory of Music,Q750950,educated_at,https://www.wikidata.org/wiki/Q750950
+IN0086,FM044,Carol Wincenc,Manhattan School of Music,Q1702106,educated_at,https://www.wikidata.org/wiki/Q1702106
+IN0087,FM044,Carol Wincenc,Juilliard School,Q503246,educated_at,https://www.wikidata.org/wiki/Q503246
+IN0088,FM044,Carol Wincenc,Accademia Nazionale di Santa Cecilia,Q181410,educated_at,https://www.wikidata.org/wiki/Q181410
+IN0089,FM044,Carol Wincenc,Williamsville South High School,Q8021325,educated_at,https://www.wikidata.org/wiki/Q8021325
+IN0090,FM044,Carol Wincenc,Juilliard School,Q503246,employer,https://www.wikidata.org/wiki/Q503246
+IN0091,FM071,Andrea Lieberknecht,"Hanover University of Music, Drama and Media",Q455331,employer,https://www.wikidata.org/wiki/Q455331
+IN0092,FM068,Marina Piccinini,Juilliard School,Q503246,educated_at,https://www.wikidata.org/wiki/Q503246
+IN0093,FM068,Marina Piccinini,Johns Hopkins University,Q193727,employer,https://www.wikidata.org/wiki/Q193727
+IN0094,FM046,Paula Robison,Juilliard School,Q503246,educated_at,https://www.wikidata.org/wiki/Q503246
+IN0095,FM046,Paula Robison,New England Conservatory,Q1347162,employer,https://www.wikidata.org/wiki/Q1347162
+IN0096,FM015,Leonardo De Lorenzo,Eastman School of Music,Q1278284,employer,https://www.wikidata.org/wiki/Q1278284
+IN0097,FM015,Leonardo De Lorenzo,Rochester,Q49218,work_location,https://www.wikidata.org/wiki/Q49218
+IN0098,FM034,Albert Tipton,Curtis Institute of Music,Q60450,educated_at,https://www.wikidata.org/wiki/Q60450
+IN0099,FM034,Albert Tipton,Rice University,Q842909,employer,https://www.wikidata.org/wiki/Q842909
+IN0100,FM034,Albert Tipton,Florida State University,Q861548,employer,https://www.wikidata.org/wiki/Q861548
+IN0102,FM084,Alexa Still,Sydney Conservatorium of Music,Q2510091,educated_at,https://www.wikidata.org/wiki/Q2510091
+IN0103,FM084,Alexa Still,Sydney Conservatorium of Music,Q2510091,employer,https://www.wikidata.org/wiki/Q2510091
+IN0104,FM045,Leone Buyse,Emporia State University,Q1339396,educated_at,https://www.wikidata.org/wiki/Q1339396
+IN0105,FM045,Leone Buyse,Eastman School of Music,Q1278284,educated_at,https://www.wikidata.org/wiki/Q1278284
+IN0106,FM031,Louis Moyse,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0107,FM031,Louis Moyse,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0108,FM031,Louis Moyse,University of Toronto,Q180865,employer,https://www.wikidata.org/wiki/Q180865
+IN0109,FM031,Louis Moyse,Boston University,Q49110,employer,https://www.wikidata.org/wiki/Q49110
+IN0110,FM036,Doriot Anthony Dwyer,Eastman School of Music,Q1278284,educated_at,https://www.wikidata.org/wiki/Q1278284
+IN0111,FM036,Doriot Anthony Dwyer,Interlochen Center for the Arts,Q6047120,educated_at,https://www.wikidata.org/wiki/Q6047120
+IN0112,FM036,Doriot Anthony Dwyer,Boston University,Q49110,employer,https://www.wikidata.org/wiki/Q49110
+IN0113,FM043,Bonita Boyd,Eastman School of Music,Q1278284,educated_at,https://www.wikidata.org/wiki/Q1278284
+IN0114,FM043,Bonita Boyd,Eastman School of Music,Q1278284,employer,https://www.wikidata.org/wiki/Q1278284
+IN0119,FM080,Jeffrey Khaner,Westmount High School,Q7989327,educated_at,https://www.wikidata.org/wiki/Q7989327
+IN0120,FM080,Jeffrey Khaner,Juilliard School,Q503246,employer,https://www.wikidata.org/wiki/Q503246
+IN0121,FM061,Lisa Beznosiuk,Royal Academy of Music,Q1144673,employer,https://www.wikidata.org/wiki/Q1144673
+IN0122,FM061,Lisa Beznosiuk,University of Birmingham,Q223429,employer,https://www.wikidata.org/wiki/Q223429
+IN0123,FM078,Lorna McGhee,University of British Columbia,Q391028,employer,https://www.wikidata.org/wiki/Q391028
+IN0124,FM078,Lorna McGhee,University of Michigan,Q230492,employer,https://www.wikidata.org/wiki/Q230492
+IN0125,FM002,Theobald Boehm,Munich,Q1726,work_location,https://www.wikidata.org/wiki/Q1726
+IN0126,FM057,Frans Brüggen,University of Amsterdam,Q214341,educated_at,https://www.wikidata.org/wiki/Q214341
+IN0127,FM057,Frans Brüggen,Conservatorium van Amsterdam,Q1127380,educated_at,https://www.wikidata.org/wiki/Q1127380
+IN0128,FM057,Frans Brüggen,Ignatius Gymnasium,Q2042382,educated_at,https://www.wikidata.org/wiki/Q2042382
+IN0129,FM057,Frans Brüggen,Royal Conservatory of The Hague,Q18245,employer,https://www.wikidata.org/wiki/Q18245
+IN0130,FM057,Frans Brüggen,Conservatorium van Amsterdam,Q1127380,employer,https://www.wikidata.org/wiki/Q1127380
+IN0131,FM057,Frans Brüggen,Orchestra of the Eighteenth Century,Q1546339,member_of,https://www.wikidata.org/wiki/Q1546339
+IN0132,FM057,Frans Brüggen,Sour Cream,Q28457415,member_of,https://www.wikidata.org/wiki/Q28457415
+IN0133,FM012,Marcel Moyse,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0134,FM012,Marcel Moyse,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0135,FM049,Hubert Laws,Juilliard School,Q503246,educated_at,https://www.wikidata.org/wiki/Q503246
+IN0136,FM049,Hubert Laws,Wheatley High School,Q7991929,educated_at,https://www.wikidata.org/wiki/Q7991929
+IN0137,FM047,Ransom Wilson,Juilliard School,Q503246,educated_at,https://www.wikidata.org/wiki/Q503246
+IN0138,FM047,Ransom Wilson,University of North Carolina School of the Arts,Q7895938,educated_at,https://www.wikidata.org/wiki/Q7895938
+IN0139,FM005,Louis Dorus,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0140,FM005,Louis Dorus,Conservatoire de Paris,Q463055,employer,https://www.wikidata.org/wiki/Q463055
+IN0141,FM056,Barthold Kuijken,Royal Conservatory of The Hague,Q18245,educated_at,https://www.wikidata.org/wiki/Q18245
+IN0142,FM056,Barthold Kuijken,Royal Conservatory of Brussels,Q336968,educated_at,https://www.wikidata.org/wiki/Q336968
+IN0143,FM056,Barthold Kuijken,Royal Conservatory of The Hague,Q18245,employer,https://www.wikidata.org/wiki/Q18245
+IN0144,FM056,Barthold Kuijken,Royal Conservatory of Brussels,Q336968,employer,https://www.wikidata.org/wiki/Q336968
+IN0145,FM001,Johann Joachim Quantz,Sächsische Staatskapelle Dresden,Q584017,employer,https://www.wikidata.org/wiki/Q584017
+IN0146,FM001,Johann Joachim Quantz,Frederick II of Prussia,Q33550,employer,https://www.wikidata.org/wiki/Q33550
+IN0147,FM033,Samuel Baron,Brooklyn College,Q371625,educated_at,https://www.wikidata.org/wiki/Q371625
+IN0148,FM033,Samuel Baron,Juilliard School,Q503246,educated_at,https://www.wikidata.org/wiki/Q503246
+IN0149,FM033,Samuel Baron,Yale School of Music,Q2784420,employer,https://www.wikidata.org/wiki/Q2784420
+IN0150,FM033,Samuel Baron,Mannes College The New School for Music,Q1519151,employer,https://www.wikidata.org/wiki/Q1519151
+IN0151,FM033,Samuel Baron,Stony Brook University,Q969850,employer,https://www.wikidata.org/wiki/Q969850
+IN0152,FM033,Samuel Baron,Juilliard School,Q503246,employer,https://www.wikidata.org/wiki/Q503246
+IN0153,FM062,Claire Guimond,Arion Baroque Orchestra,Q2861299,member_of,https://www.wikidata.org/wiki/Q2861299
+IN0154,FM008,Philippe Gaubert,Conservatoire de Paris,Q463055,educated_at,https://www.wikidata.org/wiki/Q463055
+IN0155,FM008,Philippe Gaubert,Orchestre de la Société des Concerts du Conservatoire,Q2537853,employer,https://www.wikidata.org/wiki/Q2537853
+IN0156,FM074,Susan Milan,Royal College of Music,Q304985,educated_at,https://www.wikidata.org/wiki/Q304985
+IN0157,FM074,Susan Milan,Royal College of Music,Q304985,employer,https://www.wikidata.org/wiki/Q304985
+IN0158,FM050,James Pellerite,Indiana University Jacobs School of Music,,employer,https://music.indiana.edu/giving/scholarships/scholarships-pellerite.html
+IN0159,FM050,James Pellerite,Philadelphia Orchestra,,employer,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/james-pellerite
+IN0160,FM050,James Pellerite,National Flute Association,,member_of,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/james-pellerite
+IN0161,FM085,Mary Karen Clardy,University of North Texas College of Music,,employer,https://music.unt.edu/people/mary-karen-clardy.html
+IN0162,FM085,Mary Karen Clardy,University of North Texas,,educated_at,https://s3.amazonaws.com/mirror.facultyinfo.unt.edu/mkc0009/pci/Clardy%20CV%20-%202016%20%2800000002%29-2.pdf
+IN0163,FM085,Mary Karen Clardy,Catholic University of America,,educated_at,https://s3.amazonaws.com/mirror.facultyinfo.unt.edu/mkc0009/pci/Clardy%20CV%20-%202016%20%2800000002%29-2.pdf
+IN0164,FM085,Mary Karen Clardy,National Flute Association,,member_of,https://music.unt.edu/people/mary-karen-clardy.html
+IN0165,FM085,Mary Karen Clardy,British Flute Society,,member_of,https://music.unt.edu/people/mary-karen-clardy.html
+IN0166,FM087,Linda Chesis,Manhattan School of Music,,employer,https://www.msmnyc.edu/faculty/linda-chesis/
+IN0167,FM087,Linda Chesis,CUNY Graduate Center,,employer,https://www.gc.cuny.edu/people/linda-chesis
+IN0168,FM087,Linda Chesis,Cooperstown Summer Music Festival,,member_of,https://www.interlochen.org/person/linda-chesis
+IN0169,FM089,Molly Alicia Barth,Vanderbilt University Blair School of Music,,employer,https://blair.vanderbilt.edu/bio/molly-barth/
+IN0170,FM089,Molly Alicia Barth,eighth blackbird,,member_of,https://blair.vanderbilt.edu/bio/molly-barth/
+IN0171,FM090,Alberto Almarza,Carnegie Mellon University School of Music,,employer,https://www.cmu.edu/cfa/music/people/Bios/almarza_alberto.html
+IN0172,FM090,Alberto Almarza,National Flute Association,,member_of,https://www.tonebase.co/music-artist-biographies/albertoalmarza
+IN0173,FM032,Robert Willoughby,Oberlin Conservatory of Music,,employer,https://www.oberlin.edu/news/robert-willoughby-legendary-flute-professor-and-performer-dies-96
+IN0174,FM016,Georges Laurent,Boston Symphony Orchestra,,employer,https://www.pappoutsakis.org/bio
+IN0175,FM016,Georges Laurent,New England Conservatory,,employer,https://www.flutepage.de/deutsch/composer/person.php?englisch=true&id=1266
+IN0178,FM028,Geoffrey Gilbert,Guildhall School of Music,,employer,https://www.flutepage.de/deutsch/composer/person.php?englisch=true&id=421
+IN0179,FM028,Geoffrey Gilbert,Stetson University,,employer,https://www2.stetson.edu/today/2017/12/gentleman-of-the-flute-recounts-geoffrey-gilberts-love-for-teaching-at-stetson/
+IN0180,FM037,Lois Schaefer,Boston Symphony Orchestra,,employer,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/lois-schaefer
+IN0181,FM037,Lois Schaefer,New England Conservatory,,employer,https://csoarchives.wordpress.com/2021/03/29/remembering-lois-schaefer/
+IN0182,FM037,Lois Schaefer,Boston Conservatory,,employer,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/lois-schaefer
+IN0183,FM037,Lois Schaefer,National Flute Association,,member_of,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/lois-schaefer
+IN0189,FM054,Keith Underwood,New York University,,employer,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/keith-underwood
+IN0190,FM054,Keith Underwood,Mannes School of Music,,employer,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/keith-underwood
+IN0191,FM054,Keith Underwood,Queens College,,employer,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/keith-underwood
+IN0194,FM072,Felix Renggli,Basel Music Academy,,employer,https://www.genuinclassics.com/artist182-felix-renggli
+IN0199,FM088,Tara Helen O'Connor,Yale School of Music,,employer,https://music.yale.edu/people/tara-oconnor
+IN0200,FM088,Tara Helen O'Connor,Bard College Conservatory of Music,,employer,https://www.bard.edu/faculty/tara-helen-oconnor
+IN0201,FM095,Yuki Koyama,Finnish Radio Symphony Orchestra,,employer,https://www.concoursgeneve.ch/eng/people/yuki_koyama
+IN0202,FM095,Yuki Koyama,Sibelius Academy,,employer,https://www.concoursgeneve.ch/eng/people/yuki_koyama
+IN0203,FM095,Yuki Koyama,Seoul National University,,employer,https://www.concoursgeneve.ch/eng/people/yuki_koyama
+IN0204,FM099,Sébastian Jacot,Berlin Philharmonic,,employer,https://theviolinchannel.com/berlin-philharminics-principal-flute-sebastian-jacot-to-depart/
+IN0205,FM099,Sébastian Jacot,Leipzig Gewandhaus Orchestra,,employer,https://theviolinchannel.com/berlin-philharminics-principal-flute-sebastian-jacot-to-depart/
+IN0206,FM099,Sébastian Jacot,Hong Kong Philharmonic Orchestra,,employer,https://www.mariinsky.ru/en/company/guests/flute/jacot_sebastian/
+IN0207,FM014,Gaston Crunelle,Conservatoire de Paris,,employer,https://academic.oup.com/book/58003/chapter/477207111
+IN0208,FM014,Gaston Crunelle,Opera-Comique,,employer,https://academic.oup.com/book/58003/chapter/477207111
+IN0209,FM025,Severino Gazzelloni,Conservatorio di Santa Cecilia,,educated_at,https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/gazzelloni-severino-0
+IN0210,FM025,Severino Gazzelloni,RAI Symphony Orchestra of Rome,,employer,https://www.nfaonline.org/docs/default-source/default-document-library/gazzeloni_v2.pdf?sfvrsn=9a6ed935_0
+IN0211,FM030,Trevor Wye,Guildhall School of Music,,employer,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/trevor-wye
+IN0212,FM030,Trevor Wye,Royal Northern College of Music,,employer,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/trevor-wye
+IN0219,FM065,Philippe Bernold,Conservatoire de Paris,,employer,https://www.conservatoiredeparis.fr/en/teacher/bernold-philippe
+IN0220,FM065,Philippe Bernold,Orchestre de l'Opera National de Lyon,,employer,https://masteringtheflute.com/en/flutists/B/bernold-philippe-487
+IN0221,FM075,Wissam Boustany,Trinity Laban Conservatoire of Music and Dance,,employer,https://masteringtheflute.com/en/flutists/B/boustany-wissam-201/
+IN0222,FM075,Wissam Boustany,Royal Northern College of Music,,employer,https://masteringtheflute.com/en/flutists/B/boustany-wissam-201/
+IN0223,FM079,Paul Edmund-Davies,Royal Academy of Music,,employer,https://www.ram.ac.uk/people/paul-edmund-davies
+IN0224,FM079,Paul Edmund-Davies,London Symphony Orchestra,,employer,https://www.ram.ac.uk/people/paul-edmund-davies
+IN0225,FM079,Paul Edmund-Davies,Philharmonia Orchestra,,employer,https://www.ram.ac.uk/people/paul-edmund-davies
+IN0226,FM086,Patricia George,Sewanee Summer Music Festival,,employer,https://www.interlochen.org/person/patricia-george
+IN0227,FM086,Patricia George,American Band College,,employer,https://www.interlochen.org/person/patricia-george
+IN0228,FM086,Patricia George,Idaho State University,,employer,https://theinstrumentalist.com/august-september-2023/patricia-george-receives-2023-nfa-lifetime-achievement-award/
+IN0229,FM093,Kazunori Seo,Ecole Normale de Musique de Paris,,employer,https://www.ecolenormalecortot.com/en/enseignants/seo-kazunori/
+IN0230,FM093,Kazunori Seo,Conservatoire de Paris,,educated_at,https://www.ecolenormalecortot.com/en/enseignants/seo-kazunori/
+IN0231,FM098,Davide Formisano,Hochschule fuer Musik und Darstellende Kunst Stuttgart,,employer,https://www.hmdk-stuttgart.de/person/prof-davide-formisano
+IN0232,FM098,Davide Formisano,Stuttgart Philharmonic,,employer,https://www.cmclassics.ch/en/artistes/davide-formisano/
+IN0233,FM100,Demarre McGill,Seattle Symphony,,employer,https://www.seattlesymphony.org/en/about/meetthemusicians/theorchestra/artists/flute/mcgill-demarre
+IN0234,FM100,Demarre McGill,Colburn School,,employer,https://colburnschool.edu/faculty-listing/demarre-mcgill/
+IN0235,FM100,Demarre McGill,Curtis Institute of Music,,educated_at,https://www.demarremcgill.com/
+IN0236,FM100,Demarre McGill,Juilliard School,,educated_at,https://www.demarremcgill.com/

@@ -1,0 +1,117 @@
+event_id,person_id,name_en,name_zh,event_type,date_or_value,place_or_context,source
+EV0001,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,birth,1697-01-30,Scheden,Wikidata claims
+EV0002,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,death,1773-07-12,Potsdam,Wikidata claims
+EV0003,FM002,Theobald Boehm,特奧巴德・伯姆,birth,1794-04-09,Munich,Wikidata claims
+EV0004,FM002,Theobald Boehm,特奧巴德・伯姆,death,1881-11-25,Munich,Wikidata claims
+EV0007,FM004,Jean-Louis Tulou,讓-路易・圖盧,birth,1786-09-12,Paris,Wikidata claims
+EV0008,FM004,Jean-Louis Tulou,讓-路易・圖盧,death,1865-07-23,Nantes,Wikidata claims
+EV0009,FM005,Louis Dorus,路易・多魯斯,birth,1812-03-01,Valenciennes,Wikidata claims
+EV0010,FM005,Louis Dorus,路易・多魯斯,death,1896-06-09,Étretat,Wikidata claims
+EV0011,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,birth,1826-01-18,Rouen,Wikidata claims
+EV0012,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,death,1895-07-24,rue Oudinot,Wikidata claims
+EV0013,FM007,Paul Taffanel,保羅・塔法奈爾,birth,1844-09-16,Bordeaux,Wikidata claims
+EV0014,FM007,Paul Taffanel,保羅・塔法奈爾,death,1908-11-22,avenue Gourgaud,Wikidata claims
+EV0015,FM008,Philippe Gaubert,菲利普・高貝爾,birth,1879-07-04,Cahors,Wikidata claims
+EV0016,FM008,Philippe Gaubert,菲利普・高貝爾,death,1941-07-08,Paris,Wikidata claims
+EV0017,FM009,Adolphe Hennebains,阿道夫・亨內班,birth,1862-11-14,Saint-Omer,Wikidata claims
+EV0018,FM009,Adolphe Hennebains,阿道夫・亨內班,death,1914-09-17,Paris,Wikidata claims
+EV0019,FM010,Georges Barrère,喬治・巴雷爾,birth,1876-10-31,Bordeaux,Wikidata claims
+EV0020,FM010,Georges Barrère,喬治・巴雷爾,death,1944-06-14,Kingston,Wikidata claims
+EV0021,FM011,Louis Fleury,路易・弗勒里,birth,1878-05-24,4th arrondissement of Lyon,Wikidata claims
+EV0022,FM011,Louis Fleury,路易・弗勒里,death,1926-06-10,16th arrondissement of Paris,Wikidata claims
+EV0023,FM012,Marcel Moyse,馬塞爾・莫伊茲,birth,1889-05-17,Saint-Amour,Wikidata claims
+EV0024,FM012,Marcel Moyse,馬塞爾・莫伊茲,death,1984-11-01,Brattleboro,Wikidata claims
+EV0025,FM013,René Le Roy,勒內・勒魯瓦,birth,1898-03-04,Maisons-Laffitte,Wikidata claims
+EV0026,FM013,René Le Roy,勒內・勒魯瓦,death,1985-01-03,Épinay-sur-Orge,Wikidata claims
+EV0027,FM014,Gaston Crunelle,加斯東・克呂內爾,birth,1898-08-18,Douai,Wikidata claims
+EV0028,FM014,Gaston Crunelle,加斯東・克呂內爾,death,1990-01-13,Le Chesnay,Wikidata claims
+EV0029,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,birth,1875-08-29,Viggiano,Wikidata claims
+EV0030,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,death,1962-07-29,Santa Barbara,Wikidata claims
+EV0031,FM016,Georges Laurent,喬治・洛朗,birth,1886,,manual life_dates field
+EV0032,FM016,Georges Laurent,喬治・洛朗,death,1964,,manual life_dates field
+EV0035,FM018,Joseph Mariano,約瑟夫・馬里亞諾,birth,1911-03-17,Pittsburgh,Wikidata claims
+EV0036,FM018,Joseph Mariano,約瑟夫・馬里亞諾,death,2007-02-15,,Wikidata claims
+EV0037,FM019,Julius Baker,朱利葉斯・貝克,birth,1915-09-23,Cleveland,Wikidata claims
+EV0038,FM019,Julius Baker,朱利葉斯・貝克,death,2003-08-06,Danbury,Wikidata claims
+EV0039,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,birth,1922-01-07,Marseille,Wikidata claims
+EV0040,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,death,2000-05-20,Paris,Wikidata claims
+EV0041,FM021,Alain Marion,阿蘭・馬里翁,birth,1938-12-25,Allauch,Wikidata claims
+EV0042,FM021,Alain Marion,阿蘭・馬里翁,death,1998-08-16,Seoul,Wikidata claims
+EV0043,FM022,Maxence Larrieu,馬克桑斯・拉里厄,birth,1934-10-27,Marseille,Wikidata claims
+EV0044,FM023,Aurèle Nicolet,奧雷勒・尼科萊,birth,1926-01-22,Neuchâtel,Wikidata claims
+EV0045,FM023,Aurèle Nicolet,奧雷勒・尼科萊,death,2016-01-29,Freiburg im Breisgau,Wikidata claims
+EV0046,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,birth,1929-01-05,Zurich,Wikidata claims
+EV0048,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,birth,1919-01-05,Roccasecca,Wikidata claims
+EV0049,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,death,1992-11-21,Cassino,Wikidata claims
+EV0050,FM026,James Galway,詹姆斯・高威,birth,1939-12-08,Belfast,Wikidata claims
+EV0053,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,birth,1948-00-00,,Wikidata claims
+EV0054,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,death,1989,,manual life_dates field
+EV0055,FM029,Michel Debost,米歇爾・德博斯特,birth,1934-01-20,16th arrondissement of Paris,Wikidata claims
+EV0057,FM030,Trevor Wye,特雷弗・懷伊,birth,1935-06-06,Woking,Wikidata claims
+EV0058,FM031,Louis Moyse,路易・莫伊茲,birth,1912-08-14,Scheveningen,Wikidata claims
+EV0059,FM031,Louis Moyse,路易・莫伊茲,death,2007-07-30,Montpelier,Wikidata claims
+EV0060,FM032,Robert Willoughby,羅伯特・威洛比,birth,1921,,manual life_dates field
+EV0061,FM032,Robert Willoughby,羅伯特・威洛比,death,2018,,manual life_dates field
+EV0062,FM033,Samuel Baron,塞繆爾・巴倫,birth,1925-04-27,Brooklyn,Wikidata claims
+EV0063,FM033,Samuel Baron,塞繆爾・巴倫,death,1997-05-16,New York City,Wikidata claims
+EV0064,FM034,Albert Tipton,阿爾伯特・蒂普頓,birth,1917-03-16,,Wikidata claims
+EV0065,FM034,Albert Tipton,阿爾伯特・蒂普頓,death,1997-10-05,,Wikidata claims
+EV0066,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,birth,1912-01-01,,Wikidata claims
+EV0067,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,death,2009-03-11,,Wikidata claims
+EV0068,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,birth,1922-03-06,Streator,Wikidata claims
+EV0069,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,death,2020-03-14,Lawrence,Wikidata claims
+EV0070,FM037,Lois Schaefer,露易絲・謝弗,birth,1984-03-10,Yakima,Wikidata claims
+EV0071,FM037,Lois Schaefer,露易絲・謝弗,death,2020-01-31,Sequim,Wikidata claims
+EV0076,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,birth,1925-02-19,Warren,Wikidata claims
+EV0077,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,death,2024-11-10,Evanston,Wikidata claims
+EV0079,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,birth,1947-08-02,Bethlehem,Wikidata claims
+EV0080,FM043,Bonita Boyd,博妮塔・博伊德,birth,1949-08-01,Pittsburgh,Wikidata claims
+EV0081,FM044,Carol Wincenc,卡羅爾・溫森克,birth,1949-01-01,Buffalo,Wikidata claims
+EV0082,FM045,Leone Buyse,萊昂・拜斯,birth,1947-02-07,Ithaca,Wikidata claims
+EV0083,FM046,Paula Robison,寶拉・羅賓遜,birth,1941-06-08,Nashville,Wikidata claims
+EV0084,FM047,Ransom Wilson,蘭森・威爾遜,birth,1951-01-01,Tuscaloosa,Wikidata claims
+EV0087,FM049,Hubert Laws,休伯特・勞斯,birth,1939-11-10,Houston,Wikidata claims
+EV0088,FM050,James Pellerite,詹姆斯・佩勒賴特,birth,1926,,manual life_dates field
+EV0089,FM050,James Pellerite,詹姆斯・佩勒賴特,death,2018,,manual life_dates field
+EV0092,FM052,Harvey Sollberger,哈維・索爾伯格,birth,1938-05-11,Cedar Rapids,Wikidata claims
+EV0095,FM054,Keith Underwood,基思・安德伍德,birth,1934-01-01,,Wikidata claims
+EV0097,FM056,Barthold Kuijken,巴托爾德・奎肯,birth,1949-03-08,Dilbeek,Wikidata claims
+EV0098,FM057,Frans Brüggen,弗蘭斯・布呂根,birth,1934-10-30,Amsterdam,Wikidata claims
+EV0099,FM057,Frans Brüggen,弗蘭斯・布呂根,death,2014-08-13,Amsterdam,Wikidata claims
+EV0101,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,birth,1948-11-20,The Hague,Wikidata claims
+EV0103,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,birth,1956-08-20,Sheffield,Wikidata claims
+EV0104,FM062,Claire Guimond,克萊兒・吉蒙,birth,1955-10-26,Montreal,Wikidata claims
+EV0105,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,birth,1946-07-13,Paris,Wikidata claims
+EV0106,FM064,Patrick Gallois,帕特里克・加洛瓦,birth,1956-04-17,Linselles,Wikidata claims
+EV0107,FM065,Philippe Bernold,菲利普・貝爾諾,birth,1960-09-08,Colmar,Wikidata claims
+EV0108,FM066,Emmanuel Pahud,艾曼紐・帕胡德,birth,1970-01-27,Geneva,Wikidata claims
+EV0109,FM067,Jacques Zoon,雅克・宗,birth,1961-01-01,Heiloo,Wikidata claims
+EV0110,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,birth,1968-01-01,,Wikidata claims
+EV0111,FM069,Sharon Bezaly,莎朗・貝扎利,birth,1972-10-02,Israel,Wikidata claims
+EV0112,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,birth,1981-10-25,Simferopol,Wikidata claims
+EV0113,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,birth,1965-01-01,Augsburg,Wikidata claims
+EV0114,FM072,Felix Renggli,菲利克斯・倫格利,birth,1961-01-31,Basel,Wikidata claims
+EV0115,FM073,Emily Beynon,艾蜜莉・貝農,birth,1969-01-01,,Wikidata claims
+EV0116,FM074,Susan Milan,蘇珊・米蘭,birth,1947-09-03,London,Wikidata claims
+EV0117,FM075,Wissam Boustany,威薩姆・布斯塔尼,birth,1960-10-01,Lebanon,Wikidata claims
+EV0120,FM078,Lorna McGhee,洛娜・麥吉,birth,1972-01-01,,Wikidata claims
+EV0121,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,birth,1901-01-01,,Wikidata claims
+EV0122,FM080,Jeffrey Khaner,傑弗里・卡納,birth,1950-00-00,Montreal,Wikidata claims
+EV0127,FM084,Alexa Still,亞歷克莎・史蒂爾,birth,1962-00-00,New Zealand,Wikidata claims
+EV0128,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,birth,1947,,manual life_dates field
+EV0129,FM086,Patricia George,派翠西亞・喬治,birth,1944,,manual life_dates field
+EV0130,FM087,Linda Chesis,琳達・切西斯,birth,1953,,manual life_dates field
+EV0131,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,birth,1961,,manual life_dates field
+EV0132,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,birth,1978,,manual life_dates field
+EV0133,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,birth,1966,,manual life_dates field
+EV0134,FM091,Jasmine Choi,崔娜卿,birth,1983-05-23,Seoul,Wikidata claims
+EV0135,FM092,Shigenori Kudo,工藤重典,birth,1954-09-26,Sapporo,Wikidata claims
+EV0136,FM093,Kazunori Seo,瀨尾和紀,birth,1974-01-01,Kitakyūshū,Wikidata claims
+EV0137,FM094,Seiya Ueno,上野星矢,birth,1989-08-00,Suginami,Wikidata claims
+EV0138,FM095,Yuki Koyama,小山裕幾,birth,1986,,manual life_dates field
+EV0139,FM096,Juliette Hurel,朱麗葉・于雷爾,birth,1970-05-14,Auxerre,Wikidata claims
+EV0141,FM098,Davide Formisano,達維德・福爾米薩諾,birth,1974-10-20,Milan,Wikidata claims
+EV0142,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,birth,1987-08-12,Geneva,Wikidata claims
+EV0143,FM100,Demarre McGill,德馬爾・麥吉爾,birth,1975-08-28,Chicago,Wikidata claims
+LATEST-FM024,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,death,2025-12-31,,https://www.musik-akademie.ch/musikschule/en/news/detail/zum-tod-des-floetisten-peter-lukas-graf.html
+LATEST-FM029,FM029,Michel Debost,米歇爾・德博斯特,death,2026-05-02,,https://www.oberlin.edu/news/michel-debost-legendary-flute-professor-and-performer-dies-92

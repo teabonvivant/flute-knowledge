@@ -1,0 +1,14 @@
+[
+ {"id":"yamaha-play","title":"Yamaha｜長笛組裝、持笛與發聲","url":"https://www.yamaha.com/en/musical_instrument_guide/flute/play/"},
+ {"id":"yamaha-care","title":"Yamaha｜吹奏後的長笛保養","url":"https://www.yamaha.com/en/musical_instrument_guide/flute/maintenance/"},
+ {"id":"yamaha-keys","title":"Yamaha｜長笛按鍵的選擇","url":"https://www.yamaha.com/en/musical_instrument_guide/flute/selection/selection002.html"},
+ {"id":"yamaha-history","title":"Yamaha｜長笛的發展","url":"https://www.yamaha.com/en/musical_instrument_guide/flute/structure/"},
+ {"id":"yamaha-family","title":"Yamaha｜長笛家族","url":"https://hub.yamaha.com/winds/wood/genealogy-of-the-flute-family/"},
+ {"id":"unsw","title":"UNSW Music Acoustics｜長笛發聲原理","url":"https://newt.phys.unsw.edu.au/jw/fluteacoustics.html"},
+ {"id":"nfa","title":"National Flute Association｜長笛教學資源","url":"https://www.nfaonline.org/committees/committee-web-pages/pedagogy-committee"},
+ {"id":"nfa-levels","title":"National Flute Association｜曲目程度指南","url":"https://www.nfaonline.org/docs/default-source/default-document-library/nfa-guide-to-levels-for-pedagogy-publications.pdf?sfvrsn=1935ff06_6"},
+ {"id":"loc","title":"Library of Congress｜Dayton C. Miller 長笛館藏","url":"https://www.loc.gov/collections/dayton-c-miller-collection/about-this-collection/"},
+ {"id":"theory","title":"musictheory.net｜基礎樂理課堂","url":"https://www.musictheory.net/lessons"},
+ {"id":"bapam","title":"BAPAM｜健康練習資源","url":"https://www.bapam.org.uk/healthy-practice-resources/"},
+ {"id":"abrsm","title":"ABRSM｜長笛考試及課程資料","url":"https://www.abrsm.org/en-gb/instruments/woodwind/flute"}
+]

@@ -1,0 +1,710 @@
+authority_id,person_id,name_en,name_zh,authority_type,authority_label,value,url,evidence_source
+AR0001,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,wikidata,Wikidata,Q77212,https://www.wikidata.org/wiki/Q77212,Wikidata API
+AR0002,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,wikipedia_en,English Wikipedia,Johann Joachim Quantz,https://en.wikipedia.org/wiki/Johann_Joachim_Quantz,Wikidata sitelink
+AR0003,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,viaf,VIAF,37180503,https://viaf.org/viaf/37180503/,Wikidata claims
+AR0004,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,isni,ISNI,0000000108887580,https://isni.org/isni/0000000108887580,Wikidata claims
+AR0005,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,loc,Library of Congress Name Authority,n79141193,https://id.loc.gov/authorities/names/n79141193,Wikidata claims
+AR0006,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,gnd,Gemeinsame Normdatei,118747975,https://d-nb.info/gnd/118747975,Wikidata claims
+AR0007,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,bnf,Bibliothèque nationale de France,14785622r,https://data.bnf.fr/ark:/12148/cb14785622r,Wikidata claims
+AR0008,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,idref,IdRef,03431489X,https://www.idref.fr/03431489X,Wikidata claims
+AR0009,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,ndl,National Diet Library Authority,00453502,https://id.ndl.go.jp/auth/ndlna/00453502,Wikidata claims
+AR0010,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,bne,Biblioteca Nacional de España,XX1079543,https://datos.bne.es/persona/XX1079543.html,Wikidata claims
+AR0011,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,nkc,National Library of the Czech Republic,jn19990006762,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=jn19990006762,Wikidata claims
+AR0012,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,musicbrainz,MusicBrainz Artist,b5f059a4-579a-44f2-ab49-d4008ba27930,https://musicbrainz.org/artist/b5f059a4-579a-44f2-ab49-d4008ba27930,Wikidata claims
+AR0013,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,discogs,Discogs Artist,840153,https://www.discogs.com/artist/840153,Wikidata claims
+AR0014,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,official_website,Official website,http://www.quantz.info,http://www.quantz.info,Wikidata claims
+AR0015,FM002,Theobald Boehm,特奧巴德・伯姆,wikidata,Wikidata,Q71003,https://www.wikidata.org/wiki/Q71003,Wikidata API
+AR0016,FM002,Theobald Boehm,特奧巴德・伯姆,wikipedia_en,English Wikipedia,Theobald Boehm,https://en.wikipedia.org/wiki/Theobald_Boehm,Wikidata sitelink
+AR0017,FM002,Theobald Boehm,特奧巴德・伯姆,wikipedia_zh,Chinese Wikipedia,特奧巴德・伯姆,https://zh.wikipedia.org/wiki/%E7%89%B9%E5%A5%A5%E5%B7%B4%E5%B0%94%E5%BE%B7%C2%B7%E5%BD%AA%E5%A7%86,Wikidata sitelink
+AR0018,FM002,Theobald Boehm,特奧巴德・伯姆,viaf,VIAF,76499529,https://viaf.org/viaf/76499529/,Wikidata claims
+AR0019,FM002,Theobald Boehm,特奧巴德・伯姆,isni,ISNI,0000000083956606,https://isni.org/isni/0000000083956606,Wikidata claims
+AR0020,FM002,Theobald Boehm,特奧巴德・伯姆,loc,Library of Congress Name Authority,n81140264,https://id.loc.gov/authorities/names/n81140264,Wikidata claims
+AR0021,FM002,Theobald Boehm,特奧巴德・伯姆,gnd,Gemeinsame Normdatei,118512552,https://d-nb.info/gnd/118512552,Wikidata claims
+AR0022,FM002,Theobald Boehm,特奧巴德・伯姆,bnf,Bibliothèque nationale de France,13891635c,https://data.bnf.fr/ark:/12148/cb13891635c,Wikidata claims
+AR0023,FM002,Theobald Boehm,特奧巴德・伯姆,idref,IdRef,032639872,https://www.idref.fr/032639872,Wikidata claims
+AR0024,FM002,Theobald Boehm,特奧巴德・伯姆,ndl,National Diet Library Authority,001354958,https://id.ndl.go.jp/auth/ndlna/001354958,Wikidata claims
+AR0025,FM002,Theobald Boehm,特奧巴德・伯姆,bne,Biblioteca Nacional de España,XX1047724,https://datos.bne.es/persona/XX1047724.html,Wikidata claims
+AR0026,FM002,Theobald Boehm,特奧巴德・伯姆,nkc,National Library of the Czech Republic,xx0169914,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0169914,Wikidata claims
+AR0027,FM002,Theobald Boehm,特奧巴德・伯姆,musicbrainz,MusicBrainz Artist,7b264680-b71a-499a-b5ef-79ebcf39cfab,https://musicbrainz.org/artist/7b264680-b71a-499a-b5ef-79ebcf39cfab,Wikidata claims
+AR0028,FM002,Theobald Boehm,特奧巴德・伯姆,discogs,Discogs Artist,2631930,https://www.discogs.com/artist/2631930,Wikidata claims
+AR0030,FM004,Jean-Louis Tulou,讓-路易・圖盧,wikidata,Wikidata,Q1685004,https://www.wikidata.org/wiki/Q1685004,Wikidata API
+AR0031,FM004,Jean-Louis Tulou,讓-路易・圖盧,wikipedia_en,English Wikipedia,Jean-Louis Tulou,https://en.wikipedia.org/wiki/Jean-Louis_Tulou,Wikidata sitelink
+AR0032,FM004,Jean-Louis Tulou,讓-路易・圖盧,viaf,VIAF,17409100,https://viaf.org/viaf/17409100/,Wikidata claims
+AR0033,FM004,Jean-Louis Tulou,讓-路易・圖盧,isni,ISNI,000000008360722X,https://isni.org/isni/000000008360722X,Wikidata claims
+AR0034,FM004,Jean-Louis Tulou,讓-路易・圖盧,loc,Library of Congress Name Authority,n81150281,https://id.loc.gov/authorities/names/n81150281,Wikidata claims
+AR0035,FM004,Jean-Louis Tulou,讓-路易・圖盧,gnd,Gemeinsame Normdatei,117438405,https://d-nb.info/gnd/117438405,Wikidata claims
+AR0036,FM004,Jean-Louis Tulou,讓-路易・圖盧,bnf,Bibliothèque nationale de France,139005951,https://data.bnf.fr/ark:/12148/cb139005951,Wikidata claims
+AR0037,FM004,Jean-Louis Tulou,讓-路易・圖盧,idref,IdRef,115121951,https://www.idref.fr/115121951,Wikidata claims
+AR0038,FM004,Jean-Louis Tulou,讓-路易・圖盧,bne,Biblioteca Nacional de España,XX1701157,https://datos.bne.es/persona/XX1701157.html,Wikidata claims
+AR0039,FM004,Jean-Louis Tulou,讓-路易・圖盧,nkc,National Library of the Czech Republic,mzk2010588526,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=mzk2010588526,Wikidata claims
+AR0040,FM004,Jean-Louis Tulou,讓-路易・圖盧,musicbrainz,MusicBrainz Artist,09fbc3a4-bc37-432f-8a98-42ab450f4f81,https://musicbrainz.org/artist/09fbc3a4-bc37-432f-8a98-42ab450f4f81,Wikidata claims
+AR0041,FM004,Jean-Louis Tulou,讓-路易・圖盧,discogs,Discogs Artist,3806264,https://www.discogs.com/artist/3806264,Wikidata claims
+AR0042,FM005,Louis Dorus,路易・多魯斯,wikidata,Wikidata,Q743998,https://www.wikidata.org/wiki/Q743998,Wikidata API
+AR0043,FM005,Louis Dorus,路易・多魯斯,wikipedia_en,English Wikipedia,Louis Dorus,https://en.wikipedia.org/wiki/Louis_Dorus,Wikidata sitelink
+AR0044,FM005,Louis Dorus,路易・多魯斯,viaf,VIAF,80354448,https://viaf.org/viaf/80354448/,Wikidata claims
+AR0045,FM005,Louis Dorus,路易・多魯斯,isni,ISNI,0000000116792418,https://isni.org/isni/0000000116792418,Wikidata claims
+AR0046,FM005,Louis Dorus,路易・多魯斯,loc,Library of Congress Name Authority,no93010918,https://id.loc.gov/authorities/names/no93010918,Wikidata claims
+AR0047,FM005,Louis Dorus,路易・多魯斯,gnd,Gemeinsame Normdatei,135920558,https://d-nb.info/gnd/135920558,Wikidata claims
+AR0048,FM005,Louis Dorus,路易・多魯斯,bnf,Bibliothèque nationale de France,14799329h,https://data.bnf.fr/ark:/12148/cb14799329h,Wikidata claims
+AR0049,FM005,Louis Dorus,路易・多魯斯,idref,IdRef,115121730,https://www.idref.fr/115121730,Wikidata claims
+AR0050,FM005,Louis Dorus,路易・多魯斯,bne,Biblioteca Nacional de España,XX1713984,https://datos.bne.es/persona/XX1713984.html,Wikidata claims
+AR0051,FM005,Louis Dorus,路易・多魯斯,musicbrainz,MusicBrainz Artist,1c6a3d71-913d-40c2-a93b-5fea342b1d42,https://musicbrainz.org/artist/1c6a3d71-913d-40c2-a93b-5fea342b1d42,Wikidata claims
+AR0052,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,wikidata,Wikidata,Q326916,https://www.wikidata.org/wiki/Q326916,Wikidata API
+AR0053,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,wikipedia_en,English Wikipedia,Joseph-Henri Altès,https://en.wikipedia.org/wiki/Joseph-Henri_Alt%C3%A8s,Wikidata sitelink
+AR0054,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,viaf,VIAF,37180526,https://viaf.org/viaf/37180526/,Wikidata claims
+AR0055,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,isni,ISNI,0000000107991626,https://isni.org/isni/0000000107991626,Wikidata claims
+AR0056,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,loc,Library of Congress Name Authority,n88630731,https://id.loc.gov/authorities/names/n88630731,Wikidata claims
+AR0057,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,gnd,Gemeinsame Normdatei,130595845,https://d-nb.info/gnd/130595845,Wikidata claims
+AR0058,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,bnf,Bibliothèque nationale de France,139304763,https://data.bnf.fr/ark:/12148/cb139304763,Wikidata claims
+AR0059,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,idref,IdRef,156410842,https://www.idref.fr/156410842,Wikidata claims
+AR0060,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,ndl,National Diet Library Authority,01086517,https://id.ndl.go.jp/auth/ndlna/01086517,Wikidata claims
+AR0061,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,bne,Biblioteca Nacional de España,XX1059667,https://datos.bne.es/persona/XX1059667.html,Wikidata claims
+AR0062,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,musicbrainz,MusicBrainz Artist,7572dd3c-e58d-4fde-bb4b-d683ea91a75f,https://musicbrainz.org/artist/7572dd3c-e58d-4fde-bb4b-d683ea91a75f,Wikidata claims
+AR0063,FM007,Paul Taffanel,保羅・塔法奈爾,wikidata,Wikidata,Q287462,https://www.wikidata.org/wiki/Q287462,Wikidata API
+AR0064,FM007,Paul Taffanel,保羅・塔法奈爾,wikipedia_en,English Wikipedia,Paul Taffanel,https://en.wikipedia.org/wiki/Paul_Taffanel,Wikidata sitelink
+AR0065,FM007,Paul Taffanel,保羅・塔法奈爾,viaf,VIAF,47025717,https://viaf.org/viaf/47025717/,Wikidata claims
+AR0066,FM007,Paul Taffanel,保羅・塔法奈爾,isni,ISNI,0000000114432945,https://isni.org/isni/0000000114432945,Wikidata claims
+AR0067,FM007,Paul Taffanel,保羅・塔法奈爾,loc,Library of Congress Name Authority,n83188384,https://id.loc.gov/authorities/names/n83188384,Wikidata claims
+AR0068,FM007,Paul Taffanel,保羅・塔法奈爾,gnd,Gemeinsame Normdatei,117196908,https://d-nb.info/gnd/117196908,Wikidata claims
+AR0069,FM007,Paul Taffanel,保羅・塔法奈爾,bnf,Bibliothèque nationale de France,14789727q,https://data.bnf.fr/ark:/12148/cb14789727q,Wikidata claims
+AR0070,FM007,Paul Taffanel,保羅・塔法奈爾,idref,IdRef,078617049,https://www.idref.fr/078617049,Wikidata claims
+AR0071,FM007,Paul Taffanel,保羅・塔法奈爾,ndl,National Diet Library Authority,01150185,https://id.ndl.go.jp/auth/ndlna/01150185,Wikidata claims
+AR0072,FM007,Paul Taffanel,保羅・塔法奈爾,bne,Biblioteca Nacional de España,XX1559659,https://datos.bne.es/persona/XX1559659.html,Wikidata claims
+AR0073,FM007,Paul Taffanel,保羅・塔法奈爾,nkc,National Library of the Czech Republic,jn20000605258,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=jn20000605258,Wikidata claims
+AR0074,FM007,Paul Taffanel,保羅・塔法奈爾,musicbrainz,MusicBrainz Artist,b81c7ece-a099-44a7-95d1-0d4a14cd9e06,https://musicbrainz.org/artist/b81c7ece-a099-44a7-95d1-0d4a14cd9e06,Wikidata claims
+AR0075,FM007,Paul Taffanel,保羅・塔法奈爾,discogs,Discogs Artist,1822934,https://www.discogs.com/artist/1822934,Wikidata claims
+AR0076,FM008,Philippe Gaubert,菲利普・高貝爾,wikidata,Wikidata,Q959431,https://www.wikidata.org/wiki/Q959431,Wikidata API
+AR0077,FM008,Philippe Gaubert,菲利普・高貝爾,wikipedia_en,English Wikipedia,Philippe Gaubert,https://en.wikipedia.org/wiki/Philippe_Gaubert,Wikidata sitelink
+AR0078,FM008,Philippe Gaubert,菲利普・高貝爾,viaf,VIAF,49408013,https://viaf.org/viaf/49408013/,Wikidata claims
+AR0079,FM008,Philippe Gaubert,菲利普・高貝爾,isni,ISNI,0000000083810228,https://isni.org/isni/0000000083810228,Wikidata claims
+AR0080,FM008,Philippe Gaubert,菲利普・高貝爾,loc,Library of Congress Name Authority,n85034870,https://id.loc.gov/authorities/names/n85034870,Wikidata claims
+AR0081,FM008,Philippe Gaubert,菲利普・高貝爾,gnd,Gemeinsame Normdatei,132858444,https://d-nb.info/gnd/132858444,Wikidata claims
+AR0082,FM008,Philippe Gaubert,菲利普・高貝爾,bnf,Bibliothèque nationale de France,13894334x,https://data.bnf.fr/ark:/12148/cb13894334x,Wikidata claims
+AR0083,FM008,Philippe Gaubert,菲利普・高貝爾,idref,IdRef,08049160X,https://www.idref.fr/08049160X,Wikidata claims
+AR0084,FM008,Philippe Gaubert,菲利普・高貝爾,ndl,National Diet Library Authority,01065033,https://id.ndl.go.jp/auth/ndlna/01065033,Wikidata claims
+AR0085,FM008,Philippe Gaubert,菲利普・高貝爾,bne,Biblioteca Nacional de España,XX1708466,https://datos.bne.es/persona/XX1708466.html,Wikidata claims
+AR0086,FM008,Philippe Gaubert,菲利普・高貝爾,nkc,National Library of the Czech Republic,xx0006452,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0006452,Wikidata claims
+AR0087,FM008,Philippe Gaubert,菲利普・高貝爾,musicbrainz,MusicBrainz Artist,cf802e2a-085c-4a83-ad19-5443900804a7,https://musicbrainz.org/artist/cf802e2a-085c-4a83-ad19-5443900804a7,Wikidata claims
+AR0088,FM008,Philippe Gaubert,菲利普・高貝爾,discogs,Discogs Artist,1269379,https://www.discogs.com/artist/1269379,Wikidata claims
+AR0089,FM009,Adolphe Hennebains,阿道夫・亨內班,wikidata,Wikidata,Q365741,https://www.wikidata.org/wiki/Q365741,Wikidata API
+AR0090,FM009,Adolphe Hennebains,阿道夫・亨內班,wikipedia_en,English Wikipedia,Adolphe Hennebains,https://en.wikipedia.org/wiki/Adolphe_Hennebains,Wikidata sitelink
+AR0091,FM009,Adolphe Hennebains,阿道夫・亨內班,viaf,VIAF,69130300,https://viaf.org/viaf/69130300/,Wikidata claims
+AR0092,FM009,Adolphe Hennebains,阿道夫・亨內班,isni,ISNI,0000000118775312,https://isni.org/isni/0000000118775312,Wikidata claims
+AR0093,FM009,Adolphe Hennebains,阿道夫・亨內班,loc,Library of Congress Name Authority,n87121691,https://id.loc.gov/authorities/names/n87121691,Wikidata claims
+AR0094,FM009,Adolphe Hennebains,阿道夫・亨內班,gnd,Gemeinsame Normdatei,136416934,https://d-nb.info/gnd/136416934,Wikidata claims
+AR0095,FM009,Adolphe Hennebains,阿道夫・亨內班,bnf,Bibliothèque nationale de France,14038455n,https://data.bnf.fr/ark:/12148/cb14038455n,Wikidata claims
+AR0096,FM009,Adolphe Hennebains,阿道夫・亨內班,musicbrainz,MusicBrainz Artist,12679970-e29c-4e35-a27c-813ee4a1f5d4,https://musicbrainz.org/artist/12679970-e29c-4e35-a27c-813ee4a1f5d4,Wikidata claims
+AR0097,FM010,Georges Barrère,喬治・巴雷爾,wikidata,Wikidata,Q240224,https://www.wikidata.org/wiki/Q240224,Wikidata API
+AR0098,FM010,Georges Barrère,喬治・巴雷爾,wikipedia_en,English Wikipedia,Georges Barrère,https://en.wikipedia.org/wiki/Georges_Barr%C3%A8re,Wikidata sitelink
+AR0099,FM010,Georges Barrère,喬治・巴雷爾,viaf,VIAF,49379472,https://viaf.org/viaf/49379472/,Wikidata claims
+AR0100,FM010,Georges Barrère,喬治・巴雷爾,isni,ISNI,0000000108992882,https://isni.org/isni/0000000108992882,Wikidata claims
+AR0101,FM010,Georges Barrère,喬治・巴雷爾,loc,Library of Congress Name Authority,n88116033,https://id.loc.gov/authorities/names/n88116033,Wikidata claims
+AR0102,FM010,Georges Barrère,喬治・巴雷爾,gnd,Gemeinsame Normdatei,119503824,https://d-nb.info/gnd/119503824,Wikidata claims
+AR0103,FM010,Georges Barrère,喬治・巴雷爾,bnf,Bibliothèque nationale de France,135068123,https://data.bnf.fr/ark:/12148/cb135068123,Wikidata claims
+AR0104,FM010,Georges Barrère,喬治・巴雷爾,bne,Biblioteca Nacional de España,XX4423990,https://datos.bne.es/persona/XX4423990.html,Wikidata claims
+AR0105,FM010,Georges Barrère,喬治・巴雷爾,musicbrainz,MusicBrainz Artist,0ae51c76-3a00-4a56-af0b-9ebc0463633d,https://musicbrainz.org/artist/0ae51c76-3a00-4a56-af0b-9ebc0463633d,Wikidata claims
+AR0106,FM010,Georges Barrère,喬治・巴雷爾,musicbrainz,MusicBrainz Artist,cc08e743-da52-4bac-b4ed-5ddefa87cecd,https://musicbrainz.org/artist/cc08e743-da52-4bac-b4ed-5ddefa87cecd,Wikidata claims
+AR0107,FM010,Georges Barrère,喬治・巴雷爾,discogs,Discogs Artist,3255241,https://www.discogs.com/artist/3255241,Wikidata claims
+AR0108,FM011,Louis Fleury,路易・弗勒里,wikidata,Wikidata,Q2154486,https://www.wikidata.org/wiki/Q2154486,Wikidata API
+AR0109,FM011,Louis Fleury,路易・弗勒里,wikipedia_en,English Wikipedia,Louis Fleury,https://en.wikipedia.org/wiki/Louis_Fleury,Wikidata sitelink
+AR0110,FM011,Louis Fleury,路易・弗勒里,viaf,VIAF,22406142,https://viaf.org/viaf/22406142/,Wikidata claims
+AR0111,FM011,Louis Fleury,路易・弗勒里,isni,ISNI,0000000081016397,https://isni.org/isni/0000000081016397,Wikidata claims
+AR0112,FM011,Louis Fleury,路易・弗勒里,loc,Library of Congress Name Authority,n88116013,https://id.loc.gov/authorities/names/n88116013,Wikidata claims
+AR0113,FM011,Louis Fleury,路易・弗勒里,gnd,Gemeinsame Normdatei,134110358,https://d-nb.info/gnd/134110358,Wikidata claims
+AR0114,FM011,Louis Fleury,路易・弗勒里,bnf,Bibliothèque nationale de France,148103004,https://data.bnf.fr/ark:/12148/cb148103004,Wikidata claims
+AR0115,FM011,Louis Fleury,路易・弗勒里,idref,IdRef,17050090X,https://www.idref.fr/17050090X,Wikidata claims
+AR0116,FM011,Louis Fleury,路易・弗勒里,bne,Biblioteca Nacional de España,XX1487469,https://datos.bne.es/persona/XX1487469.html,Wikidata claims
+AR0117,FM011,Louis Fleury,路易・弗勒里,nkc,National Library of the Czech Republic,ola2002146476,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ola2002146476,Wikidata claims
+AR0118,FM011,Louis Fleury,路易・弗勒里,musicbrainz,MusicBrainz Artist,0a4bf65b-8cf6-491b-878d-f4c8ba8939c0,https://musicbrainz.org/artist/0a4bf65b-8cf6-491b-878d-f4c8ba8939c0,Wikidata claims
+AR0119,FM011,Louis Fleury,路易・弗勒里,discogs,Discogs Artist,2119216,https://www.discogs.com/artist/2119216,Wikidata claims
+AR0120,FM012,Marcel Moyse,馬塞爾・莫伊茲,wikidata,Wikidata,Q714209,https://www.wikidata.org/wiki/Q714209,Wikidata API
+AR0121,FM012,Marcel Moyse,馬塞爾・莫伊茲,wikipedia_en,English Wikipedia,Marcel Moyse,https://en.wikipedia.org/wiki/Marcel_Moyse,Wikidata sitelink
+AR0122,FM012,Marcel Moyse,馬塞爾・莫伊茲,viaf,VIAF,93485126,https://viaf.org/viaf/93485126/,Wikidata claims
+AR0123,FM012,Marcel Moyse,馬塞爾・莫伊茲,isni,ISNI,0000000109258727,https://isni.org/isni/0000000109258727,Wikidata claims
+AR0124,FM012,Marcel Moyse,馬塞爾・莫伊茲,loc,Library of Congress Name Authority,n81022291,https://id.loc.gov/authorities/names/n81022291,Wikidata claims
+AR0125,FM012,Marcel Moyse,馬塞爾・莫伊茲,gnd,Gemeinsame Normdatei,119265001,https://d-nb.info/gnd/119265001,Wikidata claims
+AR0126,FM012,Marcel Moyse,馬塞爾・莫伊茲,bnf,Bibliothèque nationale de France,13897773n,https://data.bnf.fr/ark:/12148/cb13897773n,Wikidata claims
+AR0127,FM012,Marcel Moyse,馬塞爾・莫伊茲,idref,IdRef,079934811,https://www.idref.fr/079934811,Wikidata claims
+AR0128,FM012,Marcel Moyse,馬塞爾・莫伊茲,ndl,National Diet Library Authority,00621180,https://id.ndl.go.jp/auth/ndlna/00621180,Wikidata claims
+AR0129,FM012,Marcel Moyse,馬塞爾・莫伊茲,bne,Biblioteca Nacional de España,XX1477738,https://datos.bne.es/persona/XX1477738.html,Wikidata claims
+AR0130,FM012,Marcel Moyse,馬塞爾・莫伊茲,nkc,National Library of the Czech Republic,mzk2011620171,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=mzk2011620171,Wikidata claims
+AR0131,FM012,Marcel Moyse,馬塞爾・莫伊茲,musicbrainz,MusicBrainz Artist,fb617449-fbd2-453e-a7ba-736aed4f2acb,https://musicbrainz.org/artist/fb617449-fbd2-453e-a7ba-736aed4f2acb,Wikidata claims
+AR0132,FM012,Marcel Moyse,馬塞爾・莫伊茲,discogs,Discogs Artist,1659281,https://www.discogs.com/artist/1659281,Wikidata claims
+AR0133,FM013,René Le Roy,勒內・勒魯瓦,wikidata,Wikidata,Q2144751,https://www.wikidata.org/wiki/Q2144751,Wikidata API
+AR0134,FM013,René Le Roy,勒內・勒魯瓦,wikipedia_en,English Wikipedia,René Le Roy,https://en.wikipedia.org/wiki/Ren%C3%A9_Le_Roy,Wikidata sitelink
+AR0135,FM013,René Le Roy,勒內・勒魯瓦,viaf,VIAF,120745876,https://viaf.org/viaf/120745876/,Wikidata claims
+AR0136,FM013,René Le Roy,勒內・勒魯瓦,isni,ISNI,0000000084161688,https://isni.org/isni/0000000084161688,Wikidata claims
+AR0137,FM013,René Le Roy,勒內・勒魯瓦,loc,Library of Congress Name Authority,n82040720,https://id.loc.gov/authorities/names/n82040720,Wikidata claims
+AR0138,FM013,René Le Roy,勒內・勒魯瓦,gnd,Gemeinsame Normdatei,119375966,https://d-nb.info/gnd/119375966,Wikidata claims
+AR0139,FM013,René Le Roy,勒內・勒魯瓦,bnf,Bibliothèque nationale de France,14805373b,https://data.bnf.fr/ark:/12148/cb14805373b,Wikidata claims
+AR0140,FM013,René Le Roy,勒內・勒魯瓦,idref,IdRef,084530979,https://www.idref.fr/084530979,Wikidata claims
+AR0141,FM013,René Le Roy,勒內・勒魯瓦,musicbrainz,MusicBrainz Artist,c6a5effd-45f6-4a2d-9735-3ff2510ed729,https://musicbrainz.org/artist/c6a5effd-45f6-4a2d-9735-3ff2510ed729,Wikidata claims
+AR0142,FM013,René Le Roy,勒內・勒魯瓦,discogs,Discogs Artist,2098539,https://www.discogs.com/artist/2098539,Wikidata claims
+AR0143,FM014,Gaston Crunelle,加斯東・克呂內爾,wikidata,Wikidata,Q3098960,https://www.wikidata.org/wiki/Q3098960,Wikidata API
+AR0144,FM014,Gaston Crunelle,加斯東・克呂內爾,wikipedia_en,English Wikipedia,Gaston Crunelle,https://en.wikipedia.org/wiki/Gaston_Crunelle,Wikidata sitelink
+AR0145,FM014,Gaston Crunelle,加斯東・克呂內爾,viaf,VIAF,34649173,https://viaf.org/viaf/34649173/,Wikidata claims
+AR0146,FM014,Gaston Crunelle,加斯東・克呂內爾,isni,ISNI,0000000026691293,https://isni.org/isni/0000000026691293,Wikidata claims
+AR0147,FM014,Gaston Crunelle,加斯東・克呂內爾,loc,Library of Congress Name Authority,n88093141,https://id.loc.gov/authorities/names/n88093141,Wikidata claims
+AR0148,FM014,Gaston Crunelle,加斯東・克呂內爾,gnd,Gemeinsame Normdatei,1026038278,https://d-nb.info/gnd/1026038278,Wikidata claims
+AR0149,FM014,Gaston Crunelle,加斯東・克呂內爾,bnf,Bibliothèque nationale de France,13950960h,https://data.bnf.fr/ark:/12148/cb13950960h,Wikidata claims
+AR0150,FM014,Gaston Crunelle,加斯東・克呂內爾,idref,IdRef,169312348,https://www.idref.fr/169312348,Wikidata claims
+AR0151,FM014,Gaston Crunelle,加斯東・克呂內爾,musicbrainz,MusicBrainz Artist,5a5e16a1-9a0d-4ca6-bd91-c75cb74368bd,https://musicbrainz.org/artist/5a5e16a1-9a0d-4ca6-bd91-c75cb74368bd,Wikidata claims
+AR0152,FM014,Gaston Crunelle,加斯東・克呂內爾,discogs,Discogs Artist,1980901,https://www.discogs.com/artist/1980901,Wikidata claims
+AR0153,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,wikidata,Wikidata,Q441978,https://www.wikidata.org/wiki/Q441978,Wikidata API
+AR0154,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,wikipedia_en,English Wikipedia,Leonardo De Lorenzo,https://en.wikipedia.org/wiki/Leonardo_De_Lorenzo,Wikidata sitelink
+AR0155,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,wikipedia_zh,Chinese Wikipedia,萊昂納多・德洛倫佐,https://zh.wikipedia.org/wiki/%E8%8E%B1%E6%98%82%E7%BA%B3%E5%A4%9A%C2%B7%E5%BE%B7%C2%B7%E6%B4%9B%E4%BC%A6%E4%BD%90,Wikidata sitelink
+AR0156,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,viaf,VIAF,79260944,https://viaf.org/viaf/79260944/,Wikidata claims
+AR0157,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,viaf,VIAF,80222931,https://viaf.org/viaf/80222931/,Wikidata claims
+AR0158,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,isni,ISNI,0000000117720520,https://isni.org/isni/0000000117720520,Wikidata claims
+AR0159,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,loc,Library of Congress Name Authority,n82066811,https://id.loc.gov/authorities/names/n82066811,Wikidata claims
+AR0160,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,gnd,Gemeinsame Normdatei,135208300,https://d-nb.info/gnd/135208300,Wikidata claims
+AR0161,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,bnf,Bibliothèque nationale de France,16590525f,https://data.bnf.fr/ark:/12148/cb16590525f,Wikidata claims
+AR0162,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,bne,Biblioteca Nacional de España,XX6105920,https://datos.bne.es/persona/XX6105920.html,Wikidata claims
+AR0163,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,nkc,National Library of the Czech Republic,xx0182825,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0182825,Wikidata claims
+AR0164,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,musicbrainz,MusicBrainz Artist,d7958719-4b16-4659-8ece-f9c1c1867ac3,https://musicbrainz.org/artist/d7958719-4b16-4659-8ece-f9c1c1867ac3,Wikidata claims
+AR0165,FM016,Georges Laurent,喬治・洛朗,wikidata,Wikidata,Q104244769,https://www.wikidata.org/wiki/Q104244769,Wikidata API
+AR0168,FM018,Joseph Mariano,約瑟夫・馬里亞諾,wikidata,Wikidata,Q16674271,https://www.wikidata.org/wiki/Q16674271,Wikidata API
+AR0169,FM018,Joseph Mariano,約瑟夫・馬里亞諾,wikipedia_en,English Wikipedia,Joseph Mariano,https://en.wikipedia.org/wiki/Joseph_Mariano,Wikidata sitelink
+AR0170,FM018,Joseph Mariano,約瑟夫・馬里亞諾,viaf,VIAF,80181230,https://viaf.org/viaf/80181230/,Wikidata claims
+AR0171,FM018,Joseph Mariano,約瑟夫・馬里亞諾,isni,ISNI,0000000057263160,https://isni.org/isni/0000000057263160,Wikidata claims
+AR0172,FM018,Joseph Mariano,約瑟夫・馬里亞諾,loc,Library of Congress Name Authority,no93038884,https://id.loc.gov/authorities/names/no93038884,Wikidata claims
+AR0173,FM018,Joseph Mariano,約瑟夫・馬里亞諾,gnd,Gemeinsame Normdatei,135433835,https://d-nb.info/gnd/135433835,Wikidata claims
+AR0174,FM018,Joseph Mariano,約瑟夫・馬里亞諾,bnf,Bibliothèque nationale de France,138326461,https://data.bnf.fr/ark:/12148/cb138326461,Wikidata claims
+AR0175,FM018,Joseph Mariano,約瑟夫・馬里亞諾,musicbrainz,MusicBrainz Artist,443fd4f3-9829-46b7-b302-e71c4a419d54,https://musicbrainz.org/artist/443fd4f3-9829-46b7-b302-e71c4a419d54,Wikidata claims
+AR0176,FM018,Joseph Mariano,約瑟夫・馬里亞諾,discogs,Discogs Artist,1836271,https://www.discogs.com/artist/1836271,Wikidata claims
+AR0177,FM019,Julius Baker,朱利葉斯・貝克,wikidata,Wikidata,Q2670080,https://www.wikidata.org/wiki/Q2670080,Wikidata API
+AR0178,FM019,Julius Baker,朱利葉斯・貝克,wikipedia_en,English Wikipedia,Julius Baker,https://en.wikipedia.org/wiki/Julius_Baker,Wikidata sitelink
+AR0179,FM019,Julius Baker,朱利葉斯・貝克,viaf,VIAF,20105879,https://viaf.org/viaf/20105879/,Wikidata claims
+AR0180,FM019,Julius Baker,朱利葉斯・貝克,isni,ISNI,0000000080996071,https://isni.org/isni/0000000080996071,Wikidata claims
+AR0181,FM019,Julius Baker,朱利葉斯・貝克,loc,Library of Congress Name Authority,n85038164,https://id.loc.gov/authorities/names/n85038164,Wikidata claims
+AR0182,FM019,Julius Baker,朱利葉斯・貝克,gnd,Gemeinsame Normdatei,134693809,https://d-nb.info/gnd/134693809,Wikidata claims
+AR0183,FM019,Julius Baker,朱利葉斯・貝克,bnf,Bibliothèque nationale de France,13937251w,https://data.bnf.fr/ark:/12148/cb13937251w,Wikidata claims
+AR0184,FM019,Julius Baker,朱利葉斯・貝克,nkc,National Library of the Czech Republic,pag20211127564,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=pag20211127564,Wikidata claims
+AR0185,FM019,Julius Baker,朱利葉斯・貝克,musicbrainz,MusicBrainz Artist,f9096958-9149-43cb-a051-f54b59b46ee7,https://musicbrainz.org/artist/f9096958-9149-43cb-a051-f54b59b46ee7,Wikidata claims
+AR0186,FM019,Julius Baker,朱利葉斯・貝克,discogs,Discogs Artist,956001,https://www.discogs.com/artist/956001,Wikidata claims
+AR0187,FM019,Julius Baker,朱利葉斯・貝克,official_website,Official website,http://www.juliusbaker.com/,http://www.juliusbaker.com/,Wikidata claims
+AR0188,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,wikidata,Wikidata,Q186359,https://www.wikidata.org/wiki/Q186359,Wikidata API
+AR0189,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,wikipedia_en,English Wikipedia,Jean-Pierre Rampal,https://en.wikipedia.org/wiki/Jean-Pierre_Rampal,Wikidata sitelink
+AR0190,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,wikipedia_zh,Chinese Wikipedia,讓-皮耶・朗帕爾,https://zh.wikipedia.org/wiki/%E5%B0%9A-%E7%9A%AE%E7%88%BE%C2%B7%E9%9B%B7%E6%B3%A2%E7%88%BE,Wikidata sitelink
+AR0191,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,viaf,VIAF,51876412,https://viaf.org/viaf/51876412/,Wikidata claims
+AR0192,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,isni,ISNI,0000000109011599,https://isni.org/isni/0000000109011599,Wikidata claims
+AR0193,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,loc,Library of Congress Name Authority,n81023032,https://id.loc.gov/authorities/names/n81023032,Wikidata claims
+AR0194,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,gnd,Gemeinsame Normdatei,118938967,https://d-nb.info/gnd/118938967,Wikidata claims
+AR0195,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,bnf,Bibliothèque nationale de France,13898807c,https://data.bnf.fr/ark:/12148/cb13898807c,Wikidata claims
+AR0196,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,idref,IdRef,027089134,https://www.idref.fr/027089134,Wikidata claims
+AR0197,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,ndl,National Diet Library Authority,01149561,https://id.ndl.go.jp/auth/ndlna/01149561,Wikidata claims
+AR0198,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,bne,Biblioteca Nacional de España,XX1082677,https://datos.bne.es/persona/XX1082677.html,Wikidata claims
+AR0199,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,nkc,National Library of the Czech Republic,xx0004071,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0004071,Wikidata claims
+AR0200,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,musicbrainz,MusicBrainz Artist,4deb8a6c-38f1-47d6-9e75-ada1add9dd65,https://musicbrainz.org/artist/4deb8a6c-38f1-47d6-9e75-ada1add9dd65,Wikidata claims
+AR0201,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,discogs,Discogs Artist,379816,https://www.discogs.com/artist/379816,Wikidata claims
+AR0202,FM021,Alain Marion,阿蘭・馬里翁,wikidata,Wikidata,Q2562822,https://www.wikidata.org/wiki/Q2562822,Wikidata API
+AR0203,FM021,Alain Marion,阿蘭・馬里翁,wikipedia_en,English Wikipedia,Alain Marion,https://en.wikipedia.org/wiki/Alain_Marion,Wikidata sitelink
+AR0204,FM021,Alain Marion,阿蘭・馬里翁,viaf,VIAF,44485726,https://viaf.org/viaf/44485726/,Wikidata claims
+AR0205,FM021,Alain Marion,阿蘭・馬里翁,isni,ISNI,0000000117607851,https://isni.org/isni/0000000117607851,Wikidata claims
+AR0206,FM021,Alain Marion,阿蘭・馬里翁,loc,Library of Congress Name Authority,n82145564,https://id.loc.gov/authorities/names/n82145564,Wikidata claims
+AR0207,FM021,Alain Marion,阿蘭・馬里翁,gnd,Gemeinsame Normdatei,103993789,https://d-nb.info/gnd/103993789,Wikidata claims
+AR0208,FM021,Alain Marion,阿蘭・馬里翁,bnf,Bibliothèque nationale de France,13897094p,https://data.bnf.fr/ark:/12148/cb13897094p,Wikidata claims
+AR0209,FM021,Alain Marion,阿蘭・馬里翁,idref,IdRef,169468747,https://www.idref.fr/169468747,Wikidata claims
+AR0210,FM021,Alain Marion,阿蘭・馬里翁,ndl,National Diet Library Authority,00806888,https://id.ndl.go.jp/auth/ndlna/00806888,Wikidata claims
+AR0211,FM021,Alain Marion,阿蘭・馬里翁,nkc,National Library of the Czech Republic,xx0085951,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0085951,Wikidata claims
+AR0212,FM021,Alain Marion,阿蘭・馬里翁,musicbrainz,MusicBrainz Artist,2fdb589e-7eba-44cc-87fa-f1d201ab77a8,https://musicbrainz.org/artist/2fdb589e-7eba-44cc-87fa-f1d201ab77a8,Wikidata claims
+AR0213,FM021,Alain Marion,阿蘭・馬里翁,discogs,Discogs Artist,833843,https://www.discogs.com/artist/833843,Wikidata claims
+AR0214,FM022,Maxence Larrieu,馬克桑斯・拉里厄,wikidata,Wikidata,Q2370185,https://www.wikidata.org/wiki/Q2370185,Wikidata API
+AR0215,FM022,Maxence Larrieu,馬克桑斯・拉里厄,wikipedia_en,English Wikipedia,Maxence Larrieu,https://en.wikipedia.org/wiki/Maxence_Larrieu,Wikidata sitelink
+AR0216,FM022,Maxence Larrieu,馬克桑斯・拉里厄,viaf,VIAF,266268847,https://viaf.org/viaf/266268847/,Wikidata claims
+AR0217,FM022,Maxence Larrieu,馬克桑斯・拉里厄,isni,ISNI,0000000099890007,https://isni.org/isni/0000000099890007,Wikidata claims
+AR0218,FM022,Maxence Larrieu,馬克桑斯・拉里厄,loc,Library of Congress Name Authority,n82109856,https://id.loc.gov/authorities/names/n82109856,Wikidata claims
+AR0219,FM022,Maxence Larrieu,馬克桑斯・拉里厄,gnd,Gemeinsame Normdatei,134440005,https://d-nb.info/gnd/134440005,Wikidata claims
+AR0220,FM022,Maxence Larrieu,馬克桑斯・拉里厄,bnf,Bibliothèque nationale de France,13896356q,https://data.bnf.fr/ark:/12148/cb13896356q,Wikidata claims
+AR0221,FM022,Maxence Larrieu,馬克桑斯・拉里厄,idref,IdRef,157612600,https://www.idref.fr/157612600,Wikidata claims
+AR0222,FM022,Maxence Larrieu,馬克桑斯・拉里厄,bne,Biblioteca Nacional de España,XX994545,https://datos.bne.es/persona/XX994545.html,Wikidata claims
+AR0223,FM022,Maxence Larrieu,馬克桑斯・拉里厄,nkc,National Library of the Czech Republic,xx0156111,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0156111,Wikidata claims
+AR0224,FM022,Maxence Larrieu,馬克桑斯・拉里厄,musicbrainz,MusicBrainz Artist,c5656f24-24ce-4842-a1b2-f7b569207626,https://musicbrainz.org/artist/c5656f24-24ce-4842-a1b2-f7b569207626,Wikidata claims
+AR0225,FM022,Maxence Larrieu,馬克桑斯・拉里厄,discogs,Discogs Artist,844246,https://www.discogs.com/artist/844246,Wikidata claims
+AR0226,FM022,Maxence Larrieu,馬克桑斯・拉里厄,official_website,Official website,http://www.maxence-larrieu.fr/,http://www.maxence-larrieu.fr/,Wikidata claims
+AR0227,FM023,Aurèle Nicolet,奧雷勒・尼科萊,wikidata,Wikidata,Q123728,https://www.wikidata.org/wiki/Q123728,Wikidata API
+AR0228,FM023,Aurèle Nicolet,奧雷勒・尼科萊,wikipedia_en,English Wikipedia,Aurèle Nicolet,https://en.wikipedia.org/wiki/Aur%C3%A8le_Nicolet,Wikidata sitelink
+AR0229,FM023,Aurèle Nicolet,奧雷勒・尼科萊,viaf,VIAF,64192733,https://viaf.org/viaf/64192733/,Wikidata claims
+AR0230,FM023,Aurèle Nicolet,奧雷勒・尼科萊,isni,ISNI,0000000109094865,https://isni.org/isni/0000000109094865,Wikidata claims
+AR0231,FM023,Aurèle Nicolet,奧雷勒・尼科萊,loc,Library of Congress Name Authority,n81132042,https://id.loc.gov/authorities/names/n81132042,Wikidata claims
+AR0232,FM023,Aurèle Nicolet,奧雷勒・尼科萊,gnd,Gemeinsame Normdatei,134473205,https://d-nb.info/gnd/134473205,Wikidata claims
+AR0233,FM023,Aurèle Nicolet,奧雷勒・尼科萊,bnf,Bibliothèque nationale de France,138979589,https://data.bnf.fr/ark:/12148/cb138979589,Wikidata claims
+AR0234,FM023,Aurèle Nicolet,奧雷勒・尼科萊,idref,IdRef,162427646,https://www.idref.fr/162427646,Wikidata claims
+AR0235,FM023,Aurèle Nicolet,奧雷勒・尼科萊,ndl,National Diet Library Authority,01155301,https://id.ndl.go.jp/auth/ndlna/01155301,Wikidata claims
+AR0236,FM023,Aurèle Nicolet,奧雷勒・尼科萊,bne,Biblioteca Nacional de España,XX872780,https://datos.bne.es/persona/XX872780.html,Wikidata claims
+AR0237,FM023,Aurèle Nicolet,奧雷勒・尼科萊,nkc,National Library of the Czech Republic,jx20060403065,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=jx20060403065,Wikidata claims
+AR0238,FM023,Aurèle Nicolet,奧雷勒・尼科萊,musicbrainz,MusicBrainz Artist,98b40321-a346-4a73-ba89-7ce868743371,https://musicbrainz.org/artist/98b40321-a346-4a73-ba89-7ce868743371,Wikidata claims
+AR0239,FM023,Aurèle Nicolet,奧雷勒・尼科萊,discogs,Discogs Artist,302078,https://www.discogs.com/artist/302078,Wikidata claims
+AR0240,FM023,Aurèle Nicolet,奧雷勒・尼科萊,official_website,Official website,http://www.answers.com/topic/aurele-nicolet,http://www.answers.com/topic/aurele-nicolet,Wikidata claims
+AR0241,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,wikidata,Wikidata,Q115813,https://www.wikidata.org/wiki/Q115813,Wikidata API
+AR0242,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,wikipedia_en,English Wikipedia,Peter-Lukas Graf,https://en.wikipedia.org/wiki/Peter-Lukas_Graf,Wikidata sitelink
+AR0243,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,viaf,VIAF,196262,https://viaf.org/viaf/196262/,Wikidata claims
+AR0244,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,isni,ISNI,0000000083493816,https://isni.org/isni/0000000083493816,Wikidata claims
+AR0245,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,loc,Library of Congress Name Authority,n82078501,https://id.loc.gov/authorities/names/n82078501,Wikidata claims
+AR0246,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,gnd,Gemeinsame Normdatei,116815310,https://d-nb.info/gnd/116815310,Wikidata claims
+AR0247,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,bnf,Bibliothèque nationale de France,13894651b,https://data.bnf.fr/ark:/12148/cb13894651b,Wikidata claims
+AR0248,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,idref,IdRef,161120261,https://www.idref.fr/161120261,Wikidata claims
+AR0249,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,ndl,National Diet Library Authority,01149613,https://id.ndl.go.jp/auth/ndlna/01149613,Wikidata claims
+AR0250,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,bne,Biblioteca Nacional de España,XX6372147,https://datos.bne.es/persona/XX6372147.html,Wikidata claims
+AR0251,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,nkc,National Library of the Czech Republic,xx0179535,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0179535,Wikidata claims
+AR0252,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,musicbrainz,MusicBrainz Artist,fdc0c5bb-9755-439f-bef8-9516e0c15536,https://musicbrainz.org/artist/fdc0c5bb-9755-439f-bef8-9516e0c15536,Wikidata claims
+AR0253,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,discogs,Discogs Artist,882825,https://www.discogs.com/artist/882825,Wikidata claims
+AR0254,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,official_website,Official website,http://www.peterlukasgraf.ch/,http://www.peterlukasgraf.ch/,Wikidata claims
+AR0255,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,wikidata,Wikidata,Q938894,https://www.wikidata.org/wiki/Q938894,Wikidata API
+AR0256,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,wikipedia_en,English Wikipedia,Severino Gazzelloni,https://en.wikipedia.org/wiki/Severino_Gazzelloni,Wikidata sitelink
+AR0257,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,viaf,VIAF,196145,https://viaf.org/viaf/196145/,Wikidata claims
+AR0258,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,isni,ISNI,000000006303230X,https://isni.org/isni/000000006303230X,Wikidata claims
+AR0259,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,loc,Library of Congress Name Authority,n81089402,https://id.loc.gov/authorities/names/n81089402,Wikidata claims
+AR0260,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,gnd,Gemeinsame Normdatei,119386569,https://d-nb.info/gnd/119386569,Wikidata claims
+AR0261,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,bnf,Bibliothèque nationale de France,12497159m,https://data.bnf.fr/ark:/12148/cb12497159m,Wikidata claims
+AR0262,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,idref,IdRef,155091751,https://www.idref.fr/155091751,Wikidata claims
+AR0263,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,bne,Biblioteca Nacional de España,XX945486,https://datos.bne.es/persona/XX945486.html,Wikidata claims
+AR0264,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,nkc,National Library of the Czech Republic,mzk2009512221,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=mzk2009512221,Wikidata claims
+AR0265,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,musicbrainz,MusicBrainz Artist,5f543587-f1b0-4111-83ce-83b831146ddb,https://musicbrainz.org/artist/5f543587-f1b0-4111-83ce-83b831146ddb,Wikidata claims
+AR0266,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,discogs,Discogs Artist,843658,https://www.discogs.com/artist/843658,Wikidata claims
+AR0267,FM026,James Galway,詹姆斯・高威,wikidata,Wikidata,Q160371,https://www.wikidata.org/wiki/Q160371,Wikidata API
+AR0268,FM026,James Galway,詹姆斯・高威,wikipedia_en,English Wikipedia,James Galway,https://en.wikipedia.org/wiki/James_Galway,Wikidata sitelink
+AR0269,FM026,James Galway,詹姆斯・高威,wikipedia_zh,Chinese Wikipedia,詹姆斯・高威,https://zh.wikipedia.org/wiki/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%AB%98%E5%A8%81,Wikidata sitelink
+AR0270,FM026,James Galway,詹姆斯・高威,viaf,VIAF,29717952,https://viaf.org/viaf/29717952/,Wikidata claims
+AR0271,FM026,James Galway,詹姆斯・高威,isni,ISNI,0000000114406261,https://isni.org/isni/0000000114406261,Wikidata claims
+AR0272,FM026,James Galway,詹姆斯・高威,loc,Library of Congress Name Authority,n81042545,https://id.loc.gov/authorities/names/n81042545,Wikidata claims
+AR0273,FM026,James Galway,詹姆斯・高威,gnd,Gemeinsame Normdatei,124000118,https://d-nb.info/gnd/124000118,Wikidata claims
+AR0274,FM026,James Galway,詹姆斯・高威,bnf,Bibliothèque nationale de France,13894270h,https://data.bnf.fr/ark:/12148/cb13894270h,Wikidata claims
+AR0275,FM026,James Galway,詹姆斯・高威,idref,IdRef,027381358,https://www.idref.fr/027381358,Wikidata claims
+AR0276,FM026,James Galway,詹姆斯・高威,ndl,National Diet Library Authority,01154600,https://id.ndl.go.jp/auth/ndlna/01154600,Wikidata claims
+AR0277,FM026,James Galway,詹姆斯・高威,bne,Biblioteca Nacional de España,XX977721,https://datos.bne.es/persona/XX977721.html,Wikidata claims
+AR0278,FM026,James Galway,詹姆斯・高威,nkc,National Library of the Czech Republic,xx0120593,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0120593,Wikidata claims
+AR0279,FM026,James Galway,詹姆斯・高威,musicbrainz,MusicBrainz Artist,84045b93-beb0-4bc8-a855-93266ec6bbdc,https://musicbrainz.org/artist/84045b93-beb0-4bc8-a855-93266ec6bbdc,Wikidata claims
+AR0280,FM026,James Galway,詹姆斯・高威,discogs,Discogs Artist,325672,https://www.discogs.com/artist/325672,Wikidata claims
+AR0281,FM026,James Galway,詹姆斯・高威,official_website,Official website,http://www.jamesgalway.com,http://www.jamesgalway.com,Wikidata claims
+AR0289,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,wikidata,Wikidata,Q112393697,https://www.wikidata.org/wiki/Q112393697,Wikidata API
+AR0290,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,viaf,VIAF,62351869,https://viaf.org/viaf/62351869/,Wikidata claims
+AR0291,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,isni,ISNI,0000000083881210,https://isni.org/isni/0000000083881210,Wikidata claims
+AR0292,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,loc,Library of Congress Name Authority,n85288108,https://id.loc.gov/authorities/names/n85288108,Wikidata claims
+AR0293,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,gnd,Gemeinsame Normdatei,136615368,https://d-nb.info/gnd/136615368,Wikidata claims
+AR0294,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,bnf,Bibliothèque nationale de France,12422679z,https://data.bnf.fr/ark:/12148/cb12422679z,Wikidata claims
+AR0295,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,idref,IdRef,033352283,https://www.idref.fr/033352283,Wikidata claims
+AR0296,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,bne,Biblioteca Nacional de España,XX1011478,https://datos.bne.es/persona/XX1011478.html,Wikidata claims
+AR0297,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,nkc,National Library of the Czech Republic,jx20050824001,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=jx20050824001,Wikidata claims
+AR0298,FM029,Michel Debost,米歇爾・德博斯特,wikidata,Wikidata,Q2655549,https://www.wikidata.org/wiki/Q2655549,Wikidata API
+AR0299,FM029,Michel Debost,米歇爾・德博斯特,wikipedia_en,English Wikipedia,Michel Debost,https://en.wikipedia.org/wiki/Michel_Debost,Wikidata sitelink
+AR0300,FM029,Michel Debost,米歇爾・德博斯特,viaf,VIAF,113935622,https://viaf.org/viaf/113935622/,Wikidata claims
+AR0301,FM029,Michel Debost,米歇爾・德博斯特,isni,ISNI,0000000084111584,https://isni.org/isni/0000000084111584,Wikidata claims
+AR0302,FM029,Michel Debost,米歇爾・德博斯特,loc,Library of Congress Name Authority,n81058375,https://id.loc.gov/authorities/names/n81058375,Wikidata claims
+AR0303,FM029,Michel Debost,米歇爾・德博斯特,gnd,Gemeinsame Normdatei,134356217,https://d-nb.info/gnd/134356217,Wikidata claims
+AR0304,FM029,Michel Debost,米歇爾・德博斯特,bnf,Bibliothèque nationale de France,13176129n,https://data.bnf.fr/ark:/12148/cb13176129n,Wikidata claims
+AR0305,FM029,Michel Debost,米歇爾・德博斯特,idref,IdRef,08088038X,https://www.idref.fr/08088038X,Wikidata claims
+AR0306,FM029,Michel Debost,米歇爾・德博斯特,ndl,National Diet Library Authority,00922511,https://id.ndl.go.jp/auth/ndlna/00922511,Wikidata claims
+AR0307,FM029,Michel Debost,米歇爾・德博斯特,bne,Biblioteca Nacional de España,XX903036,https://datos.bne.es/persona/XX903036.html,Wikidata claims
+AR0308,FM029,Michel Debost,米歇爾・德博斯特,nkc,National Library of the Czech Republic,xx0199837,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0199837,Wikidata claims
+AR0309,FM029,Michel Debost,米歇爾・德博斯特,musicbrainz,MusicBrainz Artist,34d87c87-a93e-477e-afd3-5cba313c7eea,https://musicbrainz.org/artist/34d87c87-a93e-477e-afd3-5cba313c7eea,Wikidata claims
+AR0310,FM029,Michel Debost,米歇爾・德博斯特,discogs,Discogs Artist,833837,https://www.discogs.com/artist/833837,Wikidata claims
+AR0311,FM030,Trevor Wye,特雷弗・懷伊,wikidata,Wikidata,Q1661738,https://www.wikidata.org/wiki/Q1661738,Wikidata API
+AR0312,FM030,Trevor Wye,特雷弗・懷伊,wikipedia_en,English Wikipedia,Trevor Wye,https://en.wikipedia.org/wiki/Trevor_Wye,Wikidata sitelink
+AR0313,FM030,Trevor Wye,特雷弗・懷伊,viaf,VIAF,72598971,https://viaf.org/viaf/72598971/,Wikidata claims
+AR0314,FM030,Trevor Wye,特雷弗・懷伊,isni,ISNI,0000000080024707,https://isni.org/isni/0000000080024707,Wikidata claims
+AR0315,FM030,Trevor Wye,特雷弗・懷伊,loc,Library of Congress Name Authority,n78031070,https://id.loc.gov/authorities/names/n78031070,Wikidata claims
+AR0316,FM030,Trevor Wye,特雷弗・懷伊,gnd,Gemeinsame Normdatei,134561929,https://d-nb.info/gnd/134561929,Wikidata claims
+AR0317,FM030,Trevor Wye,特雷弗・懷伊,bnf,Bibliothèque nationale de France,14562274d,https://data.bnf.fr/ark:/12148/cb14562274d,Wikidata claims
+AR0318,FM030,Trevor Wye,特雷弗・懷伊,idref,IdRef,079934943,https://www.idref.fr/079934943,Wikidata claims
+AR0319,FM030,Trevor Wye,特雷弗・懷伊,ndl,National Diet Library Authority,00517073,https://id.ndl.go.jp/auth/ndlna/00517073,Wikidata claims
+AR0320,FM030,Trevor Wye,特雷弗・懷伊,nkc,National Library of the Czech Republic,xx0156343,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0156343,Wikidata claims
+AR0321,FM030,Trevor Wye,特雷弗・懷伊,musicbrainz,MusicBrainz Artist,64c34be8-f782-480e-b1c3-3965fde88cb2,https://musicbrainz.org/artist/64c34be8-f782-480e-b1c3-3965fde88cb2,Wikidata claims
+AR0322,FM030,Trevor Wye,特雷弗・懷伊,discogs,Discogs Artist,3000264,https://www.discogs.com/artist/3000264,Wikidata claims
+AR0323,FM030,Trevor Wye,特雷弗・懷伊,official_website,Official website,http://www.trevorwye.com/,http://www.trevorwye.com/,Wikidata claims
+AR0324,FM031,Louis Moyse,路易・莫伊茲,wikidata,Wikidata,Q521448,https://www.wikidata.org/wiki/Q521448,Wikidata API
+AR0325,FM031,Louis Moyse,路易・莫伊茲,wikipedia_en,English Wikipedia,Louis Moyse,https://en.wikipedia.org/wiki/Louis_Moyse,Wikidata sitelink
+AR0326,FM031,Louis Moyse,路易・莫伊茲,viaf,VIAF,116092753,https://viaf.org/viaf/116092753/,Wikidata claims
+AR0327,FM031,Louis Moyse,路易・莫伊茲,isni,ISNI,0000000110853304,https://isni.org/isni/0000000110853304,Wikidata claims
+AR0328,FM031,Louis Moyse,路易・莫伊茲,loc,Library of Congress Name Authority,n81149131,https://id.loc.gov/authorities/names/n81149131,Wikidata claims
+AR0329,FM031,Louis Moyse,路易・莫伊茲,gnd,Gemeinsame Normdatei,134894278,https://d-nb.info/gnd/134894278,Wikidata claims
+AR0330,FM031,Louis Moyse,路易・莫伊茲,bnf,Bibliothèque nationale de France,14787749j,https://data.bnf.fr/ark:/12148/cb14787749j,Wikidata claims
+AR0331,FM031,Louis Moyse,路易・莫伊茲,idref,IdRef,143756664,https://www.idref.fr/143756664,Wikidata claims
+AR0332,FM031,Louis Moyse,路易・莫伊茲,bne,Biblioteca Nacional de España,XX4895930,https://datos.bne.es/persona/XX4895930.html,Wikidata claims
+AR0333,FM031,Louis Moyse,路易・莫伊茲,nkc,National Library of the Czech Republic,pna2009504985,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=pna2009504985,Wikidata claims
+AR0334,FM031,Louis Moyse,路易・莫伊茲,musicbrainz,MusicBrainz Artist,a57797c9-8932-4ba3-8d28-132570c08b21,https://musicbrainz.org/artist/a57797c9-8932-4ba3-8d28-132570c08b21,Wikidata claims
+AR0335,FM031,Louis Moyse,路易・莫伊茲,discogs,Discogs Artist,1659282,https://www.discogs.com/artist/1659282,Wikidata claims
+AR0336,FM032,Robert Willoughby,羅伯特・威洛比,wikidata,Wikidata,Q125568970,https://www.wikidata.org/wiki/Q125568970,Wikidata API
+AR0337,FM033,Samuel Baron,塞繆爾・巴倫,wikidata,Wikidata,Q92192634,https://www.wikidata.org/wiki/Q92192634,Wikidata API
+AR0338,FM033,Samuel Baron,塞繆爾・巴倫,wikipedia_en,English Wikipedia,Samuel Baron,https://en.wikipedia.org/wiki/Samuel_Baron,Wikidata sitelink
+AR0339,FM033,Samuel Baron,塞繆爾・巴倫,viaf,VIAF,116396466,https://viaf.org/viaf/116396466/,Wikidata claims
+AR0340,FM033,Samuel Baron,塞繆爾・巴倫,isni,ISNI,0000000084131817,https://isni.org/isni/0000000084131817,Wikidata claims
+AR0341,FM033,Samuel Baron,塞繆爾・巴倫,loc,Library of Congress Name Authority,n82106642,https://id.loc.gov/authorities/names/n82106642,Wikidata claims
+AR0342,FM033,Samuel Baron,塞繆爾・巴倫,gnd,Gemeinsame Normdatei,139819800,https://d-nb.info/gnd/139819800,Wikidata claims
+AR0343,FM033,Samuel Baron,塞繆爾・巴倫,bnf,Bibliothèque nationale de France,14153078k,https://data.bnf.fr/ark:/12148/cb14153078k,Wikidata claims
+AR0344,FM033,Samuel Baron,塞繆爾・巴倫,idref,IdRef,16187925X,https://www.idref.fr/16187925X,Wikidata claims
+AR0345,FM033,Samuel Baron,塞繆爾・巴倫,musicbrainz,MusicBrainz Artist,f905e00c-9bfc-4dda-8e2b-8630d93ee551,https://musicbrainz.org/artist/f905e00c-9bfc-4dda-8e2b-8630d93ee551,Wikidata claims
+AR0346,FM033,Samuel Baron,塞繆爾・巴倫,discogs,Discogs Artist,652186,https://www.discogs.com/artist/652186,Wikidata claims
+AR0347,FM034,Albert Tipton,阿爾伯特・蒂普頓,wikidata,Wikidata,Q4457986,https://www.wikidata.org/wiki/Q4457986,Wikidata API
+AR0348,FM034,Albert Tipton,阿爾伯特・蒂普頓,wikipedia_en,English Wikipedia,Albert Tipton,https://en.wikipedia.org/wiki/Albert_Tipton,Wikidata sitelink
+AR0349,FM034,Albert Tipton,阿爾伯特・蒂普頓,musicbrainz,MusicBrainz Artist,6d96afd0-2392-494d-80f8-4e9bf55084f9,https://musicbrainz.org/artist/6d96afd0-2392-494d-80f8-4e9bf55084f9,Wikidata claims
+AR0350,FM034,Albert Tipton,阿爾伯特・蒂普頓,discogs,Discogs Artist,3689743,https://www.discogs.com/artist/3689743,Wikidata claims
+AR0351,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,wikidata,Wikidata,Q15443152,https://www.wikidata.org/wiki/Q15443152,Wikidata API
+AR0352,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,wikipedia_en,English Wikipedia,Frances Blaisdell,https://en.wikipedia.org/wiki/Frances_Blaisdell,Wikidata sitelink
+AR0353,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,viaf,VIAF,53511336,https://viaf.org/viaf/53511336/,Wikidata claims
+AR0354,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,isni,ISNI,0000000063103518,https://isni.org/isni/0000000063103518,Wikidata claims
+AR0355,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,loc,Library of Congress Name Authority,n2002067213,https://id.loc.gov/authorities/names/n2002067213,Wikidata claims
+AR0356,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,bnf,Bibliothèque nationale de France,14156437t,https://data.bnf.fr/ark:/12148/cb14156437t,Wikidata claims
+AR0357,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,musicbrainz,MusicBrainz Artist,366d45df-d320-4da5-9c08-ffd355742706,https://musicbrainz.org/artist/366d45df-d320-4da5-9c08-ffd355742706,Wikidata claims
+AR0358,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,wikidata,Wikidata,Q5297871,https://www.wikidata.org/wiki/Q5297871,Wikidata API
+AR0359,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,wikipedia_en,English Wikipedia,Doriot Anthony Dwyer,https://en.wikipedia.org/wiki/Doriot_Anthony_Dwyer,Wikidata sitelink
+AR0360,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,viaf,VIAF,65369969,https://viaf.org/viaf/65369969/,Wikidata claims
+AR0361,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,isni,ISNI,0000000055536890,https://isni.org/isni/0000000055536890,Wikidata claims
+AR0362,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,loc,Library of Congress Name Authority,n82234925,https://id.loc.gov/authorities/names/n82234925,Wikidata claims
+AR0363,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,gnd,Gemeinsame Normdatei,13469662X,https://d-nb.info/gnd/13469662X,Wikidata claims
+AR0364,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,bnf,Bibliothèque nationale de France,14174202j,https://data.bnf.fr/ark:/12148/cb14174202j,Wikidata claims
+AR0365,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,idref,IdRef,242969860,https://www.idref.fr/242969860,Wikidata claims
+AR0366,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,bne,Biblioteca Nacional de España,XX1585382,https://datos.bne.es/persona/XX1585382.html,Wikidata claims
+AR0367,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,nkc,National Library of the Czech Republic,xx0111456,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0111456,Wikidata claims
+AR0368,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,musicbrainz,MusicBrainz Artist,71f18f4f-9e51-4388-a74c-439264f617f0,https://musicbrainz.org/artist/71f18f4f-9e51-4388-a74c-439264f617f0,Wikidata claims
+AR0369,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,discogs,Discogs Artist,1056950,https://www.discogs.com/artist/1056950,Wikidata claims
+AR0370,FM037,Lois Schaefer,露易絲・謝弗,wikidata,Wikidata,Q110252012,https://www.wikidata.org/wiki/Q110252012,Wikidata API
+AR0371,FM037,Lois Schaefer,露易絲・謝弗,wikipedia_en,English Wikipedia,Lois Schaefer,https://en.wikipedia.org/wiki/Lois_Schaefer,Wikidata sitelink
+AR0374,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,wikidata,Wikidata,Q131176478,https://www.wikidata.org/wiki/Q131176478,Wikidata API
+AR0375,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,wikipedia_en,English Wikipedia,Walfrid Kujala,https://en.wikipedia.org/wiki/Walfrid_Kujala,Wikidata sitelink
+AR0376,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,viaf,VIAF,70146822050407380436,https://viaf.org/viaf/70146822050407380436/,Wikidata claims
+AR0377,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,isni,ISNI,0000000033998648,https://isni.org/isni/0000000033998648,Wikidata claims
+AR0378,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,loc,Library of Congress Name Authority,n98040769,https://id.loc.gov/authorities/names/n98040769,Wikidata claims
+AR0379,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,gnd,Gemeinsame Normdatei,1030448159,https://d-nb.info/gnd/1030448159,Wikidata claims
+AR0381,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,wikidata,Wikidata,Q2082054,https://www.wikidata.org/wiki/Q2082054,Wikidata API
+AR0382,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,wikipedia_en,English Wikipedia,Jeanne Baxtresser,https://en.wikipedia.org/wiki/Jeanne_Baxtresser,Wikidata sitelink
+AR0383,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,viaf,VIAF,10091812,https://viaf.org/viaf/10091812/,Wikidata claims
+AR0384,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,isni,ISNI,0000000073641619,https://isni.org/isni/0000000073641619,Wikidata claims
+AR0385,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,loc,Library of Congress Name Authority,n78057196,https://id.loc.gov/authorities/names/n78057196,Wikidata claims
+AR0386,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,gnd,Gemeinsame Normdatei,135246768,https://d-nb.info/gnd/135246768,Wikidata claims
+AR0387,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,idref,IdRef,080785174,https://www.idref.fr/080785174,Wikidata claims
+AR0388,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,musicbrainz,MusicBrainz Artist,5b103e52-b3d0-4a5d-8b83-ae250bc29204,https://musicbrainz.org/artist/5b103e52-b3d0-4a5d-8b83-ae250bc29204,Wikidata claims
+AR0389,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,discogs,Discogs Artist,2066200,https://www.discogs.com/artist/2066200,Wikidata claims
+AR0390,FM043,Bonita Boyd,博妮塔・博伊德,wikidata,Wikidata,Q53673032,https://www.wikidata.org/wiki/Q53673032,Wikidata API
+AR0391,FM043,Bonita Boyd,博妮塔・博伊德,wikipedia_en,English Wikipedia,Bonita Boyd,https://en.wikipedia.org/wiki/Bonita_Boyd,Wikidata sitelink
+AR0392,FM043,Bonita Boyd,博妮塔・博伊德,viaf,VIAF,161144720,https://viaf.org/viaf/161144720/,Wikidata claims
+AR0393,FM043,Bonita Boyd,博妮塔・博伊德,isni,ISNI,0000000114575129,https://isni.org/isni/0000000114575129,Wikidata claims
+AR0394,FM043,Bonita Boyd,博妮塔・博伊德,loc,Library of Congress Name Authority,n80003076,https://id.loc.gov/authorities/names/n80003076,Wikidata claims
+AR0395,FM043,Bonita Boyd,博妮塔・博伊德,gnd,Gemeinsame Normdatei,131763903,https://d-nb.info/gnd/131763903,Wikidata claims
+AR0396,FM044,Carol Wincenc,卡羅爾・溫森克,wikidata,Wikidata,Q4111946,https://www.wikidata.org/wiki/Q4111946,Wikidata API
+AR0397,FM044,Carol Wincenc,卡羅爾・溫森克,wikipedia_en,English Wikipedia,Carol Wincenc,https://en.wikipedia.org/wiki/Carol_Wincenc,Wikidata sitelink
+AR0398,FM044,Carol Wincenc,卡羅爾・溫森克,viaf,VIAF,61733561,https://viaf.org/viaf/61733561/,Wikidata claims
+AR0399,FM044,Carol Wincenc,卡羅爾・溫森克,isni,ISNI,0000000119504629,https://isni.org/isni/0000000119504629,Wikidata claims
+AR0400,FM044,Carol Wincenc,卡羅爾・溫森克,loc,Library of Congress Name Authority,n80121852,https://id.loc.gov/authorities/names/n80121852,Wikidata claims
+AR0401,FM044,Carol Wincenc,卡羅爾・溫森克,gnd,Gemeinsame Normdatei,134639308,https://d-nb.info/gnd/134639308,Wikidata claims
+AR0402,FM044,Carol Wincenc,卡羅爾・溫森克,bnf,Bibliothèque nationale de France,13921910k,https://data.bnf.fr/ark:/12148/cb13921910k,Wikidata claims
+AR0403,FM044,Carol Wincenc,卡羅爾・溫森克,nkc,National Library of the Czech Republic,mzk2016901342,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=mzk2016901342,Wikidata claims
+AR0404,FM044,Carol Wincenc,卡羅爾・溫森克,musicbrainz,MusicBrainz Artist,2ff42b00-869a-494f-a6db-c2eb98de0ae6,https://musicbrainz.org/artist/2ff42b00-869a-494f-a6db-c2eb98de0ae6,Wikidata claims
+AR0405,FM044,Carol Wincenc,卡羅爾・溫森克,discogs,Discogs Artist,724885,https://www.discogs.com/artist/724885,Wikidata claims
+AR0406,FM045,Leone Buyse,萊昂・拜斯,wikidata,Wikidata,Q50378759,https://www.wikidata.org/wiki/Q50378759,Wikidata API
+AR0407,FM045,Leone Buyse,萊昂・拜斯,wikipedia_en,English Wikipedia,Leone Buyse,https://en.wikipedia.org/wiki/Leone_Buyse,Wikidata sitelink
+AR0408,FM045,Leone Buyse,萊昂・拜斯,viaf,VIAF,13596119,https://viaf.org/viaf/13596119/,Wikidata claims
+AR0409,FM045,Leone Buyse,萊昂・拜斯,isni,ISNI,0000000082000418,https://isni.org/isni/0000000082000418,Wikidata claims
+AR0410,FM045,Leone Buyse,萊昂・拜斯,loc,Library of Congress Name Authority,n79124560,https://id.loc.gov/authorities/names/n79124560,Wikidata claims
+AR0411,FM045,Leone Buyse,萊昂・拜斯,discogs,Discogs Artist,1767606,https://www.discogs.com/artist/1767606,Wikidata claims
+AR0412,FM046,Paula Robison,寶拉・羅賓遜,wikidata,Wikidata,Q4395147,https://www.wikidata.org/wiki/Q4395147,Wikidata API
+AR0413,FM046,Paula Robison,寶拉・羅賓遜,wikipedia_en,English Wikipedia,Paula Robison,https://en.wikipedia.org/wiki/Paula_Robison,Wikidata sitelink
+AR0414,FM046,Paula Robison,寶拉・羅賓遜,viaf,VIAF,121960004,https://viaf.org/viaf/121960004/,Wikidata claims
+AR0415,FM046,Paula Robison,寶拉・羅賓遜,isni,ISNI,0000000080486127,https://isni.org/isni/0000000080486127,Wikidata claims
+AR0416,FM046,Paula Robison,寶拉・羅賓遜,loc,Library of Congress Name Authority,n82144282,https://id.loc.gov/authorities/names/n82144282,Wikidata claims
+AR0417,FM046,Paula Robison,寶拉・羅賓遜,gnd,Gemeinsame Normdatei,134745426,https://d-nb.info/gnd/134745426,Wikidata claims
+AR0418,FM046,Paula Robison,寶拉・羅賓遜,bnf,Bibliothèque nationale de France,14839549m,https://data.bnf.fr/ark:/12148/cb14839549m,Wikidata claims
+AR0419,FM046,Paula Robison,寶拉・羅賓遜,idref,IdRef,251533417,https://www.idref.fr/251533417,Wikidata claims
+AR0420,FM046,Paula Robison,寶拉・羅賓遜,musicbrainz,MusicBrainz Artist,4ec969ea-4f63-4a0b-a502-1389966686c4,https://musicbrainz.org/artist/4ec969ea-4f63-4a0b-a502-1389966686c4,Wikidata claims
+AR0421,FM046,Paula Robison,寶拉・羅賓遜,discogs,Discogs Artist,978651,https://www.discogs.com/artist/978651,Wikidata claims
+AR0422,FM046,Paula Robison,寶拉・羅賓遜,official_website,Official website,http://www.paularobison.com/,http://www.paularobison.com/,Wikidata claims
+AR0423,FM047,Ransom Wilson,蘭森・威爾遜,wikidata,Wikidata,Q7293491,https://www.wikidata.org/wiki/Q7293491,Wikidata API
+AR0424,FM047,Ransom Wilson,蘭森・威爾遜,wikipedia_en,English Wikipedia,Ransom Wilson,https://en.wikipedia.org/wiki/Ransom_Wilson,Wikidata sitelink
+AR0425,FM047,Ransom Wilson,蘭森・威爾遜,viaf,VIAF,7600242,https://viaf.org/viaf/7600242/,Wikidata claims
+AR0426,FM047,Ransom Wilson,蘭森・威爾遜,isni,ISNI,0000000114374028,https://isni.org/isni/0000000114374028,Wikidata claims
+AR0427,FM047,Ransom Wilson,蘭森・威爾遜,loc,Library of Congress Name Authority,n82077170,https://id.loc.gov/authorities/names/n82077170,Wikidata claims
+AR0428,FM047,Ransom Wilson,蘭森・威爾遜,gnd,Gemeinsame Normdatei,134558340,https://d-nb.info/gnd/134558340,Wikidata claims
+AR0429,FM047,Ransom Wilson,蘭森・威爾遜,bnf,Bibliothèque nationale de France,142395665,https://data.bnf.fr/ark:/12148/cb142395665,Wikidata claims
+AR0430,FM047,Ransom Wilson,蘭森・威爾遜,idref,IdRef,157560562,https://www.idref.fr/157560562,Wikidata claims
+AR0431,FM047,Ransom Wilson,蘭森・威爾遜,nkc,National Library of the Czech Republic,xx0022558,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0022558,Wikidata claims
+AR0432,FM047,Ransom Wilson,蘭森・威爾遜,musicbrainz,MusicBrainz Artist,d4545789-e3ec-4d74-b3a4-99339d6df353,https://musicbrainz.org/artist/d4545789-e3ec-4d74-b3a4-99339d6df353,Wikidata claims
+AR0433,FM047,Ransom Wilson,蘭森・威爾遜,musicbrainz,MusicBrainz Artist,5d4a639b-e6bc-4191-82da-1215516e2539,https://musicbrainz.org/artist/5d4a639b-e6bc-4191-82da-1215516e2539,Wikidata claims
+AR0434,FM047,Ransom Wilson,蘭森・威爾遜,discogs,Discogs Artist,1307558,https://www.discogs.com/artist/1307558,Wikidata claims
+AR0435,FM047,Ransom Wilson,蘭森・威爾遜,official_website,Official website,http://www.ransomwilson.com/,http://www.ransomwilson.com/,Wikidata claims
+AR0437,FM049,Hubert Laws,休伯特・勞斯,wikidata,Wikidata,Q721330,https://www.wikidata.org/wiki/Q721330,Wikidata API
+AR0438,FM049,Hubert Laws,休伯特・勞斯,wikipedia_en,English Wikipedia,Hubert Laws,https://en.wikipedia.org/wiki/Hubert_Laws,Wikidata sitelink
+AR0439,FM049,Hubert Laws,休伯特・勞斯,viaf,VIAF,5118096,https://viaf.org/viaf/5118096/,Wikidata claims
+AR0440,FM049,Hubert Laws,休伯特・勞斯,isni,ISNI,0000000072464454,https://isni.org/isni/0000000072464454,Wikidata claims
+AR0441,FM049,Hubert Laws,休伯特・勞斯,loc,Library of Congress Name Authority,n86102028,https://id.loc.gov/authorities/names/n86102028,Wikidata claims
+AR0442,FM049,Hubert Laws,休伯特・勞斯,gnd,Gemeinsame Normdatei,134440935,https://d-nb.info/gnd/134440935,Wikidata claims
+AR0443,FM049,Hubert Laws,休伯特・勞斯,bnf,Bibliothèque nationale de France,13896421b,https://data.bnf.fr/ark:/12148/cb13896421b,Wikidata claims
+AR0444,FM049,Hubert Laws,休伯特・勞斯,idref,IdRef,156870665,https://www.idref.fr/156870665,Wikidata claims
+AR0445,FM049,Hubert Laws,休伯特・勞斯,bne,Biblioteca Nacional de España,XX995770,https://datos.bne.es/persona/XX995770.html,Wikidata claims
+AR0446,FM049,Hubert Laws,休伯特・勞斯,musicbrainz,MusicBrainz Artist,82208529-b45a-4b3e-92dd-02f6b14c6f18,https://musicbrainz.org/artist/82208529-b45a-4b3e-92dd-02f6b14c6f18,Wikidata claims
+AR0447,FM049,Hubert Laws,休伯特・勞斯,discogs,Discogs Artist,40235,https://www.discogs.com/artist/40235,Wikidata claims
+AR0448,FM049,Hubert Laws,休伯特・勞斯,official_website,Official website,https://hubertlaws.com/,https://hubertlaws.com/,Wikidata claims
+AR0452,FM052,Harvey Sollberger,哈維・索爾伯格,wikidata,Wikidata,Q1587938,https://www.wikidata.org/wiki/Q1587938,Wikidata API
+AR0453,FM052,Harvey Sollberger,哈維・索爾伯格,wikipedia_en,English Wikipedia,Harvey Sollberger,https://en.wikipedia.org/wiki/Harvey_Sollberger,Wikidata sitelink
+AR0454,FM052,Harvey Sollberger,哈維・索爾伯格,viaf,VIAF,61866236,https://viaf.org/viaf/61866236/,Wikidata claims
+AR0455,FM052,Harvey Sollberger,哈維・索爾伯格,isni,ISNI,0000000081415574,https://isni.org/isni/0000000081415574,Wikidata claims
+AR0456,FM052,Harvey Sollberger,哈維・索爾伯格,loc,Library of Congress Name Authority,n81147269,https://id.loc.gov/authorities/names/n81147269,Wikidata claims
+AR0457,FM052,Harvey Sollberger,哈維・索爾伯格,gnd,Gemeinsame Normdatei,103774424,https://d-nb.info/gnd/103774424,Wikidata claims
+AR0458,FM052,Harvey Sollberger,哈維・索爾伯格,bnf,Bibliothèque nationale de France,155641126,https://data.bnf.fr/ark:/12148/cb155641126,Wikidata claims
+AR0459,FM052,Harvey Sollberger,哈維・索爾伯格,idref,IdRef,170622657,https://www.idref.fr/170622657,Wikidata claims
+AR0460,FM052,Harvey Sollberger,哈維・索爾伯格,musicbrainz,MusicBrainz Artist,61f809ec-c761-4a66-a757-10215e049778,https://musicbrainz.org/artist/61f809ec-c761-4a66-a757-10215e049778,Wikidata claims
+AR0461,FM052,Harvey Sollberger,哈維・索爾伯格,discogs,Discogs Artist,648954,https://www.discogs.com/artist/648954,Wikidata claims
+AR0469,FM054,Keith Underwood,基思・安德伍德,wikidata,Wikidata,Q21466719,https://www.wikidata.org/wiki/Q21466719,Wikidata API
+AR0472,FM056,Barthold Kuijken,巴托爾德・奎肯,wikidata,Wikidata,Q749926,https://www.wikidata.org/wiki/Q749926,Wikidata API
+AR0473,FM056,Barthold Kuijken,巴托爾德・奎肯,wikipedia_en,English Wikipedia,Barthold Kuijken,https://en.wikipedia.org/wiki/Barthold_Kuijken,Wikidata sitelink
+AR0474,FM056,Barthold Kuijken,巴托爾德・奎肯,viaf,VIAF,85801015,https://viaf.org/viaf/85801015/,Wikidata claims
+AR0475,FM056,Barthold Kuijken,巴托爾德・奎肯,isni,ISNI,0000000121028422,https://isni.org/isni/0000000121028422,Wikidata claims
+AR0476,FM056,Barthold Kuijken,巴托爾德・奎肯,loc,Library of Congress Name Authority,n82155100,https://id.loc.gov/authorities/names/n82155100,Wikidata claims
+AR0477,FM056,Barthold Kuijken,巴托爾德・奎肯,gnd,Gemeinsame Normdatei,128693630,https://d-nb.info/gnd/128693630,Wikidata claims
+AR0478,FM056,Barthold Kuijken,巴托爾德・奎肯,bnf,Bibliothèque nationale de France,138961983,https://data.bnf.fr/ark:/12148/cb138961983,Wikidata claims
+AR0479,FM056,Barthold Kuijken,巴托爾德・奎肯,idref,IdRef,079505902,https://www.idref.fr/079505902,Wikidata claims
+AR0480,FM056,Barthold Kuijken,巴托爾德・奎肯,nkc,National Library of the Czech Republic,xx0076463,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0076463,Wikidata claims
+AR0481,FM056,Barthold Kuijken,巴托爾德・奎肯,musicbrainz,MusicBrainz Artist,78d102d1-c148-4cbe-8d05-32b866a9fa21,https://musicbrainz.org/artist/78d102d1-c148-4cbe-8d05-32b866a9fa21,Wikidata claims
+AR0482,FM056,Barthold Kuijken,巴托爾德・奎肯,discogs,Discogs Artist,836884,https://www.discogs.com/artist/836884,Wikidata claims
+AR0483,FM057,Frans Brüggen,弗蘭斯・布呂根,wikidata,Wikidata,Q711810,https://www.wikidata.org/wiki/Q711810,Wikidata API
+AR0484,FM057,Frans Brüggen,弗蘭斯・布呂根,wikipedia_en,English Wikipedia,Frans Brüggen,https://en.wikipedia.org/wiki/Frans_Br%C3%BCggen,Wikidata sitelink
+AR0485,FM057,Frans Brüggen,弗蘭斯・布呂根,viaf,VIAF,84194973,https://viaf.org/viaf/84194973/,Wikidata claims
+AR0486,FM057,Frans Brüggen,弗蘭斯・布呂根,isni,ISNI,0000000109938204,https://isni.org/isni/0000000109938204,Wikidata claims
+AR0487,FM057,Frans Brüggen,弗蘭斯・布呂根,loc,Library of Congress Name Authority,n82099778,https://id.loc.gov/authorities/names/n82099778,Wikidata claims
+AR0488,FM057,Frans Brüggen,弗蘭斯・布呂根,gnd,Gemeinsame Normdatei,124057977,https://d-nb.info/gnd/124057977,Wikidata claims
+AR0489,FM057,Frans Brüggen,弗蘭斯・布呂根,bnf,Bibliothèque nationale de France,13996593n,https://data.bnf.fr/ark:/12148/cb13996593n,Wikidata claims
+AR0490,FM057,Frans Brüggen,弗蘭斯・布呂根,idref,IdRef,079000037,https://www.idref.fr/079000037,Wikidata claims
+AR0491,FM057,Frans Brüggen,弗蘭斯・布呂根,ndl,National Diet Library Authority,00434623,https://id.ndl.go.jp/auth/ndlna/00434623,Wikidata claims
+AR0492,FM057,Frans Brüggen,弗蘭斯・布呂根,bne,Biblioteca Nacional de España,XX1543900,https://datos.bne.es/persona/XX1543900.html,Wikidata claims
+AR0493,FM057,Frans Brüggen,弗蘭斯・布呂根,nkc,National Library of the Czech Republic,jo2008404136,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=jo2008404136,Wikidata claims
+AR0494,FM057,Frans Brüggen,弗蘭斯・布呂根,musicbrainz,MusicBrainz Artist,2ef36a7b-c93c-4e05-9d23-2dd9f85c653a,https://musicbrainz.org/artist/2ef36a7b-c93c-4e05-9d23-2dd9f85c653a,Wikidata claims
+AR0495,FM057,Frans Brüggen,弗蘭斯・布呂根,discogs,Discogs Artist,870792,https://www.discogs.com/artist/870792,Wikidata claims
+AR0498,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,wikidata,Wikidata,Q2570131,https://www.wikidata.org/wiki/Q2570131,Wikidata API
+AR0499,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,viaf,VIAF,17407600,https://viaf.org/viaf/17407600/,Wikidata claims
+AR0500,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,isni,ISNI,0000000055134736,https://isni.org/isni/0000000055134736,Wikidata claims
+AR0501,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,loc,Library of Congress Name Authority,n88627303,https://id.loc.gov/authorities/names/n88627303,Wikidata claims
+AR0502,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,gnd,Gemeinsame Normdatei,129052809,https://d-nb.info/gnd/129052809,Wikidata claims
+AR0503,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,bnf,Bibliothèque nationale de France,138950690,https://data.bnf.fr/ark:/12148/cb138950690,Wikidata claims
+AR0504,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,idref,IdRef,165145536,https://www.idref.fr/165145536,Wikidata claims
+AR0505,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,nkc,National Library of the Czech Republic,av20201093468,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=av20201093468,Wikidata claims
+AR0506,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,musicbrainz,MusicBrainz Artist,e64f6678-6f11-4a41-8706-9b61245f92a7,https://musicbrainz.org/artist/e64f6678-6f11-4a41-8706-9b61245f92a7,Wikidata claims
+AR0507,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,discogs,Discogs Artist,837115,https://www.discogs.com/artist/837115,Wikidata claims
+AR0513,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,wikidata,Wikidata,Q6557816,https://www.wikidata.org/wiki/Q6557816,Wikidata API
+AR0514,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,wikipedia_en,English Wikipedia,Lisa Beznosiuk,https://en.wikipedia.org/wiki/Lisa_Beznosiuk,Wikidata sitelink
+AR0515,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,viaf,VIAF,88565821,https://viaf.org/viaf/88565821/,Wikidata claims
+AR0516,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,isni,ISNI,0000000116830752,https://isni.org/isni/0000000116830752,Wikidata claims
+AR0517,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,loc,Library of Congress Name Authority,n85031438,https://id.loc.gov/authorities/names/n85031438,Wikidata claims
+AR0518,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,gnd,Gemeinsame Normdatei,134328833,https://d-nb.info/gnd/134328833,Wikidata claims
+AR0519,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,bnf,Bibliothèque nationale de France,14013866s,https://data.bnf.fr/ark:/12148/cb14013866s,Wikidata claims
+AR0520,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,idref,IdRef,137265654,https://www.idref.fr/137265654,Wikidata claims
+AR0521,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,nkc,National Library of the Czech Republic,mzk2009512137,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=mzk2009512137,Wikidata claims
+AR0522,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,musicbrainz,MusicBrainz Artist,65dff25a-98a5-4546-8f52-0e12973afe5d,https://musicbrainz.org/artist/65dff25a-98a5-4546-8f52-0e12973afe5d,Wikidata claims
+AR0523,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,discogs,Discogs Artist,836774,https://www.discogs.com/artist/836774,Wikidata claims
+AR0524,FM062,Claire Guimond,克萊兒・吉蒙,wikidata,Wikidata,Q93386582,https://www.wikidata.org/wiki/Q93386582,Wikidata API
+AR0525,FM062,Claire Guimond,克萊兒・吉蒙,wikipedia_en,English Wikipedia,Claire Guimond,https://en.wikipedia.org/wiki/Claire_Guimond,Wikidata sitelink
+AR0526,FM062,Claire Guimond,克萊兒・吉蒙,viaf,VIAF,8738160310470258300003,https://viaf.org/viaf/8738160310470258300003/,Wikidata claims
+AR0527,FM062,Claire Guimond,克萊兒・吉蒙,loc,Library of Congress Name Authority,no96028123,https://id.loc.gov/authorities/names/no96028123,Wikidata claims
+AR0528,FM062,Claire Guimond,克萊兒・吉蒙,official_website,Official website,https://www.claireguimond.com,https://www.claireguimond.com,Wikidata claims
+AR0529,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,wikidata,Wikidata,Q1369119,https://www.wikidata.org/wiki/Q1369119,Wikidata API
+AR0530,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,wikipedia_en,English Wikipedia,Pierre-Yves Artaud,https://en.wikipedia.org/wiki/Pierre-Yves_Artaud,Wikidata sitelink
+AR0531,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,viaf,VIAF,79127275,https://viaf.org/viaf/79127275/,Wikidata claims
+AR0532,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,isni,ISNI,000000010991910X,https://isni.org/isni/000000010991910X,Wikidata claims
+AR0533,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,loc,Library of Congress Name Authority,n83047080,https://id.loc.gov/authorities/names/n83047080,Wikidata claims
+AR0534,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,gnd,Gemeinsame Normdatei,134612337,https://d-nb.info/gnd/134612337,Wikidata claims
+AR0535,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,bnf,Bibliothèque nationale de France,13890911z,https://data.bnf.fr/ark:/12148/cb13890911z,Wikidata claims
+AR0536,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,idref,IdRef,028743652,https://www.idref.fr/028743652,Wikidata claims
+AR0537,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,musicbrainz,MusicBrainz Artist,6c1f2fd6-0bd5-4175-a90b-44372cbd05d1,https://musicbrainz.org/artist/6c1f2fd6-0bd5-4175-a90b-44372cbd05d1,Wikidata claims
+AR0538,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,discogs,Discogs Artist,212308,https://www.discogs.com/artist/212308,Wikidata claims
+AR0539,FM064,Patrick Gallois,帕特里克・加洛瓦,wikidata,Wikidata,Q1234459,https://www.wikidata.org/wiki/Q1234459,Wikidata API
+AR0540,FM064,Patrick Gallois,帕特里克・加洛瓦,wikipedia_en,English Wikipedia,Patrick Gallois,https://en.wikipedia.org/wiki/Patrick_Gallois,Wikidata sitelink
+AR0541,FM064,Patrick Gallois,帕特里克・加洛瓦,viaf,VIAF,113917044,https://viaf.org/viaf/113917044/,Wikidata claims
+AR0542,FM064,Patrick Gallois,帕特里克・加洛瓦,isni,ISNI,0000000110061390,https://isni.org/isni/0000000110061390,Wikidata claims
+AR0543,FM064,Patrick Gallois,帕特里克・加洛瓦,loc,Library of Congress Name Authority,n90652563,https://id.loc.gov/authorities/names/n90652563,Wikidata claims
+AR0544,FM064,Patrick Gallois,帕特里克・加洛瓦,gnd,Gemeinsame Normdatei,129492493,https://d-nb.info/gnd/129492493,Wikidata claims
+AR0545,FM064,Patrick Gallois,帕特里克・加洛瓦,bnf,Bibliothèque nationale de France,13894264k,https://data.bnf.fr/ark:/12148/cb13894264k,Wikidata claims
+AR0546,FM064,Patrick Gallois,帕特里克・加洛瓦,idref,IdRef,087451417,https://www.idref.fr/087451417,Wikidata claims
+AR0547,FM064,Patrick Gallois,帕特里克・加洛瓦,nkc,National Library of the Czech Republic,xx0035921,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0035921,Wikidata claims
+AR0548,FM064,Patrick Gallois,帕特里克・加洛瓦,musicbrainz,MusicBrainz Artist,fd7ff1bd-cd0b-48da-ae72-9de37c6691e4,https://musicbrainz.org/artist/fd7ff1bd-cd0b-48da-ae72-9de37c6691e4,Wikidata claims
+AR0549,FM064,Patrick Gallois,帕特里克・加洛瓦,discogs,Discogs Artist,1095207,https://www.discogs.com/artist/1095207,Wikidata claims
+AR0550,FM064,Patrick Gallois,帕特里克・加洛瓦,official_website,Official website,http://www.patrickgallois.com/,http://www.patrickgallois.com/,Wikidata claims
+AR0551,FM065,Philippe Bernold,菲利普・貝爾諾,wikidata,Wikidata,Q16177156,https://www.wikidata.org/wiki/Q16177156,Wikidata API
+AR0552,FM065,Philippe Bernold,菲利普・貝爾諾,viaf,VIAF,29717266,https://viaf.org/viaf/29717266/,Wikidata claims
+AR0553,FM065,Philippe Bernold,菲利普・貝爾諾,isni,ISNI,0000000109624117,https://isni.org/isni/0000000109624117,Wikidata claims
+AR0554,FM065,Philippe Bernold,菲利普・貝爾諾,loc,Library of Congress Name Authority,n94080025,https://id.loc.gov/authorities/names/n94080025,Wikidata claims
+AR0555,FM065,Philippe Bernold,菲利普・貝爾諾,gnd,Gemeinsame Normdatei,123656044,https://d-nb.info/gnd/123656044,Wikidata claims
+AR0556,FM065,Philippe Bernold,菲利普・貝爾諾,bnf,Bibliothèque nationale de France,138914303,https://data.bnf.fr/ark:/12148/cb138914303,Wikidata claims
+AR0557,FM065,Philippe Bernold,菲利普・貝爾諾,idref,IdRef,082686122,https://www.idref.fr/082686122,Wikidata claims
+AR0558,FM065,Philippe Bernold,菲利普・貝爾諾,nkc,National Library of the Czech Republic,xx0019187,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0019187,Wikidata claims
+AR0559,FM065,Philippe Bernold,菲利普・貝爾諾,musicbrainz,MusicBrainz Artist,d71c2122-d5dd-4210-b825-bcd120d6c1b0,https://musicbrainz.org/artist/d71c2122-d5dd-4210-b825-bcd120d6c1b0,Wikidata claims
+AR0560,FM065,Philippe Bernold,菲利普・貝爾諾,discogs,Discogs Artist,970909,https://www.discogs.com/artist/970909,Wikidata claims
+AR0561,FM065,Philippe Bernold,菲利普・貝爾諾,official_website,Official website,http://www.philippebernold.com,http://www.philippebernold.com,Wikidata claims
+AR0562,FM066,Emmanuel Pahud,艾曼紐・帕胡德,wikidata,Wikidata,Q115764,https://www.wikidata.org/wiki/Q115764,Wikidata API
+AR0563,FM066,Emmanuel Pahud,艾曼紐・帕胡德,wikipedia_en,English Wikipedia,Emmanuel Pahud,https://en.wikipedia.org/wiki/Emmanuel_Pahud,Wikidata sitelink
+AR0564,FM066,Emmanuel Pahud,艾曼紐・帕胡德,viaf,VIAF,7580639,https://viaf.org/viaf/7580639/,Wikidata claims
+AR0565,FM066,Emmanuel Pahud,艾曼紐・帕胡德,isni,ISNI,0000000108675166,https://isni.org/isni/0000000108675166,Wikidata claims
+AR0566,FM066,Emmanuel Pahud,艾曼紐・帕胡德,loc,Library of Congress Name Authority,n94052824,https://id.loc.gov/authorities/names/n94052824,Wikidata claims
+AR0567,FM066,Emmanuel Pahud,艾曼紐・帕胡德,gnd,Gemeinsame Normdatei,128581662,https://d-nb.info/gnd/128581662,Wikidata claims
+AR0568,FM066,Emmanuel Pahud,艾曼紐・帕胡德,bnf,Bibliothèque nationale de France,13958161k,https://data.bnf.fr/ark:/12148/cb13958161k,Wikidata claims
+AR0569,FM066,Emmanuel Pahud,艾曼紐・帕胡德,idref,IdRef,086231707,https://www.idref.fr/086231707,Wikidata claims
+AR0570,FM066,Emmanuel Pahud,艾曼紐・帕胡德,ndl,National Diet Library Authority,01117863,https://id.ndl.go.jp/auth/ndlna/01117863,Wikidata claims
+AR0571,FM066,Emmanuel Pahud,艾曼紐・帕胡德,bne,Biblioteca Nacional de España,XX5236690,https://datos.bne.es/persona/XX5236690.html,Wikidata claims
+AR0572,FM066,Emmanuel Pahud,艾曼紐・帕胡德,nkc,National Library of the Czech Republic,xx0121210,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0121210,Wikidata claims
+AR0573,FM066,Emmanuel Pahud,艾曼紐・帕胡德,musicbrainz,MusicBrainz Artist,e9678a8c-4fcd-46ad-8f4e-3d17f6e3943f,https://musicbrainz.org/artist/e9678a8c-4fcd-46ad-8f4e-3d17f6e3943f,Wikidata claims
+AR0574,FM066,Emmanuel Pahud,艾曼紐・帕胡德,discogs,Discogs Artist,424582,https://www.discogs.com/artist/424582,Wikidata claims
+AR0575,FM066,Emmanuel Pahud,艾曼紐・帕胡德,official_website,Official website,http://emmanuelpahud.net,http://emmanuelpahud.net,Wikidata claims
+AR0576,FM067,Jacques Zoon,雅克・宗,wikidata,Wikidata,Q1136958,https://www.wikidata.org/wiki/Q1136958,Wikidata API
+AR0577,FM067,Jacques Zoon,雅克・宗,wikipedia_en,English Wikipedia,Jacques Zoon,https://en.wikipedia.org/wiki/Jacques_Zoon,Wikidata sitelink
+AR0578,FM067,Jacques Zoon,雅克・宗,viaf,VIAF,5129216,https://viaf.org/viaf/5129216/,Wikidata claims
+AR0579,FM067,Jacques Zoon,雅克・宗,isni,ISNI,0000000055155588,https://isni.org/isni/0000000055155588,Wikidata claims
+AR0580,FM067,Jacques Zoon,雅克・宗,loc,Library of Congress Name Authority,no95004690,https://id.loc.gov/authorities/names/no95004690,Wikidata claims
+AR0581,FM067,Jacques Zoon,雅克・宗,gnd,Gemeinsame Normdatei,134846826,https://d-nb.info/gnd/134846826,Wikidata claims
+AR0582,FM067,Jacques Zoon,雅克・宗,bnf,Bibliothèque nationale de France,140076769,https://data.bnf.fr/ark:/12148/cb140076769,Wikidata claims
+AR0583,FM067,Jacques Zoon,雅克・宗,idref,IdRef,177037938,https://www.idref.fr/177037938,Wikidata claims
+AR0584,FM067,Jacques Zoon,雅克・宗,musicbrainz,MusicBrainz Artist,124b21cb-a253-4834-80a3-a163bdea5b01,https://musicbrainz.org/artist/124b21cb-a253-4834-80a3-a163bdea5b01,Wikidata claims
+AR0585,FM067,Jacques Zoon,雅克・宗,discogs,Discogs Artist,754980,https://www.discogs.com/artist/754980,Wikidata claims
+AR0586,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,wikidata,Wikidata,Q4364046,https://www.wikidata.org/wiki/Q4364046,Wikidata API
+AR0587,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,wikipedia_en,English Wikipedia,Marina Piccinini,https://en.wikipedia.org/wiki/Marina_Piccinini,Wikidata sitelink
+AR0588,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,viaf,VIAF,312635791,https://viaf.org/viaf/312635791/,Wikidata claims
+AR0589,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,gnd,Gemeinsame Normdatei,13519038X,https://d-nb.info/gnd/13519038X,Wikidata claims
+AR0590,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,musicbrainz,MusicBrainz Artist,cdf92dca-6496-4610-a3f3-453db5e3b8d2,https://musicbrainz.org/artist/cdf92dca-6496-4610-a3f3-453db5e3b8d2,Wikidata claims
+AR0591,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,discogs,Discogs Artist,2968108,https://www.discogs.com/artist/2968108,Wikidata claims
+AR0592,FM069,Sharon Bezaly,莎朗・貝扎利,wikidata,Wikidata,Q269852,https://www.wikidata.org/wiki/Q269852,Wikidata API
+AR0593,FM069,Sharon Bezaly,莎朗・貝扎利,wikipedia_en,English Wikipedia,Sharon Bezaly,https://en.wikipedia.org/wiki/Sharon_Bezaly,Wikidata sitelink
+AR0594,FM069,Sharon Bezaly,莎朗・貝扎利,viaf,VIAF,66449279,https://viaf.org/viaf/66449279/,Wikidata claims
+AR0595,FM069,Sharon Bezaly,莎朗・貝扎利,isni,ISNI,0000000114929062,https://isni.org/isni/0000000114929062,Wikidata claims
+AR0596,FM069,Sharon Bezaly,莎朗・貝扎利,loc,Library of Congress Name Authority,no00029705,https://id.loc.gov/authorities/names/no00029705,Wikidata claims
+AR0597,FM069,Sharon Bezaly,莎朗・貝扎利,gnd,Gemeinsame Normdatei,12469151X,https://d-nb.info/gnd/12469151X,Wikidata claims
+AR0598,FM069,Sharon Bezaly,莎朗・貝扎利,bnf,Bibliothèque nationale de France,155009962,https://data.bnf.fr/ark:/12148/cb155009962,Wikidata claims
+AR0599,FM069,Sharon Bezaly,莎朗・貝扎利,idref,IdRef,098796585,https://www.idref.fr/098796585,Wikidata claims
+AR0600,FM069,Sharon Bezaly,莎朗・貝扎利,nkc,National Library of the Czech Republic,xx0191104,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0191104,Wikidata claims
+AR0601,FM069,Sharon Bezaly,莎朗・貝扎利,musicbrainz,MusicBrainz Artist,9091ade7-02a8-42b8-9fe5-78022a91398b,https://musicbrainz.org/artist/9091ade7-02a8-42b8-9fe5-78022a91398b,Wikidata claims
+AR0602,FM069,Sharon Bezaly,莎朗・貝扎利,discogs,Discogs Artist,1160367,https://www.discogs.com/artist/1160367,Wikidata claims
+AR0603,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,wikidata,Wikidata,Q1992545,https://www.wikidata.org/wiki/Q1992545,Wikidata API
+AR0604,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,wikipedia_en,English Wikipedia,Denis Bouriakov,https://en.wikipedia.org/wiki/Denis_Bouriakov,Wikidata sitelink
+AR0605,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,viaf,VIAF,186915597,https://viaf.org/viaf/186915597/,Wikidata claims
+AR0606,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,isni,ISNI,0000000140657777,https://isni.org/isni/0000000140657777,Wikidata claims
+AR0607,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,loc,Library of Congress Name Authority,n2011073871,https://id.loc.gov/authorities/names/n2011073871,Wikidata claims
+AR0608,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,gnd,Gemeinsame Normdatei,1224710495,https://d-nb.info/gnd/1224710495,Wikidata claims
+AR0609,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,musicbrainz,MusicBrainz Artist,8681cbd4-8fb3-4043-a4d0-7cec3f3b6016,https://musicbrainz.org/artist/8681cbd4-8fb3-4043-a4d0-7cec3f3b6016,Wikidata claims
+AR0610,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,wikidata,Wikidata,Q4260845,https://www.wikidata.org/wiki/Q4260845,Wikidata API
+AR0611,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,viaf,VIAF,74964801,https://viaf.org/viaf/74964801/,Wikidata claims
+AR0612,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,isni,ISNI,0000000047560508,https://isni.org/isni/0000000047560508,Wikidata claims
+AR0613,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,loc,Library of Congress Name Authority,no2002046503,https://id.loc.gov/authorities/names/no2002046503,Wikidata claims
+AR0614,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,gnd,Gemeinsame Normdatei,130622486,https://d-nb.info/gnd/130622486,Wikidata claims
+AR0615,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,musicbrainz,MusicBrainz Artist,59197783-9971-4393-9275-9c832e75b1f1,https://musicbrainz.org/artist/59197783-9971-4393-9275-9c832e75b1f1,Wikidata claims
+AR0616,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,discogs,Discogs Artist,413784,https://www.discogs.com/artist/413784,Wikidata claims
+AR0617,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,official_website,Official website,https://www.andrea-lieberknecht.de,https://www.andrea-lieberknecht.de,Wikidata claims
+AR0618,FM072,Felix Renggli,菲利克斯・倫格利,wikidata,Wikidata,Q4393227,https://www.wikidata.org/wiki/Q4393227,Wikidata API
+AR0619,FM072,Felix Renggli,菲利克斯・倫格利,viaf,VIAF,49417241,https://viaf.org/viaf/49417241/,Wikidata claims
+AR0620,FM072,Felix Renggli,菲利克斯・倫格利,isni,ISNI,0000000055180935,https://isni.org/isni/0000000055180935,Wikidata claims
+AR0621,FM072,Felix Renggli,菲利克斯・倫格利,loc,Library of Congress Name Authority,nr96014102,https://id.loc.gov/authorities/names/nr96014102,Wikidata claims
+AR0622,FM072,Felix Renggli,菲利克斯・倫格利,gnd,Gemeinsame Normdatei,13471329X,https://d-nb.info/gnd/13471329X,Wikidata claims
+AR0623,FM072,Felix Renggli,菲利克斯・倫格利,idref,IdRef,182504018,https://www.idref.fr/182504018,Wikidata claims
+AR0624,FM073,Emily Beynon,艾蜜莉・貝農,wikidata,Wikidata,Q2365939,https://www.wikidata.org/wiki/Q2365939,Wikidata API
+AR0625,FM073,Emily Beynon,艾蜜莉・貝農,viaf,VIAF,5847995,https://viaf.org/viaf/5847995/,Wikidata claims
+AR0626,FM073,Emily Beynon,艾蜜莉・貝農,isni,ISNI,0000000081950796,https://isni.org/isni/0000000081950796,Wikidata claims
+AR0627,FM073,Emily Beynon,艾蜜莉・貝農,loc,Library of Congress Name Authority,no97053634,https://id.loc.gov/authorities/names/no97053634,Wikidata claims
+AR0628,FM073,Emily Beynon,艾蜜莉・貝農,gnd,Gemeinsame Normdatei,123728436,https://d-nb.info/gnd/123728436,Wikidata claims
+AR0629,FM073,Emily Beynon,艾蜜莉・貝農,bnf,Bibliothèque nationale de France,161846500,https://data.bnf.fr/ark:/12148/cb161846500,Wikidata claims
+AR0630,FM073,Emily Beynon,艾蜜莉・貝農,musicbrainz,MusicBrainz Artist,f3d30c19-5ee7-4054-82b5-561bb3fd6d15,https://musicbrainz.org/artist/f3d30c19-5ee7-4054-82b5-561bb3fd6d15,Wikidata claims
+AR0631,FM073,Emily Beynon,艾蜜莉・貝農,discogs,Discogs Artist,902978,https://www.discogs.com/artist/902978,Wikidata claims
+AR0632,FM074,Susan Milan,蘇珊・米蘭,wikidata,Wikidata,Q978231,https://www.wikidata.org/wiki/Q978231,Wikidata API
+AR0633,FM074,Susan Milan,蘇珊・米蘭,wikipedia_en,English Wikipedia,Susan Milan,https://en.wikipedia.org/wiki/Susan_Milan,Wikidata sitelink
+AR0634,FM074,Susan Milan,蘇珊・米蘭,viaf,VIAF,279243542,https://viaf.org/viaf/279243542/,Wikidata claims
+AR0635,FM074,Susan Milan,蘇珊・米蘭,isni,ISNI,0000000400319791,https://isni.org/isni/0000000400319791,Wikidata claims
+AR0636,FM074,Susan Milan,蘇珊・米蘭,loc,Library of Congress Name Authority,n85219044,https://id.loc.gov/authorities/names/n85219044,Wikidata claims
+AR0637,FM074,Susan Milan,蘇珊・米蘭,gnd,Gemeinsame Normdatei,134648021,https://d-nb.info/gnd/134648021,Wikidata claims
+AR0638,FM074,Susan Milan,蘇珊・米蘭,bnf,Bibliothèque nationale de France,13927929f,https://data.bnf.fr/ark:/12148/cb13927929f,Wikidata claims
+AR0639,FM074,Susan Milan,蘇珊・米蘭,idref,IdRef,233834672,https://www.idref.fr/233834672,Wikidata claims
+AR0640,FM074,Susan Milan,蘇珊・米蘭,nkc,National Library of the Czech Republic,pna2008444824,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=pna2008444824,Wikidata claims
+AR0641,FM074,Susan Milan,蘇珊・米蘭,musicbrainz,MusicBrainz Artist,3397494e-57f3-484b-a82d-16642088725f,https://musicbrainz.org/artist/3397494e-57f3-484b-a82d-16642088725f,Wikidata claims
+AR0642,FM074,Susan Milan,蘇珊・米蘭,discogs,Discogs Artist,381053,https://www.discogs.com/artist/381053,Wikidata claims
+AR0643,FM075,Wissam Boustany,威薩姆・布斯塔尼,wikidata,Wikidata,Q21175284,https://www.wikidata.org/wiki/Q21175284,Wikidata API
+AR0644,FM075,Wissam Boustany,威薩姆・布斯塔尼,wikipedia_en,English Wikipedia,Wissam Boustany,https://en.wikipedia.org/wiki/Wissam_Boustany,Wikidata sitelink
+AR0645,FM075,Wissam Boustany,威薩姆・布斯塔尼,musicbrainz,MusicBrainz Artist,144b3120-df12-4179-8643-cfff77ec27ef,https://musicbrainz.org/artist/144b3120-df12-4179-8643-cfff77ec27ef,Wikidata claims
+AR0650,FM078,Lorna McGhee,洛娜・麥吉,wikidata,Wikidata,Q6681377,https://www.wikidata.org/wiki/Q6681377,Wikidata API
+AR0651,FM078,Lorna McGhee,洛娜・麥吉,wikipedia_en,English Wikipedia,Lorna McGhee,https://en.wikipedia.org/wiki/Lorna_McGhee,Wikidata sitelink
+AR0652,FM078,Lorna McGhee,洛娜・麥吉,musicbrainz,MusicBrainz Artist,e277339f-2cd5-4dac-beb9-09550ff77cb9,https://musicbrainz.org/artist/e277339f-2cd5-4dac-beb9-09550ff77cb9,Wikidata claims
+AR0653,FM078,Lorna McGhee,洛娜・麥吉,discogs,Discogs Artist,3399265,https://www.discogs.com/artist/3399265,Wikidata claims
+AR0654,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,wikidata,Wikidata,Q61475620,https://www.wikidata.org/wiki/Q61475620,Wikidata API
+AR0655,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,viaf,VIAF,301901387,https://viaf.org/viaf/301901387/,Wikidata claims
+AR0656,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,nkc,National Library of the Czech Republic,xx0100881,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0100881,Wikidata claims
+AR0657,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,musicbrainz,MusicBrainz Artist,19c8b988-af0d-45fd-ad5c-76fd6db6d786,https://musicbrainz.org/artist/19c8b988-af0d-45fd-ad5c-76fd6db6d786,Wikidata claims
+AR0658,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,discogs,Discogs Artist,960483,https://www.discogs.com/artist/960483,Wikidata claims
+AR0659,FM080,Jeffrey Khaner,傑弗里・卡納,wikidata,Wikidata,Q6176099,https://www.wikidata.org/wiki/Q6176099,Wikidata API
+AR0660,FM080,Jeffrey Khaner,傑弗里・卡納,wikipedia_en,English Wikipedia,Jeffrey Khaner,https://en.wikipedia.org/wiki/Jeffrey_Khaner,Wikidata sitelink
+AR0661,FM080,Jeffrey Khaner,傑弗里・卡納,viaf,VIAF,286874711,https://viaf.org/viaf/286874711/,Wikidata claims
+AR0662,FM080,Jeffrey Khaner,傑弗里・卡納,isni,ISNI,0000000392739904,https://isni.org/isni/0000000392739904,Wikidata claims
+AR0663,FM080,Jeffrey Khaner,傑弗里・卡納,loc,Library of Congress Name Authority,no2002032949,https://id.loc.gov/authorities/names/no2002032949,Wikidata claims
+AR0664,FM080,Jeffrey Khaner,傑弗里・卡納,musicbrainz,MusicBrainz Artist,3bc57292-6464-447a-bcc9-8e6074776978,https://musicbrainz.org/artist/3bc57292-6464-447a-bcc9-8e6074776978,Wikidata claims
+AR0665,FM080,Jeffrey Khaner,傑弗里・卡納,discogs,Discogs Artist,982018,https://www.discogs.com/artist/982018,Wikidata claims
+AR0666,FM080,Jeffrey Khaner,傑弗里・卡納,official_website,Official website,https://iflute.com,https://iflute.com,Wikidata claims
+AR0670,FM084,Alexa Still,亞歷克莎・史蒂爾,wikidata,Wikidata,Q4718082,https://www.wikidata.org/wiki/Q4718082,Wikidata API
+AR0671,FM084,Alexa Still,亞歷克莎・史蒂爾,wikipedia_en,English Wikipedia,Alexa Still,https://en.wikipedia.org/wiki/Alexa_Still,Wikidata sitelink
+AR0672,FM084,Alexa Still,亞歷克莎・史蒂爾,viaf,VIAF,45980572,https://viaf.org/viaf/45980572/,Wikidata claims
+AR0673,FM084,Alexa Still,亞歷克莎・史蒂爾,isni,ISNI,0000000055178771,https://isni.org/isni/0000000055178771,Wikidata claims
+AR0674,FM084,Alexa Still,亞歷克莎・史蒂爾,loc,Library of Congress Name Authority,n93096217,https://id.loc.gov/authorities/names/n93096217,Wikidata claims
+AR0675,FM084,Alexa Still,亞歷克莎・史蒂爾,bnf,Bibliothèque nationale de France,14028284g,https://data.bnf.fr/ark:/12148/cb14028284g,Wikidata claims
+AR0676,FM084,Alexa Still,亞歷克莎・史蒂爾,musicbrainz,MusicBrainz Artist,1c741872-62a9-4ced-b59f-7229513ad2af,https://musicbrainz.org/artist/1c741872-62a9-4ced-b59f-7229513ad2af,Wikidata claims
+AR0677,FM086,Patricia George,派翠西亞・喬治,wikidata,Wikidata,Q115706218,https://www.wikidata.org/wiki/Q115706218,Wikidata API
+AR0678,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,wikidata,Wikidata,Q109601122,https://www.wikidata.org/wiki/Q109601122,Wikidata API
+AR0679,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,viaf,VIAF,302419737,https://viaf.org/viaf/302419737/,Wikidata claims
+AR0680,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,isni,ISNI,000000003006177X,https://isni.org/isni/000000003006177X,Wikidata claims
+AR0681,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,loc,Library of Congress Name Authority,n93096734,https://id.loc.gov/authorities/names/n93096734,Wikidata claims
+AR0682,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,gnd,Gemeinsame Normdatei,135458366,https://d-nb.info/gnd/135458366,Wikidata claims
+AR0683,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,bnf,Bibliothèque nationale de France,155024082,https://data.bnf.fr/ark:/12148/cb155024082,Wikidata claims
+AR0684,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,idref,IdRef,157034461,https://www.idref.fr/157034461,Wikidata claims
+AR0685,FM091,Jasmine Choi,崔娜卿,wikidata,Wikidata,Q15293706,https://www.wikidata.org/wiki/Q15293706,Wikidata API
+AR0686,FM091,Jasmine Choi,崔娜卿,wikipedia_en,English Wikipedia,Jasmine Choi,https://en.wikipedia.org/wiki/Jasmine_Choi,Wikidata sitelink
+AR0687,FM091,Jasmine Choi,崔娜卿,viaf,VIAF,317115528,https://viaf.org/viaf/317115528/,Wikidata claims
+AR0688,FM091,Jasmine Choi,崔娜卿,loc,Library of Congress Name Authority,no2015110409,https://id.loc.gov/authorities/names/no2015110409,Wikidata claims
+AR0689,FM091,Jasmine Choi,崔娜卿,gnd,Gemeinsame Normdatei,1224705203,https://d-nb.info/gnd/1224705203,Wikidata claims
+AR0690,FM091,Jasmine Choi,崔娜卿,musicbrainz,MusicBrainz Artist,5deae4f5-5424-4ff3-9d47-bd7cbe8e891a,https://musicbrainz.org/artist/5deae4f5-5424-4ff3-9d47-bd7cbe8e891a,Wikidata claims
+AR0691,FM091,Jasmine Choi,崔娜卿,discogs,Discogs Artist,4773680,https://www.discogs.com/artist/4773680,Wikidata claims
+AR0692,FM091,Jasmine Choi,崔娜卿,official_website,Official website,http://www.jasminechoi.com/,http://www.jasminechoi.com/,Wikidata claims
+AR0693,FM092,Shigenori Kudo,工藤重典,wikidata,Wikidata,Q11479640,https://www.wikidata.org/wiki/Q11479640,Wikidata API
+AR0694,FM092,Shigenori Kudo,工藤重典,viaf,VIAF,116184859,https://viaf.org/viaf/116184859/,Wikidata claims
+AR0695,FM092,Shigenori Kudo,工藤重典,viaf,VIAF,37102414,https://viaf.org/viaf/37102414/,Wikidata claims
+AR0696,FM092,Shigenori Kudo,工藤重典,isni,ISNI,000000011867372X,https://isni.org/isni/000000011867372X,Wikidata claims
+AR0697,FM092,Shigenori Kudo,工藤重典,loc,Library of Congress Name Authority,no00001028,https://id.loc.gov/authorities/names/no00001028,Wikidata claims
+AR0698,FM092,Shigenori Kudo,工藤重典,gnd,Gemeinsame Normdatei,129002194,https://d-nb.info/gnd/129002194,Wikidata claims
+AR0699,FM092,Shigenori Kudo,工藤重典,bnf,Bibliothèque nationale de France,138961894,https://data.bnf.fr/ark:/12148/cb138961894,Wikidata claims
+AR0700,FM092,Shigenori Kudo,工藤重典,idref,IdRef,087452324,https://www.idref.fr/087452324,Wikidata claims
+AR0701,FM092,Shigenori Kudo,工藤重典,nkc,National Library of the Czech Republic,xx0085943,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=xx0085943,Wikidata claims
+AR0702,FM092,Shigenori Kudo,工藤重典,musicbrainz,MusicBrainz Artist,446b99b2-7c1f-4b9d-8736-76d24f958b41,https://musicbrainz.org/artist/446b99b2-7c1f-4b9d-8736-76d24f958b41,Wikidata claims
+AR0703,FM092,Shigenori Kudo,工藤重典,discogs,Discogs Artist,1092660,https://www.discogs.com/artist/1092660,Wikidata claims
+AR0704,FM093,Kazunori Seo,瀨尾和紀,wikidata,Wikidata,Q52148239,https://www.wikidata.org/wiki/Q52148239,Wikidata API
+AR0705,FM093,Kazunori Seo,瀨尾和紀,viaf,VIAF,18161584,https://viaf.org/viaf/18161584/,Wikidata claims
+AR0706,FM093,Kazunori Seo,瀨尾和紀,isni,ISNI,0000000083615633,https://isni.org/isni/0000000083615633,Wikidata claims
+AR0707,FM093,Kazunori Seo,瀨尾和紀,loc,Library of Congress Name Authority,no2002001587,https://id.loc.gov/authorities/names/no2002001587,Wikidata claims
+AR0708,FM093,Kazunori Seo,瀨尾和紀,gnd,Gemeinsame Normdatei,124608892,https://d-nb.info/gnd/124608892,Wikidata claims
+AR0709,FM093,Kazunori Seo,瀨尾和紀,musicbrainz,MusicBrainz Artist,331fd8c8-cb66-4c0e-939a-2710f2a198cd,https://musicbrainz.org/artist/331fd8c8-cb66-4c0e-939a-2710f2a198cd,Wikidata claims
+AR0710,FM094,Seiya Ueno,上野星矢,wikidata,Wikidata,Q11360353,https://www.wikidata.org/wiki/Q11360353,Wikidata API
+AR0711,FM094,Seiya Ueno,上野星矢,viaf,VIAF,492146997250018890917,https://viaf.org/viaf/492146997250018890917/,Wikidata claims
+AR0712,FM095,Yuki Koyama,小山裕幾,wikidata,Wikidata,Q87439578,https://www.wikidata.org/wiki/Q87439578,Wikidata API
+AR0713,FM096,Juliette Hurel,朱麗葉・于雷爾,wikidata,Wikidata,Q3189766,https://www.wikidata.org/wiki/Q3189766,Wikidata API
+AR0714,FM096,Juliette Hurel,朱麗葉・于雷爾,viaf,VIAF,27269852,https://viaf.org/viaf/27269852/,Wikidata claims
+AR0715,FM096,Juliette Hurel,朱麗葉・于雷爾,isni,ISNI,0000000058515032,https://isni.org/isni/0000000058515032,Wikidata claims
+AR0716,FM096,Juliette Hurel,朱麗葉・于雷爾,loc,Library of Congress Name Authority,n2005059039,https://id.loc.gov/authorities/names/n2005059039,Wikidata claims
+AR0717,FM096,Juliette Hurel,朱麗葉・于雷爾,gnd,Gemeinsame Normdatei,128874244,https://d-nb.info/gnd/128874244,Wikidata claims
+AR0718,FM096,Juliette Hurel,朱麗葉・于雷爾,bnf,Bibliothèque nationale de France,14054133z,https://data.bnf.fr/ark:/12148/cb14054133z,Wikidata claims
+AR0719,FM096,Juliette Hurel,朱麗葉・于雷爾,idref,IdRef,079986420,https://www.idref.fr/079986420,Wikidata claims
+AR0720,FM096,Juliette Hurel,朱麗葉・于雷爾,musicbrainz,MusicBrainz Artist,e7c89935-859b-4ec4-941f-08a14b7b0aba,https://musicbrainz.org/artist/e7c89935-859b-4ec4-941f-08a14b7b0aba,Wikidata claims
+AR0721,FM096,Juliette Hurel,朱麗葉・于雷爾,discogs,Discogs Artist,986147,https://www.discogs.com/artist/986147,Wikidata claims
+AR0722,FM096,Juliette Hurel,朱麗葉・于雷爾,official_website,Official website,http://www.juliettehurel.com/,http://www.juliettehurel.com/,Wikidata claims
+AR0726,FM098,Davide Formisano,達維德・福爾米薩諾,wikidata,Wikidata,Q1177529,https://www.wikidata.org/wiki/Q1177529,Wikidata API
+AR0727,FM098,Davide Formisano,達維德・福爾米薩諾,viaf,VIAF,176383793,https://viaf.org/viaf/176383793/,Wikidata claims
+AR0728,FM098,Davide Formisano,達維德・福爾米薩諾,isni,ISNI,0000000356013479,https://isni.org/isni/0000000356013479,Wikidata claims
+AR0729,FM098,Davide Formisano,達維德・福爾米薩諾,loc,Library of Congress Name Authority,n2011054230,https://id.loc.gov/authorities/names/n2011054230,Wikidata claims
+AR0730,FM098,Davide Formisano,達維德・福爾米薩諾,gnd,Gemeinsame Normdatei,13513899X,https://d-nb.info/gnd/13513899X,Wikidata claims
+AR0731,FM098,Davide Formisano,達維德・福爾米薩諾,nkc,National Library of the Czech Republic,pna20201080408,https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=pna20201080408,Wikidata claims
+AR0732,FM098,Davide Formisano,達維德・福爾米薩諾,musicbrainz,MusicBrainz Artist,08ca97f9-7b7d-4012-a20d-59306c5b6f93,https://musicbrainz.org/artist/08ca97f9-7b7d-4012-a20d-59306c5b6f93,Wikidata claims
+AR0733,FM098,Davide Formisano,達維德・福爾米薩諾,discogs,Discogs Artist,2195004,https://www.discogs.com/artist/2195004,Wikidata claims
+AR0734,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,wikidata,Wikidata,Q116607378,https://www.wikidata.org/wiki/Q116607378,Wikidata API
+AR0735,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,wikipedia_en,English Wikipedia,Sébastian Jacot,https://en.wikipedia.org/wiki/S%C3%A9bastian_Jacot,Wikidata sitelink
+AR0736,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,musicbrainz,MusicBrainz Artist,398216f6-64ce-437e-84d1-6d589576b2d8,https://musicbrainz.org/artist/398216f6-64ce-437e-84d1-6d589576b2d8,Wikidata claims
+AR0737,FM100,Demarre McGill,德馬爾・麥吉爾,wikidata,Wikidata,Q55584195,https://www.wikidata.org/wiki/Q55584195,Wikidata API
+AR0738,FM100,Demarre McGill,德馬爾・麥吉爾,wikipedia_en,English Wikipedia,Demarre McGill,https://en.wikipedia.org/wiki/Demarre_McGill,Wikidata sitelink
+AR0739,FM100,Demarre McGill,德馬爾・麥吉爾,viaf,VIAF,41208469,https://viaf.org/viaf/41208469/,Wikidata claims
+AR0740,FM100,Demarre McGill,德馬爾・麥吉爾,loc,Library of Congress Name Authority,n2002127181,https://id.loc.gov/authorities/names/n2002127181,Wikidata claims
+AR0741,FM100,Demarre McGill,德馬爾・麥吉爾,musicbrainz,MusicBrainz Artist,c9943d97-ffc1-4021-ad04-1e3a7260e189,https://musicbrainz.org/artist/c9943d97-ffc1-4021-ad04-1e3a7260e189,Wikidata claims
+AR0742,FM100,Demarre McGill,德馬爾・麥吉爾,discogs,Discogs Artist,4447188,https://www.discogs.com/artist/4447188,Wikidata claims
+AR0743,FM050,James Pellerite,詹姆斯・佩勒賴特,nfa_profile,National Flute Association profile,James Pellerite NFA Lifetime Achievement Award,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/james-pellerite,NFA profile
+AR0744,FM050,James Pellerite,詹姆斯・佩勒賴特,institution_profile,Indiana University Jacobs School of Music profile,James and Helen Pellerite Flute Scholarship,https://music.indiana.edu/giving/scholarships/scholarships-pellerite.html,Indiana University
+AR0745,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,institution_profile,University of North Texas faculty profile,Mary Karen Clardy,https://music.unt.edu/people/mary-karen-clardy.html,University of North Texas
+AR0746,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,artist_profile,Yamaha artist profile,Mary Karen Clardy,https://www.yamaha.com/artists/marykarenclardy.html,Yamaha Artists
+AR0747,FM087,Linda Chesis,琳達・切西斯,institution_profile,Manhattan School of Music faculty profile,Linda Chesis,https://www.msmnyc.edu/faculty/linda-chesis/,Manhattan School of Music
+AR0748,FM087,Linda Chesis,琳達・切西斯,institution_profile,CUNY Graduate Center profile,Linda Chesis,https://www.gc.cuny.edu/people/linda-chesis,CUNY Graduate Center
+AR0749,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,institution_profile,Vanderbilt University Blair School of Music profile,Molly Barth,https://blair.vanderbilt.edu/bio/molly-barth/,Vanderbilt University
+AR0750,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,artist_profile,Cantaloupe Music artist profile,Molly Barth,https://cantaloupemusic.com/artists/molly-barth,Cantaloupe Music
+AR0751,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,institution_profile,Carnegie Mellon University faculty profile,Alberto Almarza,https://www.cmu.edu/cfa/music/people/Bios/almarza_alberto.html,Carnegie Mellon University
+AR0752,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,artist_profile,tonebase artist profile,Alberto Almarza,https://woodwinds.tonebase.co/flute-artist-biographies/albertoalmarza,tonebase

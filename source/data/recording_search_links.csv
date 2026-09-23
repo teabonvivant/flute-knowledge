@@ -1,0 +1,503 @@
+recording_search_id,person_id,name_en,name_zh,search_type,url,purpose
+RS0001,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,musicbrainz_artist,https://musicbrainz.org/artist/b5f059a4-579a-44f2-ab49-d4008ba27930,MusicBrainz artist page for recordings and release groups.
+RS0002,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,discogs_artist,https://www.discogs.com/artist/840153,Discogs artist page for commercial release data.
+RS0003,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,worldcat_recordings,https://search.worldcat.org/search?q=Johann%20Joachim%20Quantz%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0004,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,youtube_performance_search,https://www.youtube.com/results?search_query=Johann%20Joachim%20Quantz%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0005,FM001,Johann Joachim Quantz,約翰・約阿希姆・匡茲,spotify_search,https://open.spotify.com/search/Johann%20Joachim%20Quantz%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0006,FM002,Theobald Boehm,特奧巴德・伯姆,musicbrainz_artist,https://musicbrainz.org/artist/7b264680-b71a-499a-b5ef-79ebcf39cfab,MusicBrainz artist page for recordings and release groups.
+RS0007,FM002,Theobald Boehm,特奧巴德・伯姆,discogs_artist,https://www.discogs.com/artist/2631930,Discogs artist page for commercial release data.
+RS0008,FM002,Theobald Boehm,特奧巴德・伯姆,worldcat_recordings,https://search.worldcat.org/search?q=Theobald%20Boehm%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0009,FM002,Theobald Boehm,特奧巴德・伯姆,youtube_performance_search,https://www.youtube.com/results?search_query=Theobald%20Boehm%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0010,FM002,Theobald Boehm,特奧巴德・伯姆,spotify_search,https://open.spotify.com/search/Theobald%20Boehm%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0011,FM003,Charles Nicholson,查爾斯・尼科爾森,musicbrainz_search,https://musicbrainz.org/search?query=Charles%20Nicholson%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0012,FM003,Charles Nicholson,查爾斯・尼科爾森,discogs_search,https://www.discogs.com/search/?q=Charles%20Nicholson%20flute&type=all,Search Discogs for commercial releases.
+RS0013,FM003,Charles Nicholson,查爾斯・尼科爾森,worldcat_recordings,https://search.worldcat.org/search?q=Charles%20Nicholson%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0014,FM003,Charles Nicholson,查爾斯・尼科爾森,youtube_performance_search,https://www.youtube.com/results?search_query=Charles%20Nicholson%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0015,FM003,Charles Nicholson,查爾斯・尼科爾森,spotify_search,https://open.spotify.com/search/Charles%20Nicholson%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0016,FM004,Jean-Louis Tulou,讓-路易・圖盧,musicbrainz_artist,https://musicbrainz.org/artist/09fbc3a4-bc37-432f-8a98-42ab450f4f81,MusicBrainz artist page for recordings and release groups.
+RS0017,FM004,Jean-Louis Tulou,讓-路易・圖盧,discogs_artist,https://www.discogs.com/artist/3806264,Discogs artist page for commercial release data.
+RS0018,FM004,Jean-Louis Tulou,讓-路易・圖盧,worldcat_recordings,https://search.worldcat.org/search?q=Jean-Louis%20Tulou%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0019,FM004,Jean-Louis Tulou,讓-路易・圖盧,youtube_performance_search,https://www.youtube.com/results?search_query=Jean-Louis%20Tulou%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0020,FM004,Jean-Louis Tulou,讓-路易・圖盧,spotify_search,https://open.spotify.com/search/Jean-Louis%20Tulou%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0021,FM005,Louis Dorus,路易・多魯斯,musicbrainz_artist,https://musicbrainz.org/artist/1c6a3d71-913d-40c2-a93b-5fea342b1d42,MusicBrainz artist page for recordings and release groups.
+RS0022,FM005,Louis Dorus,路易・多魯斯,discogs_search,https://www.discogs.com/search/?q=Louis%20Dorus%20flute&type=all,Search Discogs for commercial releases.
+RS0023,FM005,Louis Dorus,路易・多魯斯,worldcat_recordings,https://search.worldcat.org/search?q=Louis%20Dorus%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0024,FM005,Louis Dorus,路易・多魯斯,youtube_performance_search,https://www.youtube.com/results?search_query=Louis%20Dorus%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0025,FM005,Louis Dorus,路易・多魯斯,spotify_search,https://open.spotify.com/search/Louis%20Dorus%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0026,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,musicbrainz_artist,https://musicbrainz.org/artist/7572dd3c-e58d-4fde-bb4b-d683ea91a75f,MusicBrainz artist page for recordings and release groups.
+RS0027,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,discogs_search,https://www.discogs.com/search/?q=Joseph-Henri%20Alt%C3%A8s%20flute&type=all,Search Discogs for commercial releases.
+RS0028,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,worldcat_recordings,https://search.worldcat.org/search?q=Joseph-Henri%20Alt%C3%A8s%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0029,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,youtube_performance_search,https://www.youtube.com/results?search_query=Joseph-Henri%20Alt%C3%A8s%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0030,FM006,Joseph-Henri Altès,約瑟夫-亨利・阿爾泰斯,spotify_search,https://open.spotify.com/search/Joseph-Henri%20Alt%C3%A8s%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0031,FM007,Paul Taffanel,保羅・塔法奈爾,musicbrainz_artist,https://musicbrainz.org/artist/b81c7ece-a099-44a7-95d1-0d4a14cd9e06,MusicBrainz artist page for recordings and release groups.
+RS0032,FM007,Paul Taffanel,保羅・塔法奈爾,discogs_artist,https://www.discogs.com/artist/1822934,Discogs artist page for commercial release data.
+RS0033,FM007,Paul Taffanel,保羅・塔法奈爾,worldcat_recordings,https://search.worldcat.org/search?q=Paul%20Taffanel%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0034,FM007,Paul Taffanel,保羅・塔法奈爾,youtube_performance_search,https://www.youtube.com/results?search_query=Paul%20Taffanel%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0035,FM007,Paul Taffanel,保羅・塔法奈爾,spotify_search,https://open.spotify.com/search/Paul%20Taffanel%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0036,FM008,Philippe Gaubert,菲利普・高貝爾,musicbrainz_artist,https://musicbrainz.org/artist/cf802e2a-085c-4a83-ad19-5443900804a7,MusicBrainz artist page for recordings and release groups.
+RS0037,FM008,Philippe Gaubert,菲利普・高貝爾,discogs_artist,https://www.discogs.com/artist/1269379,Discogs artist page for commercial release data.
+RS0038,FM008,Philippe Gaubert,菲利普・高貝爾,worldcat_recordings,https://search.worldcat.org/search?q=Philippe%20Gaubert%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0039,FM008,Philippe Gaubert,菲利普・高貝爾,youtube_performance_search,https://www.youtube.com/results?search_query=Philippe%20Gaubert%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0040,FM008,Philippe Gaubert,菲利普・高貝爾,spotify_search,https://open.spotify.com/search/Philippe%20Gaubert%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0041,FM009,Adolphe Hennebains,阿道夫・亨內班,musicbrainz_artist,https://musicbrainz.org/artist/12679970-e29c-4e35-a27c-813ee4a1f5d4,MusicBrainz artist page for recordings and release groups.
+RS0042,FM009,Adolphe Hennebains,阿道夫・亨內班,discogs_search,https://www.discogs.com/search/?q=Adolphe%20Hennebains%20flute&type=all,Search Discogs for commercial releases.
+RS0043,FM009,Adolphe Hennebains,阿道夫・亨內班,worldcat_recordings,https://search.worldcat.org/search?q=Adolphe%20Hennebains%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0044,FM009,Adolphe Hennebains,阿道夫・亨內班,youtube_performance_search,https://www.youtube.com/results?search_query=Adolphe%20Hennebains%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0045,FM009,Adolphe Hennebains,阿道夫・亨內班,spotify_search,https://open.spotify.com/search/Adolphe%20Hennebains%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0046,FM010,Georges Barrère,喬治・巴雷爾,musicbrainz_artist,https://musicbrainz.org/artist/0ae51c76-3a00-4a56-af0b-9ebc0463633d,MusicBrainz artist page for recordings and release groups.
+RS0047,FM010,Georges Barrère,喬治・巴雷爾,musicbrainz_artist,https://musicbrainz.org/artist/cc08e743-da52-4bac-b4ed-5ddefa87cecd,MusicBrainz artist page for recordings and release groups.
+RS0048,FM010,Georges Barrère,喬治・巴雷爾,discogs_artist,https://www.discogs.com/artist/3255241,Discogs artist page for commercial release data.
+RS0049,FM010,Georges Barrère,喬治・巴雷爾,worldcat_recordings,https://search.worldcat.org/search?q=Georges%20Barr%C3%A8re%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0050,FM010,Georges Barrère,喬治・巴雷爾,youtube_performance_search,https://www.youtube.com/results?search_query=Georges%20Barr%C3%A8re%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0051,FM010,Georges Barrère,喬治・巴雷爾,spotify_search,https://open.spotify.com/search/Georges%20Barr%C3%A8re%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0052,FM011,Louis Fleury,路易・弗勒里,musicbrainz_artist,https://musicbrainz.org/artist/0a4bf65b-8cf6-491b-878d-f4c8ba8939c0,MusicBrainz artist page for recordings and release groups.
+RS0053,FM011,Louis Fleury,路易・弗勒里,discogs_artist,https://www.discogs.com/artist/2119216,Discogs artist page for commercial release data.
+RS0054,FM011,Louis Fleury,路易・弗勒里,worldcat_recordings,https://search.worldcat.org/search?q=Louis%20Fleury%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0055,FM011,Louis Fleury,路易・弗勒里,youtube_performance_search,https://www.youtube.com/results?search_query=Louis%20Fleury%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0056,FM011,Louis Fleury,路易・弗勒里,spotify_search,https://open.spotify.com/search/Louis%20Fleury%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0057,FM012,Marcel Moyse,馬塞爾・莫伊茲,musicbrainz_artist,https://musicbrainz.org/artist/fb617449-fbd2-453e-a7ba-736aed4f2acb,MusicBrainz artist page for recordings and release groups.
+RS0058,FM012,Marcel Moyse,馬塞爾・莫伊茲,discogs_artist,https://www.discogs.com/artist/1659281,Discogs artist page for commercial release data.
+RS0059,FM012,Marcel Moyse,馬塞爾・莫伊茲,worldcat_recordings,https://search.worldcat.org/search?q=Marcel%20Moyse%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0060,FM012,Marcel Moyse,馬塞爾・莫伊茲,youtube_performance_search,https://www.youtube.com/results?search_query=Marcel%20Moyse%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0061,FM012,Marcel Moyse,馬塞爾・莫伊茲,spotify_search,https://open.spotify.com/search/Marcel%20Moyse%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0062,FM013,René Le Roy,勒內・勒魯瓦,musicbrainz_artist,https://musicbrainz.org/artist/c6a5effd-45f6-4a2d-9735-3ff2510ed729,MusicBrainz artist page for recordings and release groups.
+RS0063,FM013,René Le Roy,勒內・勒魯瓦,discogs_artist,https://www.discogs.com/artist/2098539,Discogs artist page for commercial release data.
+RS0064,FM013,René Le Roy,勒內・勒魯瓦,worldcat_recordings,https://search.worldcat.org/search?q=Ren%C3%A9%20Le%20Roy%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0065,FM013,René Le Roy,勒內・勒魯瓦,youtube_performance_search,https://www.youtube.com/results?search_query=Ren%C3%A9%20Le%20Roy%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0066,FM013,René Le Roy,勒內・勒魯瓦,spotify_search,https://open.spotify.com/search/Ren%C3%A9%20Le%20Roy%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0067,FM014,Gaston Crunelle,加斯東・克呂內爾,musicbrainz_artist,https://musicbrainz.org/artist/5a5e16a1-9a0d-4ca6-bd91-c75cb74368bd,MusicBrainz artist page for recordings and release groups.
+RS0068,FM014,Gaston Crunelle,加斯東・克呂內爾,discogs_artist,https://www.discogs.com/artist/1980901,Discogs artist page for commercial release data.
+RS0069,FM014,Gaston Crunelle,加斯東・克呂內爾,worldcat_recordings,https://search.worldcat.org/search?q=Gaston%20Crunelle%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0070,FM014,Gaston Crunelle,加斯東・克呂內爾,youtube_performance_search,https://www.youtube.com/results?search_query=Gaston%20Crunelle%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0071,FM014,Gaston Crunelle,加斯東・克呂內爾,spotify_search,https://open.spotify.com/search/Gaston%20Crunelle%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0072,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,musicbrainz_artist,https://musicbrainz.org/artist/d7958719-4b16-4659-8ece-f9c1c1867ac3,MusicBrainz artist page for recordings and release groups.
+RS0073,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,discogs_search,https://www.discogs.com/search/?q=Leonardo%20De%20Lorenzo%20flute&type=all,Search Discogs for commercial releases.
+RS0074,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,worldcat_recordings,https://search.worldcat.org/search?q=Leonardo%20De%20Lorenzo%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0075,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,youtube_performance_search,https://www.youtube.com/results?search_query=Leonardo%20De%20Lorenzo%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0076,FM015,Leonardo De Lorenzo,萊昂納多・德洛倫佐,spotify_search,https://open.spotify.com/search/Leonardo%20De%20Lorenzo%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0077,FM016,Georges Laurent,喬治・洛朗,musicbrainz_search,https://musicbrainz.org/search?query=Georges%20Laurent%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0078,FM016,Georges Laurent,喬治・洛朗,discogs_search,https://www.discogs.com/search/?q=Georges%20Laurent%20flute&type=all,Search Discogs for commercial releases.
+RS0079,FM016,Georges Laurent,喬治・洛朗,worldcat_recordings,https://search.worldcat.org/search?q=Georges%20Laurent%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0080,FM016,Georges Laurent,喬治・洛朗,youtube_performance_search,https://www.youtube.com/results?search_query=Georges%20Laurent%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0081,FM016,Georges Laurent,喬治・洛朗,spotify_search,https://open.spotify.com/search/Georges%20Laurent%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0082,FM017,William Kincaid,威廉・金凱德,musicbrainz_search,https://musicbrainz.org/search?query=William%20Kincaid%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0083,FM017,William Kincaid,威廉・金凱德,discogs_search,https://www.discogs.com/search/?q=William%20Kincaid%20flute&type=all,Search Discogs for commercial releases.
+RS0084,FM017,William Kincaid,威廉・金凱德,worldcat_recordings,https://search.worldcat.org/search?q=William%20Kincaid%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0085,FM017,William Kincaid,威廉・金凱德,youtube_performance_search,https://www.youtube.com/results?search_query=William%20Kincaid%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0086,FM017,William Kincaid,威廉・金凱德,spotify_search,https://open.spotify.com/search/William%20Kincaid%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0087,FM018,Joseph Mariano,約瑟夫・馬里亞諾,musicbrainz_artist,https://musicbrainz.org/artist/443fd4f3-9829-46b7-b302-e71c4a419d54,MusicBrainz artist page for recordings and release groups.
+RS0088,FM018,Joseph Mariano,約瑟夫・馬里亞諾,discogs_artist,https://www.discogs.com/artist/1836271,Discogs artist page for commercial release data.
+RS0089,FM018,Joseph Mariano,約瑟夫・馬里亞諾,worldcat_recordings,https://search.worldcat.org/search?q=Joseph%20Mariano%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0090,FM018,Joseph Mariano,約瑟夫・馬里亞諾,youtube_performance_search,https://www.youtube.com/results?search_query=Joseph%20Mariano%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0091,FM018,Joseph Mariano,約瑟夫・馬里亞諾,spotify_search,https://open.spotify.com/search/Joseph%20Mariano%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0092,FM019,Julius Baker,朱利葉斯・貝克,musicbrainz_artist,https://musicbrainz.org/artist/f9096958-9149-43cb-a051-f54b59b46ee7,MusicBrainz artist page for recordings and release groups.
+RS0093,FM019,Julius Baker,朱利葉斯・貝克,discogs_artist,https://www.discogs.com/artist/956001,Discogs artist page for commercial release data.
+RS0094,FM019,Julius Baker,朱利葉斯・貝克,worldcat_recordings,https://search.worldcat.org/search?q=Julius%20Baker%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0095,FM019,Julius Baker,朱利葉斯・貝克,youtube_performance_search,https://www.youtube.com/results?search_query=Julius%20Baker%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0096,FM019,Julius Baker,朱利葉斯・貝克,spotify_search,https://open.spotify.com/search/Julius%20Baker%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0097,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,musicbrainz_artist,https://musicbrainz.org/artist/4deb8a6c-38f1-47d6-9e75-ada1add9dd65,MusicBrainz artist page for recordings and release groups.
+RS0098,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,discogs_artist,https://www.discogs.com/artist/379816,Discogs artist page for commercial release data.
+RS0099,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,worldcat_recordings,https://search.worldcat.org/search?q=Jean-Pierre%20Rampal%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0100,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,youtube_performance_search,https://www.youtube.com/results?search_query=Jean-Pierre%20Rampal%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0101,FM020,Jean-Pierre Rampal,讓-皮耶・朗帕爾,spotify_search,https://open.spotify.com/search/Jean-Pierre%20Rampal%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0102,FM021,Alain Marion,阿蘭・馬里翁,musicbrainz_artist,https://musicbrainz.org/artist/2fdb589e-7eba-44cc-87fa-f1d201ab77a8,MusicBrainz artist page for recordings and release groups.
+RS0103,FM021,Alain Marion,阿蘭・馬里翁,discogs_artist,https://www.discogs.com/artist/833843,Discogs artist page for commercial release data.
+RS0104,FM021,Alain Marion,阿蘭・馬里翁,worldcat_recordings,https://search.worldcat.org/search?q=Alain%20Marion%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0105,FM021,Alain Marion,阿蘭・馬里翁,youtube_performance_search,https://www.youtube.com/results?search_query=Alain%20Marion%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0106,FM021,Alain Marion,阿蘭・馬里翁,spotify_search,https://open.spotify.com/search/Alain%20Marion%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0107,FM022,Maxence Larrieu,馬克桑斯・拉里厄,musicbrainz_artist,https://musicbrainz.org/artist/c5656f24-24ce-4842-a1b2-f7b569207626,MusicBrainz artist page for recordings and release groups.
+RS0108,FM022,Maxence Larrieu,馬克桑斯・拉里厄,discogs_artist,https://www.discogs.com/artist/844246,Discogs artist page for commercial release data.
+RS0109,FM022,Maxence Larrieu,馬克桑斯・拉里厄,worldcat_recordings,https://search.worldcat.org/search?q=Maxence%20Larrieu%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0110,FM022,Maxence Larrieu,馬克桑斯・拉里厄,youtube_performance_search,https://www.youtube.com/results?search_query=Maxence%20Larrieu%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0111,FM022,Maxence Larrieu,馬克桑斯・拉里厄,spotify_search,https://open.spotify.com/search/Maxence%20Larrieu%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0112,FM023,Aurèle Nicolet,奧雷勒・尼科萊,musicbrainz_artist,https://musicbrainz.org/artist/98b40321-a346-4a73-ba89-7ce868743371,MusicBrainz artist page for recordings and release groups.
+RS0113,FM023,Aurèle Nicolet,奧雷勒・尼科萊,discogs_artist,https://www.discogs.com/artist/302078,Discogs artist page for commercial release data.
+RS0114,FM023,Aurèle Nicolet,奧雷勒・尼科萊,worldcat_recordings,https://search.worldcat.org/search?q=Aur%C3%A8le%20Nicolet%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0115,FM023,Aurèle Nicolet,奧雷勒・尼科萊,youtube_performance_search,https://www.youtube.com/results?search_query=Aur%C3%A8le%20Nicolet%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0116,FM023,Aurèle Nicolet,奧雷勒・尼科萊,spotify_search,https://open.spotify.com/search/Aur%C3%A8le%20Nicolet%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0117,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,musicbrainz_artist,https://musicbrainz.org/artist/fdc0c5bb-9755-439f-bef8-9516e0c15536,MusicBrainz artist page for recordings and release groups.
+RS0118,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,discogs_artist,https://www.discogs.com/artist/882825,Discogs artist page for commercial release data.
+RS0119,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,worldcat_recordings,https://search.worldcat.org/search?q=Peter-Lukas%20Graf%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0120,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,youtube_performance_search,https://www.youtube.com/results?search_query=Peter-Lukas%20Graf%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0121,FM024,Peter-Lukas Graf,彼得-盧卡斯・格拉夫,spotify_search,https://open.spotify.com/search/Peter-Lukas%20Graf%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0122,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,musicbrainz_artist,https://musicbrainz.org/artist/5f543587-f1b0-4111-83ce-83b831146ddb,MusicBrainz artist page for recordings and release groups.
+RS0123,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,discogs_artist,https://www.discogs.com/artist/843658,Discogs artist page for commercial release data.
+RS0124,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,worldcat_recordings,https://search.worldcat.org/search?q=Severino%20Gazzelloni%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0125,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,youtube_performance_search,https://www.youtube.com/results?search_query=Severino%20Gazzelloni%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0126,FM025,Severino Gazzelloni,塞韋里諾・加澤洛尼,spotify_search,https://open.spotify.com/search/Severino%20Gazzelloni%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0127,FM026,James Galway,詹姆斯・高威,musicbrainz_artist,https://musicbrainz.org/artist/84045b93-beb0-4bc8-a855-93266ec6bbdc,MusicBrainz artist page for recordings and release groups.
+RS0128,FM026,James Galway,詹姆斯・高威,discogs_artist,https://www.discogs.com/artist/325672,Discogs artist page for commercial release data.
+RS0129,FM026,James Galway,詹姆斯・高威,worldcat_recordings,https://search.worldcat.org/search?q=James%20Galway%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0130,FM026,James Galway,詹姆斯・高威,youtube_performance_search,https://www.youtube.com/results?search_query=James%20Galway%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0131,FM026,James Galway,詹姆斯・高威,spotify_search,https://open.spotify.com/search/James%20Galway%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0132,FM027,William Bennett,威廉・班奈特,musicbrainz_artist,https://musicbrainz.org/artist/6a18d13a-ebf3-4bd2-bf35-4b21fd501e24,MusicBrainz artist page for recordings and release groups.
+RS0133,FM027,William Bennett,威廉・班奈特,discogs_artist,https://www.discogs.com/artist/95996,Discogs artist page for commercial release data.
+RS0134,FM027,William Bennett,威廉・班奈特,worldcat_recordings,https://search.worldcat.org/search?q=William%20Bennett%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0135,FM027,William Bennett,威廉・班奈特,youtube_performance_search,https://www.youtube.com/results?search_query=William%20Bennett%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0136,FM027,William Bennett,威廉・班奈特,spotify_search,https://open.spotify.com/search/William%20Bennett%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0137,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,musicbrainz_search,https://musicbrainz.org/search?query=Geoffrey%20Gilbert%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0138,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,discogs_search,https://www.discogs.com/search/?q=Geoffrey%20Gilbert%20flute&type=all,Search Discogs for commercial releases.
+RS0139,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,worldcat_recordings,https://search.worldcat.org/search?q=Geoffrey%20Gilbert%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0140,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,youtube_performance_search,https://www.youtube.com/results?search_query=Geoffrey%20Gilbert%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0141,FM028,Geoffrey Gilbert,傑弗里・吉爾伯特,spotify_search,https://open.spotify.com/search/Geoffrey%20Gilbert%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0142,FM029,Michel Debost,米歇爾・德博斯特,musicbrainz_artist,https://musicbrainz.org/artist/34d87c87-a93e-477e-afd3-5cba313c7eea,MusicBrainz artist page for recordings and release groups.
+RS0143,FM029,Michel Debost,米歇爾・德博斯特,discogs_artist,https://www.discogs.com/artist/833837,Discogs artist page for commercial release data.
+RS0144,FM029,Michel Debost,米歇爾・德博斯特,worldcat_recordings,https://search.worldcat.org/search?q=Michel%20Debost%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0145,FM029,Michel Debost,米歇爾・德博斯特,youtube_performance_search,https://www.youtube.com/results?search_query=Michel%20Debost%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0146,FM029,Michel Debost,米歇爾・德博斯特,spotify_search,https://open.spotify.com/search/Michel%20Debost%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0147,FM030,Trevor Wye,特雷弗・懷伊,musicbrainz_artist,https://musicbrainz.org/artist/64c34be8-f782-480e-b1c3-3965fde88cb2,MusicBrainz artist page for recordings and release groups.
+RS0148,FM030,Trevor Wye,特雷弗・懷伊,discogs_artist,https://www.discogs.com/artist/3000264,Discogs artist page for commercial release data.
+RS0149,FM030,Trevor Wye,特雷弗・懷伊,worldcat_recordings,https://search.worldcat.org/search?q=Trevor%20Wye%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0150,FM030,Trevor Wye,特雷弗・懷伊,youtube_performance_search,https://www.youtube.com/results?search_query=Trevor%20Wye%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0151,FM030,Trevor Wye,特雷弗・懷伊,spotify_search,https://open.spotify.com/search/Trevor%20Wye%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0152,FM031,Louis Moyse,路易・莫伊茲,musicbrainz_artist,https://musicbrainz.org/artist/a57797c9-8932-4ba3-8d28-132570c08b21,MusicBrainz artist page for recordings and release groups.
+RS0153,FM031,Louis Moyse,路易・莫伊茲,discogs_artist,https://www.discogs.com/artist/1659282,Discogs artist page for commercial release data.
+RS0154,FM031,Louis Moyse,路易・莫伊茲,worldcat_recordings,https://search.worldcat.org/search?q=Louis%20Moyse%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0155,FM031,Louis Moyse,路易・莫伊茲,youtube_performance_search,https://www.youtube.com/results?search_query=Louis%20Moyse%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0156,FM031,Louis Moyse,路易・莫伊茲,spotify_search,https://open.spotify.com/search/Louis%20Moyse%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0157,FM032,Robert Willoughby,羅伯特・威洛比,musicbrainz_search,https://musicbrainz.org/search?query=Robert%20Willoughby%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0158,FM032,Robert Willoughby,羅伯特・威洛比,discogs_search,https://www.discogs.com/search/?q=Robert%20Willoughby%20flute&type=all,Search Discogs for commercial releases.
+RS0159,FM032,Robert Willoughby,羅伯特・威洛比,worldcat_recordings,https://search.worldcat.org/search?q=Robert%20Willoughby%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0160,FM032,Robert Willoughby,羅伯特・威洛比,youtube_performance_search,https://www.youtube.com/results?search_query=Robert%20Willoughby%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0161,FM032,Robert Willoughby,羅伯特・威洛比,spotify_search,https://open.spotify.com/search/Robert%20Willoughby%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0162,FM033,Samuel Baron,塞繆爾・巴倫,musicbrainz_artist,https://musicbrainz.org/artist/f905e00c-9bfc-4dda-8e2b-8630d93ee551,MusicBrainz artist page for recordings and release groups.
+RS0163,FM033,Samuel Baron,塞繆爾・巴倫,discogs_artist,https://www.discogs.com/artist/652186,Discogs artist page for commercial release data.
+RS0164,FM033,Samuel Baron,塞繆爾・巴倫,worldcat_recordings,https://search.worldcat.org/search?q=Samuel%20Baron%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0165,FM033,Samuel Baron,塞繆爾・巴倫,youtube_performance_search,https://www.youtube.com/results?search_query=Samuel%20Baron%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0166,FM033,Samuel Baron,塞繆爾・巴倫,spotify_search,https://open.spotify.com/search/Samuel%20Baron%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0167,FM034,Albert Tipton,阿爾伯特・蒂普頓,musicbrainz_artist,https://musicbrainz.org/artist/6d96afd0-2392-494d-80f8-4e9bf55084f9,MusicBrainz artist page for recordings and release groups.
+RS0168,FM034,Albert Tipton,阿爾伯特・蒂普頓,discogs_artist,https://www.discogs.com/artist/3689743,Discogs artist page for commercial release data.
+RS0169,FM034,Albert Tipton,阿爾伯特・蒂普頓,worldcat_recordings,https://search.worldcat.org/search?q=Albert%20Tipton%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0170,FM034,Albert Tipton,阿爾伯特・蒂普頓,youtube_performance_search,https://www.youtube.com/results?search_query=Albert%20Tipton%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0171,FM034,Albert Tipton,阿爾伯特・蒂普頓,spotify_search,https://open.spotify.com/search/Albert%20Tipton%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0172,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,musicbrainz_artist,https://musicbrainz.org/artist/366d45df-d320-4da5-9c08-ffd355742706,MusicBrainz artist page for recordings and release groups.
+RS0173,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,discogs_search,https://www.discogs.com/search/?q=Frances%20Blaisdell%20flute&type=all,Search Discogs for commercial releases.
+RS0174,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,worldcat_recordings,https://search.worldcat.org/search?q=Frances%20Blaisdell%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0175,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,youtube_performance_search,https://www.youtube.com/results?search_query=Frances%20Blaisdell%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0176,FM035,Frances Blaisdell,弗朗西絲・布萊斯德爾,spotify_search,https://open.spotify.com/search/Frances%20Blaisdell%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0177,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,musicbrainz_artist,https://musicbrainz.org/artist/71f18f4f-9e51-4388-a74c-439264f617f0,MusicBrainz artist page for recordings and release groups.
+RS0178,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,discogs_artist,https://www.discogs.com/artist/1056950,Discogs artist page for commercial release data.
+RS0179,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,worldcat_recordings,https://search.worldcat.org/search?q=Doriot%20Anthony%20Dwyer%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0180,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,youtube_performance_search,https://www.youtube.com/results?search_query=Doriot%20Anthony%20Dwyer%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0181,FM036,Doriot Anthony Dwyer,多里奧特・安東尼・德懷爾,spotify_search,https://open.spotify.com/search/Doriot%20Anthony%20Dwyer%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0182,FM037,Lois Schaefer,露易絲・謝弗,musicbrainz_search,https://musicbrainz.org/search?query=Lois%20Schaefer%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0183,FM037,Lois Schaefer,露易絲・謝弗,discogs_search,https://www.discogs.com/search/?q=Lois%20Schaefer%20flute&type=all,Search Discogs for commercial releases.
+RS0184,FM037,Lois Schaefer,露易絲・謝弗,worldcat_recordings,https://search.worldcat.org/search?q=Lois%20Schaefer%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0185,FM037,Lois Schaefer,露易絲・謝弗,youtube_performance_search,https://www.youtube.com/results?search_query=Lois%20Schaefer%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0186,FM037,Lois Schaefer,露易絲・謝弗,spotify_search,https://open.spotify.com/search/Lois%20Schaefer%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0187,FM038,Bernard Goldberg,伯納德・戈德堡,musicbrainz_search,https://musicbrainz.org/search?query=Bernard%20Goldberg%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0188,FM038,Bernard Goldberg,伯納德・戈德堡,discogs_search,https://www.discogs.com/search/?q=Bernard%20Goldberg%20flute&type=all,Search Discogs for commercial releases.
+RS0189,FM038,Bernard Goldberg,伯納德・戈德堡,worldcat_recordings,https://search.worldcat.org/search?q=Bernard%20Goldberg%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0190,FM038,Bernard Goldberg,伯納德・戈德堡,youtube_performance_search,https://www.youtube.com/results?search_query=Bernard%20Goldberg%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0191,FM038,Bernard Goldberg,伯納德・戈德堡,spotify_search,https://open.spotify.com/search/Bernard%20Goldberg%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0192,FM039,John Krell,約翰・克雷爾,musicbrainz_search,https://musicbrainz.org/search?query=John%20Krell%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0193,FM039,John Krell,約翰・克雷爾,discogs_search,https://www.discogs.com/search/?q=John%20Krell%20flute&type=all,Search Discogs for commercial releases.
+RS0194,FM039,John Krell,約翰・克雷爾,worldcat_recordings,https://search.worldcat.org/search?q=John%20Krell%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0195,FM039,John Krell,約翰・克雷爾,youtube_performance_search,https://www.youtube.com/results?search_query=John%20Krell%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0196,FM039,John Krell,約翰・克雷爾,spotify_search,https://open.spotify.com/search/John%20Krell%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0197,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,musicbrainz_search,https://musicbrainz.org/search?query=Walfrid%20Kujala%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0198,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,discogs_search,https://www.discogs.com/search/?q=Walfrid%20Kujala%20flute&type=all,Search Discogs for commercial releases.
+RS0199,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,worldcat_recordings,https://search.worldcat.org/search?q=Walfrid%20Kujala%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0200,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,youtube_performance_search,https://www.youtube.com/results?search_query=Walfrid%20Kujala%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0201,FM040,Walfrid Kujala,瓦爾弗里德・庫亞拉,spotify_search,https://open.spotify.com/search/Walfrid%20Kujala%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0202,FM041,Donald Peck,唐納德・佩克,musicbrainz_search,https://musicbrainz.org/search?query=Donald%20Peck%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0203,FM041,Donald Peck,唐納德・佩克,discogs_search,https://www.discogs.com/search/?q=Donald%20Peck%20flute&type=all,Search Discogs for commercial releases.
+RS0204,FM041,Donald Peck,唐納德・佩克,worldcat_recordings,https://search.worldcat.org/search?q=Donald%20Peck%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0205,FM041,Donald Peck,唐納德・佩克,youtube_performance_search,https://www.youtube.com/results?search_query=Donald%20Peck%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0206,FM041,Donald Peck,唐納德・佩克,spotify_search,https://open.spotify.com/search/Donald%20Peck%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0207,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,musicbrainz_artist,https://musicbrainz.org/artist/5b103e52-b3d0-4a5d-8b83-ae250bc29204,MusicBrainz artist page for recordings and release groups.
+RS0208,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,discogs_artist,https://www.discogs.com/artist/2066200,Discogs artist page for commercial release data.
+RS0209,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,worldcat_recordings,https://search.worldcat.org/search?q=Jeanne%20Baxtresser%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0210,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,youtube_performance_search,https://www.youtube.com/results?search_query=Jeanne%20Baxtresser%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0211,FM042,Jeanne Baxtresser,珍妮・巴克斯特雷瑟,spotify_search,https://open.spotify.com/search/Jeanne%20Baxtresser%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0212,FM043,Bonita Boyd,博妮塔・博伊德,musicbrainz_search,https://musicbrainz.org/search?query=Bonita%20Boyd%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0213,FM043,Bonita Boyd,博妮塔・博伊德,discogs_search,https://www.discogs.com/search/?q=Bonita%20Boyd%20flute&type=all,Search Discogs for commercial releases.
+RS0214,FM043,Bonita Boyd,博妮塔・博伊德,worldcat_recordings,https://search.worldcat.org/search?q=Bonita%20Boyd%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0215,FM043,Bonita Boyd,博妮塔・博伊德,youtube_performance_search,https://www.youtube.com/results?search_query=Bonita%20Boyd%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0216,FM043,Bonita Boyd,博妮塔・博伊德,spotify_search,https://open.spotify.com/search/Bonita%20Boyd%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0217,FM044,Carol Wincenc,卡羅爾・溫森克,musicbrainz_artist,https://musicbrainz.org/artist/2ff42b00-869a-494f-a6db-c2eb98de0ae6,MusicBrainz artist page for recordings and release groups.
+RS0218,FM044,Carol Wincenc,卡羅爾・溫森克,discogs_artist,https://www.discogs.com/artist/724885,Discogs artist page for commercial release data.
+RS0219,FM044,Carol Wincenc,卡羅爾・溫森克,worldcat_recordings,https://search.worldcat.org/search?q=Carol%20Wincenc%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0220,FM044,Carol Wincenc,卡羅爾・溫森克,youtube_performance_search,https://www.youtube.com/results?search_query=Carol%20Wincenc%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0221,FM044,Carol Wincenc,卡羅爾・溫森克,spotify_search,https://open.spotify.com/search/Carol%20Wincenc%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0222,FM045,Leone Buyse,萊昂・拜斯,musicbrainz_search,https://musicbrainz.org/search?query=Leone%20Buyse%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0223,FM045,Leone Buyse,萊昂・拜斯,discogs_artist,https://www.discogs.com/artist/1767606,Discogs artist page for commercial release data.
+RS0224,FM045,Leone Buyse,萊昂・拜斯,worldcat_recordings,https://search.worldcat.org/search?q=Leone%20Buyse%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0225,FM045,Leone Buyse,萊昂・拜斯,youtube_performance_search,https://www.youtube.com/results?search_query=Leone%20Buyse%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0226,FM045,Leone Buyse,萊昂・拜斯,spotify_search,https://open.spotify.com/search/Leone%20Buyse%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0227,FM046,Paula Robison,寶拉・羅賓遜,musicbrainz_artist,https://musicbrainz.org/artist/4ec969ea-4f63-4a0b-a502-1389966686c4,MusicBrainz artist page for recordings and release groups.
+RS0228,FM046,Paula Robison,寶拉・羅賓遜,discogs_artist,https://www.discogs.com/artist/978651,Discogs artist page for commercial release data.
+RS0229,FM046,Paula Robison,寶拉・羅賓遜,worldcat_recordings,https://search.worldcat.org/search?q=Paula%20Robison%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0230,FM046,Paula Robison,寶拉・羅賓遜,youtube_performance_search,https://www.youtube.com/results?search_query=Paula%20Robison%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0231,FM046,Paula Robison,寶拉・羅賓遜,spotify_search,https://open.spotify.com/search/Paula%20Robison%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0232,FM047,Ransom Wilson,蘭森・威爾遜,musicbrainz_artist,https://musicbrainz.org/artist/d4545789-e3ec-4d74-b3a4-99339d6df353,MusicBrainz artist page for recordings and release groups.
+RS0233,FM047,Ransom Wilson,蘭森・威爾遜,musicbrainz_artist,https://musicbrainz.org/artist/5d4a639b-e6bc-4191-82da-1215516e2539,MusicBrainz artist page for recordings and release groups.
+RS0234,FM047,Ransom Wilson,蘭森・威爾遜,discogs_artist,https://www.discogs.com/artist/1307558,Discogs artist page for commercial release data.
+RS0235,FM047,Ransom Wilson,蘭森・威爾遜,worldcat_recordings,https://search.worldcat.org/search?q=Ransom%20Wilson%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0236,FM047,Ransom Wilson,蘭森・威爾遜,youtube_performance_search,https://www.youtube.com/results?search_query=Ransom%20Wilson%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0237,FM047,Ransom Wilson,蘭森・威爾遜,spotify_search,https://open.spotify.com/search/Ransom%20Wilson%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0238,FM048,Robert Aitken,羅伯特・艾特肯,musicbrainz_search,https://musicbrainz.org/search?query=Robert%20Aitken%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0239,FM048,Robert Aitken,羅伯特・艾特肯,discogs_search,https://www.discogs.com/search/?q=Robert%20Aitken%20flute&type=all,Search Discogs for commercial releases.
+RS0240,FM048,Robert Aitken,羅伯特・艾特肯,worldcat_recordings,https://search.worldcat.org/search?q=Robert%20Aitken%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0241,FM048,Robert Aitken,羅伯特・艾特肯,youtube_performance_search,https://www.youtube.com/results?search_query=Robert%20Aitken%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0242,FM048,Robert Aitken,羅伯特・艾特肯,spotify_search,https://open.spotify.com/search/Robert%20Aitken%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0243,FM049,Hubert Laws,休伯特・勞斯,musicbrainz_artist,https://musicbrainz.org/artist/82208529-b45a-4b3e-92dd-02f6b14c6f18,MusicBrainz artist page for recordings and release groups.
+RS0244,FM049,Hubert Laws,休伯特・勞斯,discogs_artist,https://www.discogs.com/artist/40235,Discogs artist page for commercial release data.
+RS0245,FM049,Hubert Laws,休伯特・勞斯,worldcat_recordings,https://search.worldcat.org/search?q=Hubert%20Laws%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0246,FM049,Hubert Laws,休伯特・勞斯,youtube_performance_search,https://www.youtube.com/results?search_query=Hubert%20Laws%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0247,FM049,Hubert Laws,休伯特・勞斯,spotify_search,https://open.spotify.com/search/Hubert%20Laws%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0248,FM050,James Pellerite,詹姆斯・佩勒賴特,musicbrainz_search,https://musicbrainz.org/search?query=James%20Pellerite%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0249,FM050,James Pellerite,詹姆斯・佩勒賴特,discogs_search,https://www.discogs.com/search/?q=James%20Pellerite%20flute&type=all,Search Discogs for commercial releases.
+RS0250,FM050,James Pellerite,詹姆斯・佩勒賴特,worldcat_recordings,https://search.worldcat.org/search?q=James%20Pellerite%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0251,FM050,James Pellerite,詹姆斯・佩勒賴特,youtube_performance_search,https://www.youtube.com/results?search_query=James%20Pellerite%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0252,FM050,James Pellerite,詹姆斯・佩勒賴特,spotify_search,https://open.spotify.com/search/James%20Pellerite%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0253,FM051,Robert Dick,羅伯特・迪克,musicbrainz_search,https://musicbrainz.org/search?query=Robert%20Dick%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0254,FM051,Robert Dick,羅伯特・迪克,discogs_search,https://www.discogs.com/search/?q=Robert%20Dick%20flute&type=all,Search Discogs for commercial releases.
+RS0255,FM051,Robert Dick,羅伯特・迪克,worldcat_recordings,https://search.worldcat.org/search?q=Robert%20Dick%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0256,FM051,Robert Dick,羅伯特・迪克,youtube_performance_search,https://www.youtube.com/results?search_query=Robert%20Dick%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0257,FM051,Robert Dick,羅伯特・迪克,spotify_search,https://open.spotify.com/search/Robert%20Dick%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0258,FM052,Harvey Sollberger,哈維・索爾伯格,musicbrainz_artist,https://musicbrainz.org/artist/61f809ec-c761-4a66-a757-10215e049778,MusicBrainz artist page for recordings and release groups.
+RS0259,FM052,Harvey Sollberger,哈維・索爾伯格,discogs_artist,https://www.discogs.com/artist/648954,Discogs artist page for commercial release data.
+RS0260,FM052,Harvey Sollberger,哈維・索爾伯格,worldcat_recordings,https://search.worldcat.org/search?q=Harvey%20Sollberger%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0261,FM052,Harvey Sollberger,哈維・索爾伯格,youtube_performance_search,https://www.youtube.com/results?search_query=Harvey%20Sollberger%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0262,FM052,Harvey Sollberger,哈維・索爾伯格,spotify_search,https://open.spotify.com/search/Harvey%20Sollberger%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0263,FM053,András Adorján,安德拉什・阿多揚,musicbrainz_search,https://musicbrainz.org/search?query=Andr%C3%A1s%20Adorj%C3%A1n%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0264,FM053,András Adorján,安德拉什・阿多揚,discogs_search,https://www.discogs.com/search/?q=Andr%C3%A1s%20Adorj%C3%A1n%20flute&type=all,Search Discogs for commercial releases.
+RS0265,FM053,András Adorján,安德拉什・阿多揚,worldcat_recordings,https://search.worldcat.org/search?q=Andr%C3%A1s%20Adorj%C3%A1n%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0266,FM053,András Adorján,安德拉什・阿多揚,youtube_performance_search,https://www.youtube.com/results?search_query=Andr%C3%A1s%20Adorj%C3%A1n%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0267,FM053,András Adorján,安德拉什・阿多揚,spotify_search,https://open.spotify.com/search/Andr%C3%A1s%20Adorj%C3%A1n%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0268,FM054,Keith Underwood,基思・安德伍德,musicbrainz_search,https://musicbrainz.org/search?query=Keith%20Underwood%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0269,FM054,Keith Underwood,基思・安德伍德,discogs_search,https://www.discogs.com/search/?q=Keith%20Underwood%20flute&type=all,Search Discogs for commercial releases.
+RS0270,FM054,Keith Underwood,基思・安德伍德,worldcat_recordings,https://search.worldcat.org/search?q=Keith%20Underwood%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0271,FM054,Keith Underwood,基思・安德伍德,youtube_performance_search,https://www.youtube.com/results?search_query=Keith%20Underwood%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0272,FM054,Keith Underwood,基思・安德伍德,spotify_search,https://open.spotify.com/search/Keith%20Underwood%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0273,FM055,Jim Walker,吉姆・沃克,musicbrainz_search,https://musicbrainz.org/search?query=Jim%20Walker%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0274,FM055,Jim Walker,吉姆・沃克,discogs_search,https://www.discogs.com/search/?q=Jim%20Walker%20flute&type=all,Search Discogs for commercial releases.
+RS0275,FM055,Jim Walker,吉姆・沃克,worldcat_recordings,https://search.worldcat.org/search?q=Jim%20Walker%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0276,FM055,Jim Walker,吉姆・沃克,youtube_performance_search,https://www.youtube.com/results?search_query=Jim%20Walker%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0277,FM055,Jim Walker,吉姆・沃克,spotify_search,https://open.spotify.com/search/Jim%20Walker%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0278,FM056,Barthold Kuijken,巴托爾德・奎肯,musicbrainz_artist,https://musicbrainz.org/artist/78d102d1-c148-4cbe-8d05-32b866a9fa21,MusicBrainz artist page for recordings and release groups.
+RS0279,FM056,Barthold Kuijken,巴托爾德・奎肯,discogs_artist,https://www.discogs.com/artist/836884,Discogs artist page for commercial release data.
+RS0280,FM056,Barthold Kuijken,巴托爾德・奎肯,worldcat_recordings,https://search.worldcat.org/search?q=Barthold%20Kuijken%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0281,FM056,Barthold Kuijken,巴托爾德・奎肯,youtube_performance_search,https://www.youtube.com/results?search_query=Barthold%20Kuijken%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0282,FM056,Barthold Kuijken,巴托爾德・奎肯,spotify_search,https://open.spotify.com/search/Barthold%20Kuijken%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0283,FM057,Frans Brüggen,弗蘭斯・布呂根,musicbrainz_artist,https://musicbrainz.org/artist/2ef36a7b-c93c-4e05-9d23-2dd9f85c653a,MusicBrainz artist page for recordings and release groups.
+RS0284,FM057,Frans Brüggen,弗蘭斯・布呂根,discogs_artist,https://www.discogs.com/artist/870792,Discogs artist page for commercial release data.
+RS0285,FM057,Frans Brüggen,弗蘭斯・布呂根,worldcat_recordings,https://search.worldcat.org/search?q=Frans%20Br%C3%BCggen%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0286,FM057,Frans Brüggen,弗蘭斯・布呂根,youtube_performance_search,https://www.youtube.com/results?search_query=Frans%20Br%C3%BCggen%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0287,FM057,Frans Brüggen,弗蘭斯・布呂根,spotify_search,https://open.spotify.com/search/Frans%20Br%C3%BCggen%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0288,FM058,Stephen Preston,史蒂芬・普雷斯頓,musicbrainz_search,https://musicbrainz.org/search?query=Stephen%20Preston%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0289,FM058,Stephen Preston,史蒂芬・普雷斯頓,discogs_search,https://www.discogs.com/search/?q=Stephen%20Preston%20flute&type=all,Search Discogs for commercial releases.
+RS0290,FM058,Stephen Preston,史蒂芬・普雷斯頓,worldcat_recordings,https://search.worldcat.org/search?q=Stephen%20Preston%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0291,FM058,Stephen Preston,史蒂芬・普雷斯頓,youtube_performance_search,https://www.youtube.com/results?search_query=Stephen%20Preston%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0292,FM058,Stephen Preston,史蒂芬・普雷斯頓,spotify_search,https://open.spotify.com/search/Stephen%20Preston%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0293,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,musicbrainz_artist,https://musicbrainz.org/artist/e64f6678-6f11-4a41-8706-9b61245f92a7,MusicBrainz artist page for recordings and release groups.
+RS0294,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,discogs_artist,https://www.discogs.com/artist/837115,Discogs artist page for commercial release data.
+RS0295,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,worldcat_recordings,https://search.worldcat.org/search?q=Wilbert%20Hazelzet%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0296,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,youtube_performance_search,https://www.youtube.com/results?search_query=Wilbert%20Hazelzet%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0297,FM059,Wilbert Hazelzet,威爾伯特・哈澤爾澤特,spotify_search,https://open.spotify.com/search/Wilbert%20Hazelzet%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0298,FM060,Rachel Brown,瑞秋・布朗,musicbrainz_search,https://musicbrainz.org/search?query=Rachel%20Brown%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0299,FM060,Rachel Brown,瑞秋・布朗,discogs_search,https://www.discogs.com/search/?q=Rachel%20Brown%20flute&type=all,Search Discogs for commercial releases.
+RS0300,FM060,Rachel Brown,瑞秋・布朗,worldcat_recordings,https://search.worldcat.org/search?q=Rachel%20Brown%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0301,FM060,Rachel Brown,瑞秋・布朗,youtube_performance_search,https://www.youtube.com/results?search_query=Rachel%20Brown%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0302,FM060,Rachel Brown,瑞秋・布朗,spotify_search,https://open.spotify.com/search/Rachel%20Brown%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0303,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,musicbrainz_artist,https://musicbrainz.org/artist/65dff25a-98a5-4546-8f52-0e12973afe5d,MusicBrainz artist page for recordings and release groups.
+RS0304,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,discogs_artist,https://www.discogs.com/artist/836774,Discogs artist page for commercial release data.
+RS0305,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,worldcat_recordings,https://search.worldcat.org/search?q=Lisa%20Beznosiuk%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0306,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,youtube_performance_search,https://www.youtube.com/results?search_query=Lisa%20Beznosiuk%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0307,FM061,Lisa Beznosiuk,麗莎・貝茲諾修克,spotify_search,https://open.spotify.com/search/Lisa%20Beznosiuk%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0308,FM062,Claire Guimond,克萊兒・吉蒙,musicbrainz_search,https://musicbrainz.org/search?query=Claire%20Guimond%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0309,FM062,Claire Guimond,克萊兒・吉蒙,discogs_search,https://www.discogs.com/search/?q=Claire%20Guimond%20flute&type=all,Search Discogs for commercial releases.
+RS0310,FM062,Claire Guimond,克萊兒・吉蒙,worldcat_recordings,https://search.worldcat.org/search?q=Claire%20Guimond%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0311,FM062,Claire Guimond,克萊兒・吉蒙,youtube_performance_search,https://www.youtube.com/results?search_query=Claire%20Guimond%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0312,FM062,Claire Guimond,克萊兒・吉蒙,spotify_search,https://open.spotify.com/search/Claire%20Guimond%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0313,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,musicbrainz_artist,https://musicbrainz.org/artist/6c1f2fd6-0bd5-4175-a90b-44372cbd05d1,MusicBrainz artist page for recordings and release groups.
+RS0314,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,discogs_artist,https://www.discogs.com/artist/212308,Discogs artist page for commercial release data.
+RS0315,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,worldcat_recordings,https://search.worldcat.org/search?q=Pierre-Yves%20Artaud%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0316,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,youtube_performance_search,https://www.youtube.com/results?search_query=Pierre-Yves%20Artaud%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0317,FM063,Pierre-Yves Artaud,皮耶-伊夫・阿爾托,spotify_search,https://open.spotify.com/search/Pierre-Yves%20Artaud%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0318,FM064,Patrick Gallois,帕特里克・加洛瓦,musicbrainz_artist,https://musicbrainz.org/artist/fd7ff1bd-cd0b-48da-ae72-9de37c6691e4,MusicBrainz artist page for recordings and release groups.
+RS0319,FM064,Patrick Gallois,帕特里克・加洛瓦,discogs_artist,https://www.discogs.com/artist/1095207,Discogs artist page for commercial release data.
+RS0320,FM064,Patrick Gallois,帕特里克・加洛瓦,worldcat_recordings,https://search.worldcat.org/search?q=Patrick%20Gallois%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0321,FM064,Patrick Gallois,帕特里克・加洛瓦,youtube_performance_search,https://www.youtube.com/results?search_query=Patrick%20Gallois%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0322,FM064,Patrick Gallois,帕特里克・加洛瓦,spotify_search,https://open.spotify.com/search/Patrick%20Gallois%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0323,FM065,Philippe Bernold,菲利普・貝爾諾,musicbrainz_artist,https://musicbrainz.org/artist/d71c2122-d5dd-4210-b825-bcd120d6c1b0,MusicBrainz artist page for recordings and release groups.
+RS0324,FM065,Philippe Bernold,菲利普・貝爾諾,discogs_artist,https://www.discogs.com/artist/970909,Discogs artist page for commercial release data.
+RS0325,FM065,Philippe Bernold,菲利普・貝爾諾,worldcat_recordings,https://search.worldcat.org/search?q=Philippe%20Bernold%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0326,FM065,Philippe Bernold,菲利普・貝爾諾,youtube_performance_search,https://www.youtube.com/results?search_query=Philippe%20Bernold%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0327,FM065,Philippe Bernold,菲利普・貝爾諾,spotify_search,https://open.spotify.com/search/Philippe%20Bernold%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0328,FM066,Emmanuel Pahud,艾曼紐・帕胡德,musicbrainz_artist,https://musicbrainz.org/artist/e9678a8c-4fcd-46ad-8f4e-3d17f6e3943f,MusicBrainz artist page for recordings and release groups.
+RS0329,FM066,Emmanuel Pahud,艾曼紐・帕胡德,discogs_artist,https://www.discogs.com/artist/424582,Discogs artist page for commercial release data.
+RS0330,FM066,Emmanuel Pahud,艾曼紐・帕胡德,worldcat_recordings,https://search.worldcat.org/search?q=Emmanuel%20Pahud%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0331,FM066,Emmanuel Pahud,艾曼紐・帕胡德,youtube_performance_search,https://www.youtube.com/results?search_query=Emmanuel%20Pahud%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0332,FM066,Emmanuel Pahud,艾曼紐・帕胡德,spotify_search,https://open.spotify.com/search/Emmanuel%20Pahud%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0333,FM067,Jacques Zoon,雅克・宗,musicbrainz_artist,https://musicbrainz.org/artist/124b21cb-a253-4834-80a3-a163bdea5b01,MusicBrainz artist page for recordings and release groups.
+RS0334,FM067,Jacques Zoon,雅克・宗,discogs_artist,https://www.discogs.com/artist/754980,Discogs artist page for commercial release data.
+RS0335,FM067,Jacques Zoon,雅克・宗,worldcat_recordings,https://search.worldcat.org/search?q=Jacques%20Zoon%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0336,FM067,Jacques Zoon,雅克・宗,youtube_performance_search,https://www.youtube.com/results?search_query=Jacques%20Zoon%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0337,FM067,Jacques Zoon,雅克・宗,spotify_search,https://open.spotify.com/search/Jacques%20Zoon%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0338,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,musicbrainz_artist,https://musicbrainz.org/artist/cdf92dca-6496-4610-a3f3-453db5e3b8d2,MusicBrainz artist page for recordings and release groups.
+RS0339,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,discogs_artist,https://www.discogs.com/artist/2968108,Discogs artist page for commercial release data.
+RS0340,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,worldcat_recordings,https://search.worldcat.org/search?q=Marina%20Piccinini%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0341,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,youtube_performance_search,https://www.youtube.com/results?search_query=Marina%20Piccinini%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0342,FM068,Marina Piccinini,瑪麗娜・皮奇尼尼,spotify_search,https://open.spotify.com/search/Marina%20Piccinini%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0343,FM069,Sharon Bezaly,莎朗・貝扎利,musicbrainz_artist,https://musicbrainz.org/artist/9091ade7-02a8-42b8-9fe5-78022a91398b,MusicBrainz artist page for recordings and release groups.
+RS0344,FM069,Sharon Bezaly,莎朗・貝扎利,discogs_artist,https://www.discogs.com/artist/1160367,Discogs artist page for commercial release data.
+RS0345,FM069,Sharon Bezaly,莎朗・貝扎利,worldcat_recordings,https://search.worldcat.org/search?q=Sharon%20Bezaly%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0346,FM069,Sharon Bezaly,莎朗・貝扎利,youtube_performance_search,https://www.youtube.com/results?search_query=Sharon%20Bezaly%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0347,FM069,Sharon Bezaly,莎朗・貝扎利,spotify_search,https://open.spotify.com/search/Sharon%20Bezaly%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0348,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,musicbrainz_artist,https://musicbrainz.org/artist/8681cbd4-8fb3-4043-a4d0-7cec3f3b6016,MusicBrainz artist page for recordings and release groups.
+RS0349,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,discogs_search,https://www.discogs.com/search/?q=Denis%20Bouriakov%20flute&type=all,Search Discogs for commercial releases.
+RS0350,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,worldcat_recordings,https://search.worldcat.org/search?q=Denis%20Bouriakov%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0351,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,youtube_performance_search,https://www.youtube.com/results?search_query=Denis%20Bouriakov%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0352,FM070,Denis Bouriakov,丹尼斯・布里亞科夫,spotify_search,https://open.spotify.com/search/Denis%20Bouriakov%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0353,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,musicbrainz_artist,https://musicbrainz.org/artist/59197783-9971-4393-9275-9c832e75b1f1,MusicBrainz artist page for recordings and release groups.
+RS0354,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,discogs_artist,https://www.discogs.com/artist/413784,Discogs artist page for commercial release data.
+RS0355,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,worldcat_recordings,https://search.worldcat.org/search?q=Andrea%20Lieberknecht%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0356,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,youtube_performance_search,https://www.youtube.com/results?search_query=Andrea%20Lieberknecht%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0357,FM071,Andrea Lieberknecht,安德烈亞・利伯克內希特,spotify_search,https://open.spotify.com/search/Andrea%20Lieberknecht%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0358,FM072,Felix Renggli,菲利克斯・倫格利,musicbrainz_search,https://musicbrainz.org/search?query=Felix%20Renggli%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0359,FM072,Felix Renggli,菲利克斯・倫格利,discogs_search,https://www.discogs.com/search/?q=Felix%20Renggli%20flute&type=all,Search Discogs for commercial releases.
+RS0360,FM072,Felix Renggli,菲利克斯・倫格利,worldcat_recordings,https://search.worldcat.org/search?q=Felix%20Renggli%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0361,FM072,Felix Renggli,菲利克斯・倫格利,youtube_performance_search,https://www.youtube.com/results?search_query=Felix%20Renggli%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0362,FM072,Felix Renggli,菲利克斯・倫格利,spotify_search,https://open.spotify.com/search/Felix%20Renggli%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0363,FM073,Emily Beynon,艾蜜莉・貝農,musicbrainz_artist,https://musicbrainz.org/artist/f3d30c19-5ee7-4054-82b5-561bb3fd6d15,MusicBrainz artist page for recordings and release groups.
+RS0364,FM073,Emily Beynon,艾蜜莉・貝農,discogs_artist,https://www.discogs.com/artist/902978,Discogs artist page for commercial release data.
+RS0365,FM073,Emily Beynon,艾蜜莉・貝農,worldcat_recordings,https://search.worldcat.org/search?q=Emily%20Beynon%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0366,FM073,Emily Beynon,艾蜜莉・貝農,youtube_performance_search,https://www.youtube.com/results?search_query=Emily%20Beynon%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0367,FM073,Emily Beynon,艾蜜莉・貝農,spotify_search,https://open.spotify.com/search/Emily%20Beynon%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0368,FM074,Susan Milan,蘇珊・米蘭,musicbrainz_artist,https://musicbrainz.org/artist/3397494e-57f3-484b-a82d-16642088725f,MusicBrainz artist page for recordings and release groups.
+RS0369,FM074,Susan Milan,蘇珊・米蘭,discogs_artist,https://www.discogs.com/artist/381053,Discogs artist page for commercial release data.
+RS0370,FM074,Susan Milan,蘇珊・米蘭,worldcat_recordings,https://search.worldcat.org/search?q=Susan%20Milan%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0371,FM074,Susan Milan,蘇珊・米蘭,youtube_performance_search,https://www.youtube.com/results?search_query=Susan%20Milan%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0372,FM074,Susan Milan,蘇珊・米蘭,spotify_search,https://open.spotify.com/search/Susan%20Milan%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0373,FM075,Wissam Boustany,威薩姆・布斯塔尼,musicbrainz_artist,https://musicbrainz.org/artist/144b3120-df12-4179-8643-cfff77ec27ef,MusicBrainz artist page for recordings and release groups.
+RS0374,FM075,Wissam Boustany,威薩姆・布斯塔尼,discogs_search,https://www.discogs.com/search/?q=Wissam%20Boustany%20flute&type=all,Search Discogs for commercial releases.
+RS0375,FM075,Wissam Boustany,威薩姆・布斯塔尼,worldcat_recordings,https://search.worldcat.org/search?q=Wissam%20Boustany%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0376,FM075,Wissam Boustany,威薩姆・布斯塔尼,youtube_performance_search,https://www.youtube.com/results?search_query=Wissam%20Boustany%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0377,FM075,Wissam Boustany,威薩姆・布斯塔尼,spotify_search,https://open.spotify.com/search/Wissam%20Boustany%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0378,FM076,Gareth Davies,加雷斯・戴維斯,musicbrainz_search,https://musicbrainz.org/search?query=Gareth%20Davies%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0379,FM076,Gareth Davies,加雷斯・戴維斯,discogs_search,https://www.discogs.com/search/?q=Gareth%20Davies%20flute&type=all,Search Discogs for commercial releases.
+RS0380,FM076,Gareth Davies,加雷斯・戴維斯,worldcat_recordings,https://search.worldcat.org/search?q=Gareth%20Davies%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0381,FM076,Gareth Davies,加雷斯・戴維斯,youtube_performance_search,https://www.youtube.com/results?search_query=Gareth%20Davies%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0382,FM076,Gareth Davies,加雷斯・戴維斯,spotify_search,https://open.spotify.com/search/Gareth%20Davies%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0383,FM077,Adam Walker,亞當・沃克,musicbrainz_search,https://musicbrainz.org/search?query=Adam%20Walker%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0384,FM077,Adam Walker,亞當・沃克,discogs_search,https://www.discogs.com/search/?q=Adam%20Walker%20flute&type=all,Search Discogs for commercial releases.
+RS0385,FM077,Adam Walker,亞當・沃克,worldcat_recordings,https://search.worldcat.org/search?q=Adam%20Walker%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0386,FM077,Adam Walker,亞當・沃克,youtube_performance_search,https://www.youtube.com/results?search_query=Adam%20Walker%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0387,FM077,Adam Walker,亞當・沃克,spotify_search,https://open.spotify.com/search/Adam%20Walker%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0388,FM078,Lorna McGhee,洛娜・麥吉,musicbrainz_artist,https://musicbrainz.org/artist/e277339f-2cd5-4dac-beb9-09550ff77cb9,MusicBrainz artist page for recordings and release groups.
+RS0389,FM078,Lorna McGhee,洛娜・麥吉,discogs_artist,https://www.discogs.com/artist/3399265,Discogs artist page for commercial release data.
+RS0390,FM078,Lorna McGhee,洛娜・麥吉,worldcat_recordings,https://search.worldcat.org/search?q=Lorna%20McGhee%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0391,FM078,Lorna McGhee,洛娜・麥吉,youtube_performance_search,https://www.youtube.com/results?search_query=Lorna%20McGhee%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0392,FM078,Lorna McGhee,洛娜・麥吉,spotify_search,https://open.spotify.com/search/Lorna%20McGhee%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0393,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,musicbrainz_artist,https://musicbrainz.org/artist/19c8b988-af0d-45fd-ad5c-76fd6db6d786,MusicBrainz artist page for recordings and release groups.
+RS0394,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,discogs_artist,https://www.discogs.com/artist/960483,Discogs artist page for commercial release data.
+RS0395,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,worldcat_recordings,https://search.worldcat.org/search?q=Paul%20Edmund-Davies%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0396,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,youtube_performance_search,https://www.youtube.com/results?search_query=Paul%20Edmund-Davies%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0397,FM079,Paul Edmund-Davies,保羅・艾德蒙-戴維斯,spotify_search,https://open.spotify.com/search/Paul%20Edmund-Davies%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0398,FM080,Jeffrey Khaner,傑弗里・卡納,musicbrainz_artist,https://musicbrainz.org/artist/3bc57292-6464-447a-bcc9-8e6074776978,MusicBrainz artist page for recordings and release groups.
+RS0399,FM080,Jeffrey Khaner,傑弗里・卡納,discogs_artist,https://www.discogs.com/artist/982018,Discogs artist page for commercial release data.
+RS0400,FM080,Jeffrey Khaner,傑弗里・卡納,worldcat_recordings,https://search.worldcat.org/search?q=Jeffrey%20Khaner%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0401,FM080,Jeffrey Khaner,傑弗里・卡納,youtube_performance_search,https://www.youtube.com/results?search_query=Jeffrey%20Khaner%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0402,FM080,Jeffrey Khaner,傑弗里・卡納,spotify_search,https://open.spotify.com/search/Jeffrey%20Khaner%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0403,FM081,Mark Sparks,馬克・斯帕克斯,musicbrainz_search,https://musicbrainz.org/search?query=Mark%20Sparks%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0404,FM081,Mark Sparks,馬克・斯帕克斯,discogs_search,https://www.discogs.com/search/?q=Mark%20Sparks%20flute&type=all,Search Discogs for commercial releases.
+RS0405,FM081,Mark Sparks,馬克・斯帕克斯,worldcat_recordings,https://search.worldcat.org/search?q=Mark%20Sparks%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0406,FM081,Mark Sparks,馬克・斯帕克斯,youtube_performance_search,https://www.youtube.com/results?search_query=Mark%20Sparks%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0407,FM081,Mark Sparks,馬克・斯帕克斯,spotify_search,https://open.spotify.com/search/Mark%20Sparks%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0408,FM082,Joshua Smith,約書亞・史密斯,musicbrainz_search,https://musicbrainz.org/search?query=Joshua%20Smith%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0409,FM082,Joshua Smith,約書亞・史密斯,discogs_search,https://www.discogs.com/search/?q=Joshua%20Smith%20flute&type=all,Search Discogs for commercial releases.
+RS0410,FM082,Joshua Smith,約書亞・史密斯,worldcat_recordings,https://search.worldcat.org/search?q=Joshua%20Smith%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0411,FM082,Joshua Smith,約書亞・史密斯,youtube_performance_search,https://www.youtube.com/results?search_query=Joshua%20Smith%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0412,FM082,Joshua Smith,約書亞・史密斯,spotify_search,https://open.spotify.com/search/Joshua%20Smith%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0413,FM083,Amy Porter,艾米・波特,musicbrainz_search,https://musicbrainz.org/search?query=Amy%20Porter%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0414,FM083,Amy Porter,艾米・波特,discogs_search,https://www.discogs.com/search/?q=Amy%20Porter%20flute&type=all,Search Discogs for commercial releases.
+RS0415,FM083,Amy Porter,艾米・波特,worldcat_recordings,https://search.worldcat.org/search?q=Amy%20Porter%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0416,FM083,Amy Porter,艾米・波特,youtube_performance_search,https://www.youtube.com/results?search_query=Amy%20Porter%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0417,FM083,Amy Porter,艾米・波特,spotify_search,https://open.spotify.com/search/Amy%20Porter%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0418,FM084,Alexa Still,亞歷克莎・史蒂爾,musicbrainz_artist,https://musicbrainz.org/artist/1c741872-62a9-4ced-b59f-7229513ad2af,MusicBrainz artist page for recordings and release groups.
+RS0419,FM084,Alexa Still,亞歷克莎・史蒂爾,discogs_search,https://www.discogs.com/search/?q=Alexa%20Still%20flute&type=all,Search Discogs for commercial releases.
+RS0420,FM084,Alexa Still,亞歷克莎・史蒂爾,worldcat_recordings,https://search.worldcat.org/search?q=Alexa%20Still%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0421,FM084,Alexa Still,亞歷克莎・史蒂爾,youtube_performance_search,https://www.youtube.com/results?search_query=Alexa%20Still%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0422,FM084,Alexa Still,亞歷克莎・史蒂爾,spotify_search,https://open.spotify.com/search/Alexa%20Still%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0423,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,musicbrainz_search,https://musicbrainz.org/search?query=Mary%20Karen%20Clardy%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0424,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,discogs_search,https://www.discogs.com/search/?q=Mary%20Karen%20Clardy%20flute&type=all,Search Discogs for commercial releases.
+RS0425,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,worldcat_recordings,https://search.worldcat.org/search?q=Mary%20Karen%20Clardy%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0426,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,youtube_performance_search,https://www.youtube.com/results?search_query=Mary%20Karen%20Clardy%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0427,FM085,Mary Karen Clardy,瑪麗・凱倫・克拉迪,spotify_search,https://open.spotify.com/search/Mary%20Karen%20Clardy%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0428,FM086,Patricia George,派翠西亞・喬治,musicbrainz_search,https://musicbrainz.org/search?query=Patricia%20George%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0429,FM086,Patricia George,派翠西亞・喬治,discogs_search,https://www.discogs.com/search/?q=Patricia%20George%20flute&type=all,Search Discogs for commercial releases.
+RS0430,FM086,Patricia George,派翠西亞・喬治,worldcat_recordings,https://search.worldcat.org/search?q=Patricia%20George%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0431,FM086,Patricia George,派翠西亞・喬治,youtube_performance_search,https://www.youtube.com/results?search_query=Patricia%20George%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0432,FM086,Patricia George,派翠西亞・喬治,spotify_search,https://open.spotify.com/search/Patricia%20George%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0433,FM087,Linda Chesis,琳達・切西斯,musicbrainz_search,https://musicbrainz.org/search?query=Linda%20Chesis%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0434,FM087,Linda Chesis,琳達・切西斯,discogs_search,https://www.discogs.com/search/?q=Linda%20Chesis%20flute&type=all,Search Discogs for commercial releases.
+RS0435,FM087,Linda Chesis,琳達・切西斯,worldcat_recordings,https://search.worldcat.org/search?q=Linda%20Chesis%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0436,FM087,Linda Chesis,琳達・切西斯,youtube_performance_search,https://www.youtube.com/results?search_query=Linda%20Chesis%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0437,FM087,Linda Chesis,琳達・切西斯,spotify_search,https://open.spotify.com/search/Linda%20Chesis%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0438,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,musicbrainz_search,https://musicbrainz.org/search?query=Tara%20Helen%20O%27Connor%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0439,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,discogs_search,https://www.discogs.com/search/?q=Tara%20Helen%20O%27Connor%20flute&type=all,Search Discogs for commercial releases.
+RS0440,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,worldcat_recordings,https://search.worldcat.org/search?q=Tara%20Helen%20O%27Connor%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0441,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,youtube_performance_search,https://www.youtube.com/results?search_query=Tara%20Helen%20O%27Connor%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0442,FM088,Tara Helen O'Connor,塔拉・海倫・奧康納,spotify_search,https://open.spotify.com/search/Tara%20Helen%20O%27Connor%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0443,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,musicbrainz_search,https://musicbrainz.org/search?query=Molly%20Alicia%20Barth%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0444,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,discogs_search,https://www.discogs.com/search/?q=Molly%20Alicia%20Barth%20flute&type=all,Search Discogs for commercial releases.
+RS0445,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,worldcat_recordings,https://search.worldcat.org/search?q=Molly%20Alicia%20Barth%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0446,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,youtube_performance_search,https://www.youtube.com/results?search_query=Molly%20Alicia%20Barth%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0447,FM089,Molly Alicia Barth,莫莉・艾莉西亞・巴斯,spotify_search,https://open.spotify.com/search/Molly%20Alicia%20Barth%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0448,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,musicbrainz_search,https://musicbrainz.org/search?query=Alberto%20Almarza%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0449,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,discogs_search,https://www.discogs.com/search/?q=Alberto%20Almarza%20flute&type=all,Search Discogs for commercial releases.
+RS0450,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,worldcat_recordings,https://search.worldcat.org/search?q=Alberto%20Almarza%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0451,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,youtube_performance_search,https://www.youtube.com/results?search_query=Alberto%20Almarza%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0452,FM090,Alberto Almarza,阿爾貝托・阿爾馬薩,spotify_search,https://open.spotify.com/search/Alberto%20Almarza%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0453,FM091,Jasmine Choi,崔娜卿,musicbrainz_artist,https://musicbrainz.org/artist/5deae4f5-5424-4ff3-9d47-bd7cbe8e891a,MusicBrainz artist page for recordings and release groups.
+RS0454,FM091,Jasmine Choi,崔娜卿,discogs_artist,https://www.discogs.com/artist/4773680,Discogs artist page for commercial release data.
+RS0455,FM091,Jasmine Choi,崔娜卿,worldcat_recordings,https://search.worldcat.org/search?q=Jasmine%20Choi%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0456,FM091,Jasmine Choi,崔娜卿,youtube_performance_search,https://www.youtube.com/results?search_query=Jasmine%20Choi%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0457,FM091,Jasmine Choi,崔娜卿,spotify_search,https://open.spotify.com/search/Jasmine%20Choi%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0458,FM092,Shigenori Kudo,工藤重典,musicbrainz_artist,https://musicbrainz.org/artist/446b99b2-7c1f-4b9d-8736-76d24f958b41,MusicBrainz artist page for recordings and release groups.
+RS0459,FM092,Shigenori Kudo,工藤重典,discogs_artist,https://www.discogs.com/artist/1092660,Discogs artist page for commercial release data.
+RS0460,FM092,Shigenori Kudo,工藤重典,worldcat_recordings,https://search.worldcat.org/search?q=Shigenori%20Kudo%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0461,FM092,Shigenori Kudo,工藤重典,youtube_performance_search,https://www.youtube.com/results?search_query=Shigenori%20Kudo%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0462,FM092,Shigenori Kudo,工藤重典,spotify_search,https://open.spotify.com/search/Shigenori%20Kudo%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0463,FM093,Kazunori Seo,瀨尾和紀,musicbrainz_artist,https://musicbrainz.org/artist/331fd8c8-cb66-4c0e-939a-2710f2a198cd,MusicBrainz artist page for recordings and release groups.
+RS0464,FM093,Kazunori Seo,瀨尾和紀,discogs_search,https://www.discogs.com/search/?q=Kazunori%20Seo%20flute&type=all,Search Discogs for commercial releases.
+RS0465,FM093,Kazunori Seo,瀨尾和紀,worldcat_recordings,https://search.worldcat.org/search?q=Kazunori%20Seo%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0466,FM093,Kazunori Seo,瀨尾和紀,youtube_performance_search,https://www.youtube.com/results?search_query=Kazunori%20Seo%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0467,FM093,Kazunori Seo,瀨尾和紀,spotify_search,https://open.spotify.com/search/Kazunori%20Seo%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0468,FM094,Seiya Ueno,上野星矢,musicbrainz_search,https://musicbrainz.org/search?query=Seiya%20Ueno%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0469,FM094,Seiya Ueno,上野星矢,discogs_search,https://www.discogs.com/search/?q=Seiya%20Ueno%20flute&type=all,Search Discogs for commercial releases.
+RS0470,FM094,Seiya Ueno,上野星矢,worldcat_recordings,https://search.worldcat.org/search?q=Seiya%20Ueno%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0471,FM094,Seiya Ueno,上野星矢,youtube_performance_search,https://www.youtube.com/results?search_query=Seiya%20Ueno%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0472,FM094,Seiya Ueno,上野星矢,spotify_search,https://open.spotify.com/search/Seiya%20Ueno%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0473,FM095,Yuki Koyama,小山裕幾,musicbrainz_search,https://musicbrainz.org/search?query=Yuki%20Koyama%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0474,FM095,Yuki Koyama,小山裕幾,discogs_search,https://www.discogs.com/search/?q=Yuki%20Koyama%20flute&type=all,Search Discogs for commercial releases.
+RS0475,FM095,Yuki Koyama,小山裕幾,worldcat_recordings,https://search.worldcat.org/search?q=Yuki%20Koyama%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0476,FM095,Yuki Koyama,小山裕幾,youtube_performance_search,https://www.youtube.com/results?search_query=Yuki%20Koyama%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0477,FM095,Yuki Koyama,小山裕幾,spotify_search,https://open.spotify.com/search/Yuki%20Koyama%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0478,FM096,Juliette Hurel,朱麗葉・于雷爾,musicbrainz_artist,https://musicbrainz.org/artist/e7c89935-859b-4ec4-941f-08a14b7b0aba,MusicBrainz artist page for recordings and release groups.
+RS0479,FM096,Juliette Hurel,朱麗葉・于雷爾,discogs_artist,https://www.discogs.com/artist/986147,Discogs artist page for commercial release data.
+RS0480,FM096,Juliette Hurel,朱麗葉・于雷爾,worldcat_recordings,https://search.worldcat.org/search?q=Juliette%20Hurel%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0481,FM096,Juliette Hurel,朱麗葉・于雷爾,youtube_performance_search,https://www.youtube.com/results?search_query=Juliette%20Hurel%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0482,FM096,Juliette Hurel,朱麗葉・于雷爾,spotify_search,https://open.spotify.com/search/Juliette%20Hurel%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0483,FM097,Vincent Lucas,文森・盧卡,musicbrainz_search,https://musicbrainz.org/search?query=Vincent%20Lucas%20flute&type=artist&method=indexed,Search MusicBrainz for an artist recording authority.
+RS0484,FM097,Vincent Lucas,文森・盧卡,discogs_search,https://www.discogs.com/search/?q=Vincent%20Lucas%20flute&type=all,Search Discogs for commercial releases.
+RS0485,FM097,Vincent Lucas,文森・盧卡,worldcat_recordings,https://search.worldcat.org/search?q=Vincent%20Lucas%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0486,FM097,Vincent Lucas,文森・盧卡,youtube_performance_search,https://www.youtube.com/results?search_query=Vincent%20Lucas%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0487,FM097,Vincent Lucas,文森・盧卡,spotify_search,https://open.spotify.com/search/Vincent%20Lucas%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0488,FM098,Davide Formisano,達維德・福爾米薩諾,musicbrainz_artist,https://musicbrainz.org/artist/08ca97f9-7b7d-4012-a20d-59306c5b6f93,MusicBrainz artist page for recordings and release groups.
+RS0489,FM098,Davide Formisano,達維德・福爾米薩諾,discogs_artist,https://www.discogs.com/artist/2195004,Discogs artist page for commercial release data.
+RS0490,FM098,Davide Formisano,達維德・福爾米薩諾,worldcat_recordings,https://search.worldcat.org/search?q=Davide%20Formisano%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0491,FM098,Davide Formisano,達維德・福爾米薩諾,youtube_performance_search,https://www.youtube.com/results?search_query=Davide%20Formisano%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0492,FM098,Davide Formisano,達維德・福爾米薩諾,spotify_search,https://open.spotify.com/search/Davide%20Formisano%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0493,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,musicbrainz_artist,https://musicbrainz.org/artist/398216f6-64ce-437e-84d1-6d589576b2d8,MusicBrainz artist page for recordings and release groups.
+RS0494,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,discogs_search,https://www.discogs.com/search/?q=S%C3%A9bastian%20Jacot%20flute&type=all,Search Discogs for commercial releases.
+RS0495,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,worldcat_recordings,https://search.worldcat.org/search?q=S%C3%A9bastian%20Jacot%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0496,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,youtube_performance_search,https://www.youtube.com/results?search_query=S%C3%A9bastian%20Jacot%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0497,FM099,Sébastian Jacot,塞巴斯蒂安・雅科,spotify_search,https://open.spotify.com/search/S%C3%A9bastian%20Jacot%20flute,Search streaming releases; verify against labels/catalogues before citation.
+RS0498,FM100,Demarre McGill,德馬爾・麥吉爾,musicbrainz_artist,https://musicbrainz.org/artist/c9943d97-ffc1-4021-ad04-1e3a7260e189,MusicBrainz artist page for recordings and release groups.
+RS0499,FM100,Demarre McGill,德馬爾・麥吉爾,discogs_artist,https://www.discogs.com/artist/4447188,Discogs artist page for commercial release data.
+RS0500,FM100,Demarre McGill,德馬爾・麥吉爾,worldcat_recordings,https://search.worldcat.org/search?q=Demarre%20McGill%20flute%20recordings,Search library catalogues for recordings and media holdings.
+RS0501,FM100,Demarre McGill,德馬爾・麥吉爾,youtube_performance_search,https://www.youtube.com/results?search_query=Demarre%20McGill%20flute,"Find publicly available performances, interviews and masterclasses."
+RS0502,FM100,Demarre McGill,德馬爾・麥吉爾,spotify_search,https://open.spotify.com/search/Demarre%20McGill%20flute,Search streaming releases; verify against labels/catalogues before citation.

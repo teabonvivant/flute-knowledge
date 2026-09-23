@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+const read=p=>JSON.parse(fs.readFileSync(p,'utf8'));
+export const people=read('data/flute_masters_100.json');
+export const topics=read('data/generated/topics_30.json');
+export const articles=read('data/generated/journal.json');
+export const categories=read('data/journal-categories.json');
+export const csv=read('data/generated/csv_rows.json');
+export const sets={people,bibliography:csv['bibliography_seeds.csv'],recordings:csv['recording_catalog_seed.csv'],lineage:csv['lineage_links.csv'],sources:csv['person_sources.csv'],timeline:csv['person_timeline.csv'],institutions:csv['institution_links.csv'],search:csv['scholarly_search_links.csv']};
+export const researchRoutes=Object.entries(sets).flatMap(([slug,rows])=>[`/research/${slug}`,...Array.from({length:Math.ceil(rows.length/40)},(_,i)=>`/research/${slug}/${i+1}`)]);
+export const routes=['/','/learn','/practice','/listen','/instrument','/culture','/masters','/topics','/research','/blog','/glossary','/about','/sitemap',...people.map(p=>`/masters/${p.id}`),...topics.map(t=>`/topics/${t.number}`),...articles.map(a=>`/blog/${a.slug}`),...researchRoutes];

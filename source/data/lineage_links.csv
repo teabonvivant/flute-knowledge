@@ -1,0 +1,205 @@
+lineage_id,person_id,name_en,relationship_type,related_name,related_qid,url,source
+LG0002,FM066,Emmanuel Pahud,student_of,Michel Debost,Q2655549,https://www.wikidata.org/wiki/Q2655549,Wikidata claims
+LG0003,FM066,Emmanuel Pahud,student_of,Alain Marion,Q2562822,https://www.wikidata.org/wiki/Q2562822,Wikidata claims
+LG0004,FM066,Emmanuel Pahud,student_of,Christian Lardé,Q15319151,https://www.wikidata.org/wiki/Q15319151,Wikidata claims
+LG0005,FM024,Peter-Lukas Graf,student_of,André Jaunet,Q519931,https://www.wikidata.org/wiki/Q519931,Wikidata claims
+LG0006,FM024,Peter-Lukas Graf,student_of,Marcel Moyse,Q714209,https://www.wikidata.org/wiki/Q714209,Wikidata claims
+LG0007,FM024,Peter-Lukas Graf,student_of,Roger Cortet,Q3438841,https://www.wikidata.org/wiki/Q3438841,Wikidata claims
+LG0008,FM024,Peter-Lukas Graf,student,Luca Manghi,Q121078512,https://www.wikidata.org/wiki/Q121078512,Wikidata claims
+LG0009,FM024,Peter-Lukas Graf,student,Iwona Glinka,Q135303052,https://www.wikidata.org/wiki/Q135303052,Wikidata claims
+LG0010,FM064,Patrick Gallois,student_of,Jean-Pierre Rampal,Q186359,https://www.wikidata.org/wiki/Q186359,Wikidata claims
+LG0011,FM063,Pierre-Yves Artaud,student,Alexandra Grot,Q2833280,https://www.wikidata.org/wiki/Q2833280,Wikidata claims
+LG0012,FM063,Pierre-Yves Artaud,student,Iwona Glinka,Q135303052,https://www.wikidata.org/wiki/Q135303052,Wikidata claims
+LG0013,FM091,Jasmine Choi,student_of,Julius Baker,Q2670080,https://www.wikidata.org/wiki/Q2670080,Wikidata claims
+LG0014,FM091,Jasmine Choi,student_of,Jeffrey Khaner,Q6176099,https://www.wikidata.org/wiki/Q6176099,Wikidata claims
+LG0015,FM065,Philippe Bernold,student,Stathis Karapanos,Q136644825,https://www.wikidata.org/wiki/Q136644825,Wikidata claims
+LG0016,FM030,Trevor Wye,student,Joaquín Gericó Trilla,Q2542771,https://www.wikidata.org/wiki/Q2542771,Wikidata claims
+LG0017,FM004,Jean-Louis Tulou,student_of,Johann Georg Wunderlich,Q95634,https://www.wikidata.org/wiki/Q95634,Wikidata claims
+LG0018,FM004,Jean-Louis Tulou,student,Jules Demersseman,Q721362,https://www.wikidata.org/wiki/Q721362,Wikidata claims
+LG0019,FM004,Jean-Louis Tulou,student,Eugène Walckiers,Q1373597,https://www.wikidata.org/wiki/Q1373597,Wikidata claims
+LG0020,FM020,Jean-Pierre Rampal,student_of,Gaston Crunelle,Q3098960,https://www.wikidata.org/wiki/Q3098960,Wikidata claims
+LG0021,FM020,Jean-Pierre Rampal,student,Patrick Gallois,Q1234459,https://www.wikidata.org/wiki/Q1234459,Wikidata claims
+LG0022,FM020,Jean-Pierre Rampal,student,Cécile Daroux,Q3009724,https://www.wikidata.org/wiki/Q3009724,Wikidata claims
+LG0023,FM020,Jean-Pierre Rampal,student,Marc Zuili,Q16662871,https://www.wikidata.org/wiki/Q16662871,Wikidata claims
+LG0024,FM013,René Le Roy,student,Cyprien Katsaris,Q1148343,https://www.wikidata.org/wiki/Q1148343,Wikidata claims
+LG0025,FM011,Louis Fleury,student_of,Paul Taffanel,Q287462,https://www.wikidata.org/wiki/Q287462,Wikidata claims
+LG0026,FM022,Maxence Larrieu,student,Jean Ferrandis,Q3171997,https://www.wikidata.org/wiki/Q3171997,Wikidata claims
+LG0027,FM010,Georges Barrère,student,Samuel Baron,Q92192634,https://www.wikidata.org/wiki/Q92192634,Wikidata claims
+LG0028,FM021,Alain Marion,student,Joaquín Gericó Trilla,Q2542771,https://www.wikidata.org/wiki/Q2542771,Wikidata claims
+LG0029,FM021,Alain Marion,student,Emmanuel Pahud,Q115764,https://www.wikidata.org/wiki/Q115764,Wikidata claims
+LG0030,FM029,Michel Debost,student,Emmanuel Pahud,Q115764,https://www.wikidata.org/wiki/Q115764,Wikidata claims
+LG0031,FM019,Julius Baker,student,Ransom Wilson,Q7293491,https://www.wikidata.org/wiki/Q7293491,Wikidata claims
+LG0032,FM007,Paul Taffanel,student_of,Louis Dorus,Q743998,https://www.wikidata.org/wiki/Q743998,Wikidata claims
+LG0033,FM007,Paul Taffanel,student,Louis Fleury,Q2154486,https://www.wikidata.org/wiki/Q2154486,Wikidata claims
+LG0034,FM007,Paul Taffanel,student,菲利普·高贝尔,Q959431,https://www.wikidata.org/wiki/Q959431,Wikidata claims
+LG0035,FM014,Gaston Crunelle,student,Jean-Pierre Rampal,Q186359,https://www.wikidata.org/wiki/Q186359,Wikidata claims
+LG0036,FM096,Juliette Hurel,student_of,Pierre-Yves Artaud,Q1369119,https://www.wikidata.org/wiki/Q1369119,Wikidata claims
+LG0037,FM096,Juliette Hurel,student_of,Peter-Lukas Graf,Q115813,https://www.wikidata.org/wiki/Q115813,Wikidata claims
+LG0038,FM096,Juliette Hurel,student_of,Maurice Bourgue,Q1867932,https://www.wikidata.org/wiki/Q1867932,Wikidata claims
+LG0039,FM096,Juliette Hurel,student_of,Aurèle Nicolet,Q123728,https://www.wikidata.org/wiki/Q123728,Wikidata claims
+LG0040,FM096,Juliette Hurel,student_of,András Adorján,Q179547,https://www.wikidata.org/wiki/Q179547,Wikidata claims
+LG0043,FM057,Frans Brüggen,student_of,Kees Otten,Q3169469,https://www.wikidata.org/wiki/Q3169469,Wikidata claims
+LG0044,FM057,Frans Brüggen,student,Walter van Hauwe,Q2084910,https://www.wikidata.org/wiki/Q2084910,Wikidata claims
+LG0045,FM057,Frans Brüggen,student,Marion Verbruggen,Q537022,https://www.wikidata.org/wiki/Q537022,Wikidata claims
+LG0046,FM057,Frans Brüggen,student,Kees Boeke,Q280180,https://www.wikidata.org/wiki/Q280180,Wikidata claims
+LG0047,FM057,Frans Brüggen,student,Bruce Haynes,Q4977636,https://www.wikidata.org/wiki/Q4977636,Wikidata claims
+LG0048,FM047,Ransom Wilson,student_of,Julius Baker,Q2670080,https://www.wikidata.org/wiki/Q2670080,Wikidata claims
+LG0049,FM005,Louis Dorus,student,Paul Taffanel,Q287462,https://www.wikidata.org/wiki/Q287462,Wikidata claims
+LG0050,FM001,Johann Joachim Quantz,student_of,Jan Dismas Zelenka,Q157777,https://www.wikidata.org/wiki/Q157777,Wikidata claims
+LG0051,FM001,Johann Joachim Quantz,student_of,Johann Joseph Fux,Q311378,https://www.wikidata.org/wiki/Q311378,Wikidata claims
+LG0052,FM001,Johann Joachim Quantz,student_of,Francesco Gasparini,Q446955,https://www.wikidata.org/wiki/Q446955,Wikidata claims
+LG0053,FM001,Johann Joachim Quantz,student,Johann Friedrich Agricola,Q60965,https://www.wikidata.org/wiki/Q60965,Wikidata claims
+LG0054,FM001,Johann Joachim Quantz,influenced_by,Pierre-Gabriel Buffardin,Q324069,https://www.wikidata.org/wiki/Q324069,Wikidata claims
+LG0055,FM001,Johann Joachim Quantz,influenced_by,Antonio Vivaldi,Q1340,https://www.wikidata.org/wiki/Q1340,Wikidata claims
+LG0056,FM033,Samuel Baron,student_of,Georges Barrère,Q240224,https://www.wikidata.org/wiki/Q240224,Wikidata claims
+LG0057,FM025,Severino Gazzelloni,student,Roberto Fabbriciani,Q1408638,https://www.wikidata.org/wiki/Q1408638,Wikidata claims
+LG0058,FM008,Philippe Gaubert,student_of,Paul Taffanel,Q287462,https://www.wikidata.org/wiki/Q287462,Wikidata claims
+LG0059,FM008,Philippe Gaubert,student,Tony Aubin,Q1347677,https://www.wikidata.org/wiki/Q1347677,Wikidata claims
+LG0060,FM008,Philippe Gaubert,student,Fernand Dufrène,Q78341560,https://www.wikidata.org/wiki/Q78341560,Wikidata claims
+LG0061,FM008,Philippe Gaubert,student,Andrzej Panufnik,Q442963,https://www.wikidata.org/wiki/Q442963,Wikidata claims
+LG0062,FM050,James Pellerite,student_of,William Kincaid,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/james-pellerite,NFA profile: renowned teacher William Kincaid
+LG0063,FM089,Molly Alicia Barth,student_of,Michel Debost,,https://thefluteexaminer.com/make-music-and-achieve-success-a-conversation-with-molly-barth/,Flute Examiner interview: undergraduate teacher and mentor Michel Debost
+LG0064,FM032,Robert Willoughby,student_of,Joseph Mariano,,https://robertwilloughby.com/bio.html,Official biography: studied at Eastman with Joseph Mariano
+LG0065,FM032,Robert Willoughby,student_of,Georges Laurent,,https://theinstrumentalist.com/december-2011/90th-birthday-celebration-for-robert-willoughby-2/,Instrumentalist birthday profile: lessons with Georges Laurent
+LG0066,FM032,Robert Willoughby,student_of,William Kincaid,,https://theinstrumentalist.com/december-2011/90th-birthday-celebration-for-robert-willoughby-2/,Instrumentalist birthday profile: lessons with William Kincaid
+LG0067,FM016,Georges Laurent,student_of,Paul Taffanel,,https://www.pappoutsakis.org/bio,Pappoutsakis Society biography: pupil of Paul Taffanel
+LG0068,FM016,Georges Laurent,student,James Pappoutsakis,,https://www.pappoutsakis.org/bio,Pappoutsakis Society biography: Pappoutsakis studied with Georges Laurent
+LG0069,FM017,William Kincaid,student_of,Georges Barrere,,https://www.joffewoodwinds.com/articles/william-kincaid-and-marcel-moyse/,Joffe Woodwinds article: studied with Georges Barrere
+LG0070,FM028,Geoffrey Gilbert,student_of,Rene Le Roy,,https://digital.library.unt.edu/ark:/67531/metadc1157581/m2/1/high_res_d/RODRIGUEZ-DISSERTATION-2018.pdf,UNT dissertation: Geoffrey Gilbert as a student of Rene Le Roy
+LG0071,FM028,Geoffrey Gilbert,student,Stephen Preston,,https://www.flutepage.de/deutsch/composer/person.php?englisch=true&id=421,Flutepage biography: notable pupils include Stephen Preston
+LG0072,FM037,Lois Schaefer,student_of,Georges Laurent,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/lois-schaefer,NFA profile: studied at NEC with Georges Laurent
+LG0073,FM038,Bernard Goldberg,student_of,Georges Barrere,,https://scholarship.miami.edu/esploro/outputs/doctoral/Bernard-Goldberg-A-biographical-sketch-and/991031447713102976,University of Miami doctoral study: teachers included Georges Barrere
+LG0074,FM038,Bernard Goldberg,student_of,Marcel Moyse,,https://scholarship.miami.edu/esploro/outputs/doctoral/Bernard-Goldberg-A-biographical-sketch-and/991031447713102976,University of Miami doctoral study: teachers included Marcel Moyse
+LG0075,FM053,András Adorján,student_of,Jean-Pierre Rampal,,https://www.escuelasuperiordemusicareinasofia.es/en/profesor/andras-adorjan/,Reina Sofia profile: studies with Jean-Pierre Rampal
+LG0076,FM053,András Adorján,student_of,Aurele Nicolet,,https://www.escuelasuperiordemusicareinasofia.es/en/profesor/andras-adorjan/,Reina Sofia profile: studies with Aurele Nicolet
+LG0077,FM054,Keith Underwood,student_of,Thomas Nyfenger,,https://bulletproofmusician.com/keith-underwood-part-1-on-the-art-of-imitation-and-how-to-glean-insights-from-great-musicians-to-level-up-your-playing/,Bulletproof Musician interview: studied with Thomas Nyfenger
+LG0078,FM058,Stephen Preston,student_of,Geoffrey Gilbert,,https://masteringtheflute.com/en/flutists/P/preston-stephen-24,Mastering The Flute profile: studied with Geoffrey Gilbert
+LG0079,FM072,Felix Renggli,student_of,Gerhard Hildenbrand,,https://www.felixrenggli.com/english,Official biography: studies with Gerhard Hildenbrand
+LG0080,FM072,Felix Renggli,student_of,Peter-Lukas Graf,,https://www.felixrenggli.com/english,Official biography: studies with Peter-Lukas Graf
+LG0081,FM072,Felix Renggli,student_of,Aurele Nicolet,,https://www.felixrenggli.com/english,Official biography: studies with Aurele Nicolet
+LG0082,FM082,Joshua Smith,student_of,Frank Bowen,,https://www.pcmsconcerts.org/artist/joshua-smith/,PCMS profile: studied with Frank Bowen
+LG0083,FM082,Joshua Smith,student_of,Julius Baker,,https://www.pcmsconcerts.org/artist/joshua-smith/,PCMS profile: studied with Julius Baker
+LG0084,FM082,Joshua Smith,student_of,Jeffrey Khaner,,https://www.pcmsconcerts.org/artist/joshua-smith/,PCMS profile: studied with Jeffrey Khaner
+LG0085,FM083,Amy Porter,student_of,Samuel Baron,,https://www.wmshaynes.com/amy-porter,Wm. S. Haynes biography: Juilliard teachers included Samuel Baron
+LG0086,FM083,Amy Porter,student_of,Jeanne Baxtresser,,https://www.wmshaynes.com/amy-porter,Wm. S. Haynes biography: Juilliard teachers included Jeanne Baxtresser
+LG0087,FM083,Amy Porter,student_of,Alain Marion,,https://www.wmshaynes.com/amy-porter,Wm. S. Haynes biography: Austrian studies with Alain Marion
+LG0088,FM088,Tara Helen O'Connor,student_of,Samuel Baron,,https://www.bard.edu/faculty/tara-helen-oconnor,Bard faculty profile: principal teachers include Samuel Baron
+LG0089,FM088,Tara Helen O'Connor,student_of,Thomas Nyfenger,,https://www.bard.edu/faculty/tara-helen-oconnor,Bard faculty profile: principal teachers include Thomas Nyfenger
+LG0090,FM088,Tara Helen O'Connor,student_of,Robert Dick,,https://www.bard.edu/faculty/tara-helen-oconnor,Bard faculty profile: principal teachers include Robert Dick
+LG0091,FM099,Sébastian Jacot,student_of,Jacques Zoon,,https://www.mariinsky.ru/en/company/guests/flute/jacot_sebastian/,Mariinsky guest biography: studied in Jacques Zoon's class
+LG0092,FM014,Gaston Crunelle,student,Jean-Pierre Rampal,,https://en.wikipedia.org/wiki/Gaston_Crunelle,Biography summary: Rampal was among Crunelle's pupils
+LG0093,FM025,Severino Gazzelloni,student_of,Arrigo Tassinari,,https://www.flutepage.de/deutsch/composer/person.php?englisch=true&id=560,Flutepage biography: studies in Rome with Arrigo Tassinari
+LG0094,FM030,Trevor Wye,student_of,Geoffrey Gilbert,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/trevor-wye,NFA profile: studied privately with Geoffrey Gilbert
+LG0095,FM030,Trevor Wye,student_of,Marcel Moyse,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/trevor-wye,NFA profile: studied privately with Marcel Moyse
+LG0096,FM039,John Krell,student_of,William Kincaid,,https://en.wikipedia.org/wiki/John_C._Krell,Biography summary: studied flute with William Kincaid at Curtis
+LG0097,FM041,Donald Peck,student_of,William Kincaid,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/donald-peck,NFA profile: studied with William Kincaid
+LG0098,FM051,Robert Dick,student_of,James Pappoutsakis,,https://steinhardt.nyu.edu/people/robert-dick,NYU profile: flute teachers included James Pappoutsakis
+LG0099,FM051,Robert Dick,student_of,Julius Baker,,https://steinhardt.nyu.edu/people/robert-dick,NYU profile: flute teachers included Julius Baker
+LG0100,FM051,Robert Dick,student_of,Thomas Nyfenger,,https://steinhardt.nyu.edu/people/robert-dick,NYU profile: flute teachers included Thomas Nyfenger
+LG0101,FM065,Philippe Bernold,student_of,Rene Matter,,https://philippebernold.com/philippe-bernold-biography.html,Official biography: studied under Rene Matter
+LG0102,FM075,Wissam Boustany,student_of,Trevor Wye,,https://en.wikipedia.org/wiki/Wissam_Boustany,Biography summary: studied with Trevor Wye at Chetham's and RNCM
+LG0103,FM093,Kazunori Seo,student_of,Alain Marion,,https://www.ecolenormalecortot.com/en/enseignants/seo-kazunori/,Ecole Normale profile: flute class of Alain Marion
+LG0104,FM093,Kazunori Seo,student_of,Maurice Bourgue,,https://www.ecolenormalecortot.com/en/enseignants/seo-kazunori/,Ecole Normale profile: advanced class of Maurice Bourgue
+LG0105,FM098,Davide Formisano,student_of,Jean-Claude Gerard,,https://www.muvac.com/en/profile/davide-formisano,Muvac profile: studies with Jean-Claude Gerard
+LG0106,FM100,Demarre McGill,student_of,Susan Levitin,,https://www.demarremcgill.com/,Official biography: studied with Susan Levitin
+LG0107,FM002,Theobald Boehm,student_of,Johann Nepomuk Kapeller,,https://theobald-boehm-archiv-und-wettbewerb.de/Biography,Theobald Boehm Archive biography: took flute lessons with Johann Nepomuk Kapeller
+LG0108,FM002,Theobald Boehm,influenced_by,Charles Nicholson,,https://thebabelflute.com/theobald-bohm-as-a-flute-maker/,Babel Flute article: Boehm was impressed by Nicholson's powerful tone in London
+LG0109,FM003,Charles Nicholson,student_of,Charles Nicholson Sr.,,"https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Nicholson,_Charles",Dictionary of National Biography: Nicholson was trained under his father
+LG0110,FM006,Joseph-Henri Altès,student_of,Jean-Louis Tulou,,https://en.wikipedia.org/wiki/Joseph-Henri_Alt%C3%A8s,Biography summary: Altes studied at the Paris Conservatoire and played the four-key flute like his teacher Tulou
+LG0111,FM006,Joseph-Henri Altès,student,Georges Barrere,,https://en.wikipedia.org/wiki/Joseph-Henri_Alt%C3%A8s,Biography summary: pupils included Georges Barrere
+LG0112,FM009,Adolphe Hennebains,student,Marcel Moyse,,https://archives.nypl.org/mus/20284,New York Public Library Marcel Moyse papers: Moyse studied with Adolphe Hennebains
+LG0113,FM009,Adolphe Hennebains,student,Rene Le Roy,,https://digital.library.unt.edu/ark:/67531/metadc1157581/m2/1/high_res_d/RODRIGUEZ-DISSERTATION-2018.pdf,UNT dissertation on Rene Le Roy: Le Roy began study with Hennebains in 1907
+LG0114,FM012,Marcel Moyse,student_of,Paul Taffanel,,https://www.tonebase.co/composer-biographies/marcelmoyse,tonebase biography: Moyse studied flute with Paul Taffanel
+LG0115,FM012,Marcel Moyse,student_of,Philippe Gaubert,,https://www.tonebase.co/composer-biographies/marcelmoyse,tonebase biography: Moyse studied with Philippe Gaubert
+LG0116,FM012,Marcel Moyse,student_of,Adolphe Hennebains,,https://www.tonebase.co/composer-biographies/marcelmoyse,tonebase biography: Moyse studied with Adolphe Hennebains
+LG0117,FM018,Joseph Mariano,student_of,William Kincaid,,https://www.esm.rochester.edu/about/portraits/mariano/,Eastman portrait: Mariano studied at Curtis with William Kincaid
+LG0118,FM018,Joseph Mariano,student_of,Marcel Tabuteau,,https://www.esm.rochester.edu/about/portraits/mariano/,Eastman portrait: Mariano studied with Marcel Tabuteau
+LG0119,FM023,Aurèle Nicolet,student_of,Andre Jaunet,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/aur%C3%A8le-nicolet,NFA profile: Nicolet studied flute with Andre Jaunet
+LG0120,FM023,Aurèle Nicolet,student_of,Marcel Moyse,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/aur%C3%A8le-nicolet,NFA profile: Nicolet continued studies with Marcel Moyse in Paris
+LG0121,FM026,James Galway,student_of,John Francis,,https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/james-galway,Encyclopedia.com biography: Galway studied with John Francis at the Royal College of Music
+LG0122,FM026,James Galway,student_of,Geoffrey Gilbert,,https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/james-galway,Encyclopedia.com biography: Galway studied with Geoffrey Gilbert at Guildhall
+LG0123,FM026,James Galway,student_of,Gaston Crunelle,,https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/james-galway,Encyclopedia.com biography: Galway trained with Gaston Crunelle in Paris
+LG0124,FM026,James Galway,student_of,Jean-Pierre Rampal,,https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/james-galway,Encyclopedia.com biography: Galway studied privately with Jean-Pierre Rampal
+LG0125,FM026,James Galway,student_of,Marcel Moyse,,https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/james-galway,Encyclopedia.com biography: Galway studied privately with Marcel Moyse
+LG0126,FM027,William Bennett,student_of,Geoffrey Gilbert,,https://www.williambennettflute.com/bio.html,Official biography: Bennett studied in London with Geoffrey Gilbert
+LG0127,FM027,William Bennett,student_of,Jean-Pierre Rampal,,https://www.williambennettflute.com/bio.html,Official biography: Bennett studied in France with Jean-Pierre Rampal
+LG0128,FM027,William Bennett,student_of,Marcel Moyse,,https://www.williambennettflute.com/bio.html,Official biography: Bennett studied in France with Marcel Moyse
+LG0129,FM031,Louis Moyse,student_of,Philippe Gaubert,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/louis-moyse,NFA profile: Louis Moyse's teachers included Philippe Gaubert
+LG0130,FM031,Louis Moyse,student_of,Marcel Moyse,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/louis-moyse,NFA profile: Louis Moyse's teachers included his father Marcel Moyse
+LG0131,FM034,Albert Tipton,student_of,William Kincaid,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/albert-tipton,NFA profile: Tipton studied with William Kincaid at Curtis
+LG0132,FM035,Frances Blaisdell,student_of,Ernest Wagner,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/frances-blaisdell,NFA profile: Blaisdell studied with Ernest Wagner
+LG0133,FM035,Frances Blaisdell,student_of,Georges Barrere,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/frances-blaisdell,NFA profile: Blaisdell studied with Georges Barrere
+LG0134,FM036,Doriot Anthony Dwyer,student_of,William Kincaid,,https://classical-scene.com/2020/03/16/doriot-anthony-dwyer-1922-2020/,Boston Musical Intelligencer obituary: Dwyer studied with William Kincaid
+LG0135,FM042,Jeanne Baxtresser,student_of,Julius Baker,,https://www.jeannebaxtresser.com/timeline/family.php,Official timeline: Baxtresser went to Juilliard to study with Julius Baker
+LG0136,FM043,Bonita Boyd,student_of,Maurice Sharp,,https://www.esm.rochester.edu/directory/boyd-bonita/,Eastman profile: early teachers included Maurice Sharp
+LG0137,FM043,Bonita Boyd,student_of,Roger Stevens,,https://www.esm.rochester.edu/directory/boyd-bonita/,Eastman profile: early teachers included Roger Stevens
+LG0138,FM043,Bonita Boyd,student_of,Joseph Mariano,,https://www.esm.rochester.edu/directory/boyd-bonita/,Eastman profile: early teachers included Joseph Mariano
+LG0139,FM044,Carol Wincenc,student_of,Severino Gazzelloni,,https://www.stonybrook.edu/commcms/music/people/faculty-and-staff/performance/carol_wincenc,Stony Brook profile: Wincenc studied with Severino Gazzelloni
+LG0140,FM044,Carol Wincenc,student_of,Robert Willoughby,,https://www.stonybrook.edu/commcms/music/people/faculty-and-staff/performance/carol_wincenc,Stony Brook profile: Wincenc studied with Robert Willoughby at Oberlin
+LG0141,FM044,Carol Wincenc,student_of,Marcel Moyse,,https://www.stonybrook.edu/commcms/music/people/faculty-and-staff/performance/carol_wincenc,Stony Brook profile: Wincenc studied with Marcel Moyse at Marlboro
+LG0142,FM044,Carol Wincenc,student_of,Arthur Lora,,https://www.stonybrook.edu/commcms/music/people/faculty-and-staff/performance/carol_wincenc,Stony Brook profile: postgraduate studies at Juilliard under Arthur Lora
+LG0143,FM045,Leone Buyse,student_of,Joseph Mariano,,https://www.leonebuyse.com/biography1,Official biography: Buyse was a student of Joseph Mariano at Eastman
+LG0144,FM045,Leone Buyse,student_of,Michel Debost,,https://www.leonebuyse.com/biography1,Official biography: Buyse studied in France with Michel Debost
+LG0145,FM045,Leone Buyse,student_of,Jean-Pierre Rampal,,https://www.leonebuyse.com/biography1,Official biography: Buyse studied in France with Jean-Pierre Rampal
+LG0146,FM045,Leone Buyse,student_of,Marcel Moyse,,https://www.leonebuyse.com/biography1,Official biography: Buyse studied in France with Marcel Moyse
+LG0147,FM046,Paula Robison,student_of,Julius Baker,,https://www.paularobison.com/about-paula,Official biography: Robison played for Julius Baker and entered Juilliard
+LG0148,FM046,Paula Robison,student_of,Marcel Moyse,,https://en.wikipedia.org/wiki/Paula_Robison,Biography summary: Robison studied during summers with Marcel Moyse at Marlboro
+LG0149,FM080,Jeffrey Khaner,student_of,Julius Baker,,https://www.curtis.edu/person/jeffrey-khaner/,Curtis profile: Khaner studied with Julius Baker at Juilliard
+LG0150,FM081,Mark Sparks,student_of,Julius Baker,,https://www.nyfluteclub.org/uploads/newsletters/2014-2015/14-December-Newsletter-final.pdf,New York Flute Club profile/interview: Sparks studied with Julius Baker
+LG0151,FM084,Alexa Still,student_of,Samuel Baron,,https://thefluteview.com/2022/12/alexa-still-artist-interview-2/,The Flute View interview: graduate studies in New York with Samuel Baron
+LG0152,FM084,Alexa Still,student_of,Thomas Nyfenger,,https://thefluteview.com/2022/12/alexa-still-artist-interview-2/,The Flute View interview: graduate studies in New York with Thomas Nyfenger
+LG0153,FM015,Leonardo De Lorenzo,student_of,Giacomo Nigro,,https://www.flutepage.de/deutsch/composer/person.php?englisch=true&id=16,Flutepage biography: early serious flute studies with Giacomo Nigro
+LG0154,FM015,Leonardo De Lorenzo,student,Julius Baker,,https://flutealmanac.com/leonardo-de-lorenzo-legacy/,Flute Almanac profile: De Lorenzo mentored Julius Baker at Eastman
+LG0155,FM040,Walfrid Kujala,student_of,Joseph Mariano,,https://www.music.northwestern.edu/news/2024/walfrid-kujala-1925-2024,Northwestern obituary: Kujala studied with Joseph Mariano at Eastman
+LG0156,FM048,Robert Aitken,student_of,Nicholas Fiore,,https://thecanadianencyclopedia.ca/en/article/robert-aitken-emc,Canadian Encyclopedia: Aitken studied with Nicholas Fiore at RCMT
+LG0157,FM048,Robert Aitken,student_of,Marcel Moyse,,https://www.thewholenote.com/index.php/newsroom/feature-stories/2389-multi-faceted-robert-aitken,The WholeNote profile: Aitken counts Marcel Moyse among his main teachers
+LG0158,FM049,Hubert Laws,student_of,Clement Barone,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/hubert-laws,NFA profile: Laws studied privately with Clement Barone
+LG0159,FM049,Hubert Laws,student_of,Julius Baker,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/hubert-laws,NFA profile: Laws studied with Julius Baker at Juilliard
+LG0160,FM052,Harvey Sollberger,influenced_by,Severino Gazzelloni,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/harvey-sollberger,NFA profile: Gazzelloni inspired Sollberger as a youth
+LG0161,FM055,Jim Walker,student_of,James Pellerite,,https://ijm.education/winds/woodwinds/flute/jim-walker/,International Journal of Music profile timeline: significant teacher James Pellerite
+LG0162,FM055,Jim Walker,student_of,Claude Monteux,,https://ijm.education/winds/woodwinds/flute/jim-walker/,International Journal of Music profile timeline: significant teacher Claude Monteux
+LG0163,FM056,Barthold Kuijken,student_of,Francis Stoefs,,https://theinstrumentalist.com/april-2015-flute-talk/early-music-a-conversation-with-barthold-kuijken/,Instrumentalist interview: Kuijken trained with Francis Stoefs at Brussels Conservatory
+LG0164,FM056,Barthold Kuijken,student_of,Frans Vester,,https://theinstrumentalist.com/april-2015-flute-talk/early-music-a-conversation-with-barthold-kuijken/,Instrumentalist interview: Kuijken studied with Frans Vester at The Hague
+LG0165,FM056,Barthold Kuijken,influenced_by,Frans Bruggen,,https://www.yourclassical.org/profile/barthold-kuijken,YourClassical profile: Kuijken studied at The Hague with Frans Bruggen
+LG0166,FM059,Wilbert Hazelzet,influenced_by,Kees Otten,,https://fr.wikipedia.org/wiki/Wilbert_Hazelzet,Biography summary: Hazelzet was encouraged by Kees Otten to begin baroque transverse flute
+LG0167,FM059,Wilbert Hazelzet,influenced_by,Frans Vester,,https://fr.wikipedia.org/wiki/Wilbert_Hazelzet,Biography summary: Hazelzet was encouraged by Frans Vester
+LG0168,FM059,Wilbert Hazelzet,influenced_by,Frans Bruggen,,https://fr.wikipedia.org/wiki/Wilbert_Hazelzet,Biography summary: Hazelzet was encouraged by Frans Bruggen
+LG0169,FM061,Lisa Beznosiuk,student_of,Stephen Preston,,https://www.gsmd.ac.uk/staff/lisa-beznosiuk-baroqueclassical-flute,Guildhall profile: Beznosiuk studied baroque and classical flutes with Stephen Preston
+LG0170,FM062,Claire Guimond,student_of,Barthold Kuijken,,https://tafelmusik.org/meet-tafelmusik/bios/claire-guimond/,Tafelmusik biography: Guimond studied baroque flute with Barthold Kuijken
+LG0171,FM067,Jacques Zoon,student_of,Koos Verheul,,https://www.hesge.ch/hem/en/la-hem/annuaire/jacques-zoon,HEM Geneve profile: Zoon studied with Koos Verheul
+LG0172,FM067,Jacques Zoon,student_of,Harrie Starreveld,,https://www.hesge.ch/hem/en/la-hem/annuaire/jacques-zoon,HEM Geneve profile: Zoon studied with Harrie Starreveld
+LG0173,FM067,Jacques Zoon,student_of,Geoffrey Gilbert,,https://www.hesge.ch/hem/en/la-hem/annuaire/jacques-zoon,HEM Geneve profile: Zoon studied at Banff with Geoffrey Gilbert
+LG0174,FM067,Jacques Zoon,student_of,András Adorján,,https://www.hesge.ch/hem/en/la-hem/annuaire/jacques-zoon,HEM Geneve profile: Zoon studied at Banff with Andras Adorjan
+LG0175,FM068,Marina Piccinini,student_of,Jeanne Baxtresser,,https://www.marinapiccinini.com/about,Official biography: Piccinini began studies in Toronto with Jeanne Baxtresser
+LG0176,FM068,Marina Piccinini,student_of,Julius Baker,,https://www.marinapiccinini.com/about,Official biography: Piccinini studied with Julius Baker at Juilliard
+LG0177,FM068,Marina Piccinini,student_of,Aurèle Nicolet,,https://www.marinapiccinini.com/about,Official biography: Piccinini worked with Aurele Nicolet
+LG0178,FM069,Sharon Bezaly,student_of,Maurice Bourgue,,https://www.jmc.org.il/en/sharon-bezaly/,Jerusalem Music Centre biography: Bezaly worked with Maurice Bourgue
+LG0179,FM069,Sharon Bezaly,student_of,Raymond Guiot,,https://www.jmc.org.il/en/sharon-bezaly/,Jerusalem Music Centre biography: Bezaly worked with Raymond Guiot
+LG0180,FM069,Sharon Bezaly,student_of,Alain Marion,,https://www.jmc.org.il/en/sharon-bezaly/,Jerusalem Music Centre biography: Bezaly worked with Alain Marion
+LG0181,FM069,Sharon Bezaly,student_of,Aurèle Nicolet,,https://www.jmc.org.il/en/sharon-bezaly/,Jerusalem Music Centre biography: Bezaly worked with Aurele Nicolet
+LG0182,FM070,Denis Bouriakov,student_of,William Bennett,,https://bouriakov.com/bio,Official biography: Bouriakov studied with William Bennett at the Royal Academy of Music
+LG0183,FM071,Andrea Lieberknecht,student_of,Paul Meisen,,https://www.floete.net/en/publications/flutists-worldwide/german-flutists/,DGfF German flutists page: Ausbildung with Paul Meisen
+LG0184,FM073,Emily Beynon,student_of,Margaret Ogonovsky,,https://emilybeynon.com/,Official biography: Beynon began flute studies with Margaret Ogonovsky
+LG0185,FM073,Emily Beynon,student_of,William Bennett,,https://emilybeynon.com/,Official biography: Beynon studied with William Bennett at the Royal Academy
+LG0186,FM073,Emily Beynon,student_of,Alain Marion,,https://emilybeynon.com/,Official biography: Beynon studied with Alain Marion in Paris
+LG0187,FM074,Susan Milan,student_of,John Francis,,https://www.rcm.ac.uk/woodwind/professors/details/?id=01356,Royal College of Music profile: Milan studied with John Francis
+LG0188,FM074,Susan Milan,student_of,Geoffrey Gilbert,,https://www.rcm.ac.uk/woodwind/professors/details/?id=01356,Royal College of Music profile: Milan studied with Geoffrey Gilbert
+LG0189,FM074,Susan Milan,student_of,Marcel Moyse,,https://www.rcm.ac.uk/woodwind/professors/details/?id=01356,Royal College of Music profile: Milan attended Marcel Moyse masterclasses
+LG0190,FM077,Adam Walker,student_of,Gitte Marcusson,,https://www.rcm.ac.uk/about/news/all/2017-11-01adamwalker.aspx,Royal College of Music news: Marcusson was Walker's former teacher
+LG0191,FM078,Lorna McGhee,student_of,David Nicholson,,https://woodwinds.tonebase.co/flute-artist-biographies/lornamcghee,tonebase biography: McGhee studied with David Nicholson
+LG0192,FM078,Lorna McGhee,student_of,Michie,,https://woodwinds.tonebase.co/flute-artist-biographies/lornamcghee,tonebase biography: McGhee studied with Michie at the Royal Academy of Music
+LG0193,FM078,Lorna McGhee,student_of,William Bennett,,https://woodwinds.tonebase.co/flute-artist-biographies/lornamcghee,tonebase biography: McGhee studied with William Bennett
+LG0194,FM085,Mary Karen Clardy,student,Gaspar Hoyos,,https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=osu1196186122&disposition=inline,OhioLINK dissertation on NFA commissioned works: Hoyos studied with Mary Karen Clardy at UNT
+LG0195,FM086,Patricia George,student_of,Frances Blaisdell,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/patricia-george,NFA profile: George studied with Frances Blaisdell
+LG0196,FM086,Patricia George,student_of,Joseph Mariano,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/patricia-george,NFA profile: George continued studies with Joseph Mariano
+LG0197,FM086,Patricia George,student_of,William Kincaid,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/patricia-george,NFA profile: George's summer study included William Kincaid
+LG0198,FM086,Patricia George,student_of,Julius Baker,,https://www.nfaonline.org/about/about-the-nfa/achievement-awards/patricia-george,NFA profile: George's summer study included Julius Baker
+LG0199,FM087,Linda Chesis,student_of,Jean-Pierre Rampal,,https://www.msmnyc.edu/faculty/linda-chesis/,Manhattan School of Music profile: Chesis pursued flute studies with Jean-Pierre Rampal at the Paris Conservatory
+LG0200,FM090,Alberto Almarza,student_of,Jeanne Baxtresser,,https://www.cmu.edu/cfa/music/people/Bios/almarza_alberto.html,Carnegie Mellon profile: Almarza studied with Jeanne Baxtresser
+LG0201,FM090,Alberto Almarza,student_of,Julius Baker,,https://www.cmu.edu/cfa/music/people/Bios/almarza_alberto.html,Carnegie Mellon profile: Almarza studied with Julius Baker at Carnegie Mellon
+LG0202,FM092,Shigenori Kudo,student_of,Jean-Pierre Rampal,,https://www.wmshaynes.com/shigenori-kudo,Haynes biography: Kudo completed musical education at the Conservatoire National de Paris with Jean-Pierre Rampal
+LG0203,FM092,Shigenori Kudo,student_of,Alain Marion,,https://aadl.org/sites/default/files/docfiles/programs_19881015e.pdf,Ann Arbor program biography: Kudo's teachers included Alain Marion
+LG0204,FM076,Gareth Davies,student,Camilla Marchant,,https://www.camillamarchant.com/about,Camilla Marchant biography: studied at the Royal College of Music with Gareth Davies
+LG0205,FM079,Paul Edmund-Davies,student,Julien Beaudiment,,https://www.beaudiment.com/about,Julien Beaudiment official biography: studied at Guildhall with Paul Edmund-Davies
+LG0206,FM094,Seiya Ueno,student,Rin Sakata,,https://cyasymphony.org/competition-program/,California Young Artists Symphony profile: Rin Sakata previously studied with Seiya Ueno
+LG0207,FM095,Yuki Koyama,student,Rin Sakata,,https://cyasymphony.org/competition-program/,California Young Artists Symphony profile: Rin Sakata previously studied with Yuki Koyama
