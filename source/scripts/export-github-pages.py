@@ -23,6 +23,7 @@ parser.add_argument('--output', required=True, type=Path)
 parser.add_argument('--preview', default='http://127.0.0.1:8031')
 parser.add_argument('--base', default='/flute-knowledge/')
 parser.add_argument('--origin', default='https://teabonvivant.github.io')
+parser.add_argument('--source-origin', default='')
 parser.add_argument('--node', default='node')
 args = parser.parse_args()
 out = args.output.resolve()
@@ -33,7 +34,7 @@ if not re.fullmatch(r'/[A-Za-z0-9_-]+/', args.base):
 out.mkdir(parents=True, exist_ok=True)
 base = args.base
 site_url = args.origin.rstrip('/') + base
-old_origin = 'https://flute-atlas-hk.teabonvivant.chatgpt.site'
+source_origin = args.source_origin.rstrip('/')
 read = lambda p: json.loads((ROOT / p).read_text(encoding='utf-8'))
 people = read('data/flute_masters_100.json')
 topics = read('data/generated/topics_30.json')
@@ -50,8 +51,8 @@ for slug, rows in sets.items():
     routes += ['/research/' + slug] + [f'/research/{slug}/{n}' for n in range(1, (len(rows) + 39) // 40 + 1)]
 
 def public_url(url):
-    if url.startswith(old_origin):
-        url = url[len(old_origin):] or '/'
+    if source_origin and url.startswith(source_origin):
+        url = url[len(source_origin):] or '/'
         return args.origin.rstrip('/') + public_url(url)
     if not url.startswith('/') or url.startswith('//') or url.startswith(base):
         return url
@@ -99,10 +100,10 @@ def fetch_route(route):
                 element.set(attr, public_url(element.get(attr)))
         if element.get('srcset'):
             element.set('srcset', ', '.join(' '.join([public_url(part.strip().split()[0]), *part.strip().split()[1:]]) for part in element.get('srcset').split(',')))
-        if element.tag == 'meta' and element.get('content', '').startswith(old_origin):
+        if source_origin and element.tag == 'meta' and element.get('content', '').startswith(source_origin):
             element.set('content', public_url(element.get('content')))
-        if element.tag == 'script' and element.text:
-            element.text = element.text.replace(old_origin, site_url.rstrip('/'))
+        if source_origin and element.tag == 'script' and element.text:
+            element.text = element.text.replace(source_origin, site_url.rstrip('/'))
     tree.set('data-site-base', base)
     tree.set('data-route', route)
     early = etree.Element('script')
@@ -138,57 +139,22 @@ for route in routes:
 # Keep rebuildable application source in the repository; never copy local state.
 source_dir = out / 'source'
 allowed = ['app', 'build', 'components', 'content', 'data', 'lib', 'public', 'scripts', 'types', 'worker']
-ignore = shutil.ignore_patterns('*.sqlite', '*.db', '*.tsbuildinfo', '*.log', '__pycache__', '.env*')
+ignore = shutil.ignore_patterns('*.sqlite', '*.db', '*.tsbuildinfo', '*.log', '__pycache__', '.env*', '*.webp.json', 'validation_report.md', 'robots.txt', 'sitemap.xml')
 for name in allowed:
     shutil.copytree(ROOT / name, source_dir / name, ignore=ignore)
-for name in ['.gitignore', 'components.json', 'DESIGN.md', 'next-env.d.ts', 'next.config.mjs', 'package-lock.json', 'package.json', 'postcss.config.mjs', 'PRODUCT.md', 'tailwind.config.ts', 'tsconfig.json', 'vite.config.ts']:
+for name in ['.gitignore', 'components.json', 'next-env.d.ts', 'next.config.mjs', 'package-lock.json', 'package.json', 'postcss.config.mjs', 'tailwind.config.ts', 'tsconfig.json', 'vite.config.ts']:
     shutil.copy2(ROOT / name, source_dir / name)
 (source_dir / '.openai').mkdir()
 shutil.copy2(ROOT / '.openai/hosting.json', source_dir / '.openai/hosting.json')
 (source_dir / 'requirements-pages.txt').write_text('lxml>=5,<7\n', encoding='utf-8')
-(out / 'README.md').write_text(f'''# 長笛知識館 · Flute Atlas
+(out / 'README.md').write_bytes(f'''# 長笛知識館 · Flute Atlas
 
-以繁體中文整理長笛學習、聆聽、人物及文化的公開知識網站。
+以香港繁體中文書寫，陪你從長笛入門、日常練習與聆聽，走到演奏家、樂器與音樂文化。
 
 **網站：[{site_url}]({site_url})**
 
-收錄 100 篇長笛誌、100 位人物、30 個知識主題，以及研究資料與下載檔案。
-網站採用紙色、明體與留白的閱讀設計，提供文章分類、全站搜尋、人物及主題篩選、手機選單和明暗閱讀模式。
-
-## 發佈方式
-
-GitHub Pages 從 `main` 分支根目錄直接發佈；`.nojekyll` 保留靜態資源路徑。
-根目錄為可直接瀏覽的 HTML、CSS、圖片、字型與 JavaScript；`source/` 保留可重建的原始應用程式。
-搜尋及篩選在瀏覽器內完成，毋須登入或另設伺服器。
-
-## 重建
-
-需要 Node.js 22.13 或以上，以及 Python 3.10 或以上。
-
-```sh
-cd source
-npm ci
-python -m pip install -r requirements-pages.txt
-npm run build
-npm run preview:built
-```
-
-保留預覽伺服器，在另一個終端執行：
-
-```sh
-cd source
-python scripts/export-github-pages.py --output ../../pages-export
-```
-
-匯出目錄必須為空。檢查匯出結果後，以其內容更新儲存庫根目錄並提交，保留 `.git`。
-可用 `--base` 與 `--origin` 指定其他 GitHub Pages 專案路徑；匯出器會同步更新頁面、圖片、字型、樣式、搜尋連結與網站地圖。
-
-## 版本與資料
-
-改版前的網站保留在 Git 歷史，以及 `archive/before-flute-atlas-20260923` 分支。
-原有文章、研究資料、圖像和下載內容保留於此版本；圖像來源紀錄隨原始檔案保存。
-各項研究連結及資料來源可在網站相應頁面查閱。
-''', encoding='utf-8')
+網站收錄長笛誌、演奏家檔案、知識主題、音樂詞彙及研究資源。你可以從一個練習問題開始，也可以沿着作品、人物與館藏資料繼續閱讀。
+'''.encode('utf-8'))
 manifest = {'pages': len(routes), 'site': site_url, 'files': {str(p.relative_to(out)).replace('\\', '/'): hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(out.rglob('*')) if p.is_file() and not p.is_relative_to(source_dir)}}
-(out / 'deployment-manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')
+(out / 'deployment-manifest.json').write_bytes((json.dumps(manifest, ensure_ascii=False, indent=2).replace('\n', '\r\n') + '\r\n').encode('utf-8'))
 print(json.dumps({'pages': len(routes), 'articles': len(articles), 'people': len(people), 'topics': len(topics), 'output': str(out)}, ensure_ascii=False), flush=True)

@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /search
-
-Sitemap: https://flute-atlas-hk.teabonvivant.chatgpt.site/sitemap.xml
